@@ -1,0 +1,1285 @@
+category,name,original_name,unit,period,Month,value,has_data
+Energy_Consumption,Coal 5A (DV),Coal/ Than 5A (DV),Ton,Jan,1,1233.522,1
+Energy_Consumption,Coal 4A.1 (DV),Coal/ Than 4A.1 (DV),Ton,Jan,1,443.0,1
+Energy_Consumption,Coal import coal (DV),Coal/ Than import coal (DV) (than nhập khẩu),Ton,Jan,1,0.0,1
+Energy_Consumption,Coal 5A under screen DV,Than cám qua sàng / Than 5A under screen DV,Ton,Jan,1,114.0,1
+Energy_Consumption,Coal 5A (YB),Coal/ Than 5A (YB),Ton,Jan,1,0.0,1
+Energy_Consumption,Coal 4A.1 (YB),Coal/ Than 4A.1 (YB),Ton,Jan,1,0.0,1
+Energy_Consumption,Coal import coal (YB),Coal/ Than import coal (YB) (than nhập khẩu),Ton,Jan,1,0.0,1
+Energy_Consumption,Coal 5A under screen YB,Than cám qua sàng / Than 5A under screen YB,Ton,Jan,1,0.0,1
+Energy_Consumption,Coal 5A (DV+YB),Coal/ Than 5A (DV+YB),Ton,Jan,1,1233.522,1
+Energy_Consumption,Coal 4A.1 (DV+YB),Coal/ Than 4A.1 (DV+YB),Ton,Jan,1,443.0,1
+Energy_Consumption,Coal import coal (DV+YB),Coal/ Than import coal (DV+YB),Ton,Jan,1,0.0,1
+Energy_Consumption,Coal  5A under screen  (DV+YB),Coal/ Than  5A under screen  (DV+YB),Ton,Jan,1,114.0,1
+Energy_Consumption,Total Coal DV,Total Coal DV,Ton,Jan,1,1790.522,1
+Energy_Consumption,Total Coal YB,Total Coal YB,Ton,Jan,1,0.0,1
+Energy_Consumption,Total Coal,Total Coal,Ton,Jan,1,1790.522,1
+Energy_Consumption,Coal heating value 5A,Coal heating value 5A (Nhiệt trị theo báo cáo gửi ban NL),cal/g,Jan,1,7350.0,1
+Energy_Consumption,Coal heating value 4A.1,Coal heating value 4A.1 (lấy theo nhiệt trị của ban NL),cal/g,Jan,1,5780.0,1
+Energy_Consumption,Coal heating value import coal,Coal heating value import coal (Nhiệt trị theo ban NL),cal/g,Jan,1,5520.0,1
+Energy_Consumption,Coal heating value5A under screen,Coal heating value5A under screen  (Nhiệt trị theo ban NL),cal/g,Jan,1,6810.0,1
+Energy_Consumption,Coal Heating Value average,Coal Heating Value average,cal/g,Jan,1,6927.179,1
+Energy_Consumption,Coal Gas (DV),Coal Gas (DV) (Nhiệt trị theo phiếu kiểm tra),Mcal,Jan,1,9228477.402,1
+Energy_Consumption,Coal Gas (YB),Coal Gas (YB) (Nhiệt trị theo phiếu kiểm tra),Mcal,Jan,1,0.0,0
+Energy_Consumption,Total Coal Gas,Total Coal Gas,Mcal,Jan,1,9228477.402,1
+Energy_Consumption,Lignite,Lignite/ Than non,Ton,Jan,1,0.0,0
+Energy_Consumption,Natural Gas,Natural Gas/ Khí gas tự nhiên,Ton,Jan,1,0.0,0
+Energy_Consumption,Co-generation (Heat),Co-generation (Heat)/ Đồng phát nhiệt điện,Ton,Jan,1,0.0,0
+Energy_Consumption,LPG for Process used (Station),LPG for Process used (Station)/ LPG dùng cho trạm (dùng cho lò nung),Ton,Jan,1,0.0,0
+Energy_Consumption,Heavy fuel oil / Bunker oil,Heavy fuel oil / Bunker oil/ Dầu nặng hoặc dàu chạy tàu,Ton,Jan,1,0.0,0
+Energy_Consumption,Diesel oil (Mobile),Diesel oil (Mobile) Dầu xe,Litre,Jan,1,15330.0,1
+Energy_Consumption,Gasoline,Gasoline (xăng bơm chữa cháy),Litre,Jan,1,0.0,1
+Energy_Consumption,Steam,Steam/ Hơi nước,Ton,Jan,1,0.0,0
+Energy_Consumption,Solid Biomass (DV),Solid Biomass (DV) (Củi+rác đốt là cây…+ Gỗ băm),Ton,Jan,1,2.446,1
+Energy_Consumption,Solid Biomass (YB),Solid Biomass (YB) (Củi+rác đốt),Ton,Jan,1,0.0,1
+Energy_Consumption,Total Solid Biomass,Total Solid Biomass,Ton,Jan,1,2.446,1
+Energy_Consumption,Solid Biomass heating Value,Solid Biomass heating Value (Nhiệt trị),cal/g,Jan,1,3000.0,1
+Energy_Consumption,Electricity,Electricity/ Điện (DV),MWh,Jan,1,1214.69,1
+Energy_Consumption,Electricity,Electricity/ Điện (YB),MWh,Jan,1,0.0,1
+Energy_Consumption,Total Electricity,Total Electricity,MWh,Jan,1,1214.69,1
+Energy_Consumption,Co-generation (Power),Co-generation (Power)/ Năng lượng đồng phát nhiệt điện,MWh,Jan,1,0.0,0
+Energy_Consumption,Solar Cell (Renewable Energy),Solar Cell (Renewable Energy)/ Năng lượng mặt trời,MWh,Jan,1,0.0,0
+Energy_Consumption,"Total Thermal Consumption-Coal, Biomass (DV)","Total Thermal Consumption-Coal, Biomass (DV)",GJ,Jan,1,52581.95,1
+Energy_Consumption,"Total Thermal Consumption-Coal, Biomass (YB)","Total Thermal Consumption-Coal, Biomass (YB)",GJ,Jan,1,0.0,1
+Energy_Consumption,"Total Thermal Consumption-Coal, Biomass","Total Thermal Consumption-Coal, Biomass",GJ,Jan,1,52581.95,1
+Energy_Consumption,Total Thermal Consumption-Coal Gas (DV),Total Thermal Consumption-Coal Gas (DV),GJ,Jan,1,39261.565,1
+Energy_Consumption,Total Thermal Consumption-Coal Gas (YB),Total Thermal Consumption-Coal Gas (YB),GJ,Jan,1,0.0,1
+Energy_Consumption,Total Thermal Consumption-Coal Gas,Total Thermal Consumption-Coal Gas,GJ,Jan,1,39261.565,1
+Energy_Consumption,Total Electrical Consumption (DV),Total Electrical Consumption (DV),GJ,Jan,1,4372.885,1
+Energy_Consumption,Total Electrical Consumption (YB),Total Electrical Consumption (YB),GJ,Jan,1,0.0,1
+Energy_Consumption,Total Electrical Consumption,Total Electrical Consumption,GJ,Jan,1,4372.885,1
+Energy_Consumption,Total Renewable Energy (DV),Total Renewable Energy (DV),GJ,Jan,1,30.717,1
+Energy_Consumption,Total Renewable Energy (YB),Total Renewable Energy (YB),GJ,Jan,1,0.0,1
+Energy_Consumption,Total Renewable Energy,Total Renewable Energy,GJ,Jan,1,30.717,1
+Energy_Consumption,"Total Energy Consumption-Coal, Biomass (DV)","Total Energy Consumption-Coal, Biomass (DV)",GJ,Jan,1,56954.835,1
+Energy_Consumption,"Total Energy Consumption-Coal, Biomass (YB)","Total Energy Consumption-Coal, Biomass (YB)",GJ,Jan,1,0.0,1
+Energy_Consumption,"Total Energy Consumption-Coal, Biomass","Total Energy Consumption-Coal, Biomass",GJ,Jan,1,56954.835,1
+Energy_Consumption,Total Energy Consumption-Coal Gas (DV),Total Energy Consumption-Coal Gas (DV),GJ,Jan,1,43634.45,1
+Energy_Consumption,Total Energy Consumption-Coal Gas (YB),Total Energy Consumption-Coal Gas (YB),GJ,Jan,1,0.0,1
+Energy_Consumption,Total Energy Consumption-Coal Gas,Total Energy Consumption-Coal Gas,GJ,Jan,1,43634.45,1
+Energy_Consumption,"Specific Energy Consumption-Coal, Biomass (DV)","Specific Energy Consumption-Coal, Biomass (DV)",GJ/ton,Jan,1,5.927,1
+Energy_Consumption,"Specific Energy Consumption-Coal, Biomass (YB)","Specific Energy Consumption-Coal, Biomass (YB)",GJ/ton,Jan,1,376.946,0
+Energy_Consumption,"Specific Energy Consumption-Coal, Biomass","Specific Energy Consumption-Coal, Biomass",GJ/ton,Jan,1,5.927,1
+Energy_Consumption,Specific Energy Consumption-Coal Gas (DV),Specific Energy Consumption-Coal Gas (DV),GJ/ton,Jan,1,4.541,1
+Energy_Consumption,Specific Energy Consumption-Coal Gas (YB),Specific Energy Consumption-Coal Gas (YB),GJ/ton,Jan,1,0.09,0
+Energy_Consumption,Specific Energy Consumption-Coal Gas,Specific Energy Consumption-Coal Gas,GJ/ton,Jan,1,4.541,1
+Energy_Consumption,Coal 5A (DV),Coal/ Than 5A (DV),Ton,Feb,2,983.0,1
+Energy_Consumption,Coal 4A.1 (DV),Coal/ Than 4A.1 (DV),Ton,Feb,2,251.25,1
+Energy_Consumption,Coal import coal (DV),Coal/ Than import coal (DV) (than nhập khẩu),Ton,Feb,2,92.48,1
+Energy_Consumption,Coal 5A under screen DV,Than cám qua sàng / Than 5A under screen DV,Ton,Feb,2,88.0,1
+Energy_Consumption,Coal 5A (YB),Coal/ Than 5A (YB),Ton,Feb,2,0.0,1
+Energy_Consumption,Coal 4A.1 (YB),Coal/ Than 4A.1 (YB),Ton,Feb,2,0.0,1
+Energy_Consumption,Coal import coal (YB),Coal/ Than import coal (YB) (than nhập khẩu),Ton,Feb,2,0.0,1
+Energy_Consumption,Coal 5A under screen YB,Than cám qua sàng / Than 5A under screen YB,Ton,Feb,2,0.0,1
+Energy_Consumption,Coal 5A (DV+YB),Coal/ Than 5A (DV+YB),Ton,Feb,2,983.0,1
+Energy_Consumption,Coal 4A.1 (DV+YB),Coal/ Than 4A.1 (DV+YB),Ton,Feb,2,251.25,1
+Energy_Consumption,Coal import coal (DV+YB),Coal/ Than import coal (DV+YB),Ton,Feb,2,92.48,1
+Energy_Consumption,Coal  5A under screen  (DV+YB),Coal/ Than  5A under screen  (DV+YB),Ton,Feb,2,88.0,1
+Energy_Consumption,Total Coal DV,Total Coal DV,Ton,Feb,2,1414.73,1
+Energy_Consumption,Total Coal YB,Total Coal YB,Ton,Feb,2,0.0,1
+Energy_Consumption,Total Coal,Total Coal,Ton,Feb,2,1414.73,1
+Energy_Consumption,Coal heating value 5A,Coal heating value 5A (Nhiệt trị theo báo cáo gửi ban NL),cal/g,Feb,2,7350.0,1
+Energy_Consumption,Coal heating value 4A.1,Coal heating value 4A.1 (lấy theo nhiệt trị của ban NL),cal/g,Feb,2,5780.0,1
+Energy_Consumption,Coal heating value import coal,Coal heating value import coal (Nhiệt trị theo ban NL),cal/g,Feb,2,5520.0,1
+Energy_Consumption,Coal heating value5A under screen,Coal heating value5A under screen  (Nhiệt trị theo ban NL),cal/g,Feb,2,6810.0,1
+Energy_Consumption,Coal Heating Value average,Coal Heating Value average,cal/g,Feb,2,6917.959,1
+Energy_Consumption,Coal Gas (DV),Coal Gas (DV) (Nhiệt trị theo phiếu kiểm tra),Mcal,Feb,2,4930580.023,1
+Energy_Consumption,Coal Gas (YB),Coal Gas (YB) (Nhiệt trị theo phiếu kiểm tra),Mcal,Feb,2,0.0,0
+Energy_Consumption,Total Coal Gas,Total Coal Gas,Mcal,Feb,2,4930580.023,1
+Energy_Consumption,Lignite,Lignite/ Than non,Ton,Feb,2,0.0,0
+Energy_Consumption,Natural Gas,Natural Gas/ Khí gas tự nhiên,Ton,Feb,2,0.0,0
+Energy_Consumption,Co-generation (Heat),Co-generation (Heat)/ Đồng phát nhiệt điện,Ton,Feb,2,0.0,0
+Energy_Consumption,LPG for Process used (Station),LPG for Process used (Station)/ LPG dùng cho trạm (dùng cho lò nung),Ton,Feb,2,0.0,0
+Energy_Consumption,Heavy fuel oil / Bunker oil,Heavy fuel oil / Bunker oil/ Dầu nặng hoặc dàu chạy tàu,Ton,Feb,2,0.0,0
+Energy_Consumption,Diesel oil (Mobile),Diesel oil (Mobile) Dầu xe,Litre,Feb,2,17932.0,1
+Energy_Consumption,Gasoline,Gasoline (xăng bơm chữa cháy),Litre,Feb,2,0.0,1
+Energy_Consumption,Steam,Steam/ Hơi nước,Ton,Feb,2,0.0,0
+Energy_Consumption,Solid Biomass (DV),Solid Biomass (DV) (Củi+rác đốt là cây…+ Gỗ băm),Ton,Feb,2,18.544,1
+Energy_Consumption,Solid Biomass (YB),Solid Biomass (YB) (Củi+rác đốt),Ton,Feb,2,0.0,1
+Energy_Consumption,Total Solid Biomass,Total Solid Biomass,Ton,Feb,2,18.544,1
+Energy_Consumption,Solid Biomass heating Value,Solid Biomass heating Value (Nhiệt trị),cal/g,Feb,2,3000.0,1
+Energy_Consumption,Electricity,Electricity/ Điện (DV),MWh,Feb,2,885.069,1
+Energy_Consumption,Electricity,Electricity/ Điện (YB),MWh,Feb,2,0.0,1
+Energy_Consumption,Total Electricity,Total Electricity,MWh,Feb,2,885.069,1
+Energy_Consumption,Co-generation (Power),Co-generation (Power)/ Năng lượng đồng phát nhiệt điện,MWh,Feb,2,0.0,0
+Energy_Consumption,Solar Cell (Renewable Energy),Solar Cell (Renewable Energy)/ Năng lượng mặt trời,MWh,Feb,2,0.0,0
+Energy_Consumption,"Total Thermal Consumption-Coal, Biomass (DV)","Total Thermal Consumption-Coal, Biomass (DV)",GJ,Feb,2,41854.528,1
+Energy_Consumption,"Total Thermal Consumption-Coal, Biomass (YB)","Total Thermal Consumption-Coal, Biomass (YB)",GJ,Feb,2,0.0,1
+Energy_Consumption,"Total Thermal Consumption-Coal, Biomass","Total Thermal Consumption-Coal, Biomass",GJ,Feb,2,41854.528,1
+Energy_Consumption,Total Thermal Consumption-Coal Gas (DV),Total Thermal Consumption-Coal Gas (DV),GJ,Feb,2,21292.491,1
+Energy_Consumption,Total Thermal Consumption-Coal Gas (YB),Total Thermal Consumption-Coal Gas (YB),GJ,Feb,2,0.0,1
+Energy_Consumption,Total Thermal Consumption-Coal Gas,Total Thermal Consumption-Coal Gas,GJ,Feb,2,21292.491,1
+Energy_Consumption,Total Electrical Consumption (DV),Total Electrical Consumption (DV),GJ,Feb,2,3186.248,1
+Energy_Consumption,Total Electrical Consumption (YB),Total Electrical Consumption (YB),GJ,Feb,2,0.0,1
+Energy_Consumption,Total Electrical Consumption,Total Electrical Consumption,GJ,Feb,2,3186.248,1
+Energy_Consumption,Total Renewable Energy (DV),Total Renewable Energy (DV),GJ,Feb,2,232.876,1
+Energy_Consumption,Total Renewable Energy (YB),Total Renewable Energy (YB),GJ,Feb,2,0.0,1
+Energy_Consumption,Total Renewable Energy,Total Renewable Energy,GJ,Feb,2,232.876,1
+Energy_Consumption,"Total Energy Consumption-Coal, Biomass (DV)","Total Energy Consumption-Coal, Biomass (DV)",GJ,Feb,2,45040.775,1
+Energy_Consumption,"Total Energy Consumption-Coal, Biomass (YB)","Total Energy Consumption-Coal, Biomass (YB)",GJ,Feb,2,0.0,1
+Energy_Consumption,"Total Energy Consumption-Coal, Biomass","Total Energy Consumption-Coal, Biomass",GJ,Feb,2,45040.775,1
+Energy_Consumption,Total Energy Consumption-Coal Gas (DV),Total Energy Consumption-Coal Gas (DV),GJ,Feb,2,24478.739,1
+Energy_Consumption,Total Energy Consumption-Coal Gas (YB),Total Energy Consumption-Coal Gas (YB),GJ,Feb,2,0.0,1
+Energy_Consumption,Total Energy Consumption-Coal Gas,Total Energy Consumption-Coal Gas,GJ,Feb,2,24478.739,1
+Energy_Consumption,"Specific Energy Consumption-Coal, Biomass (DV)","Specific Energy Consumption-Coal, Biomass (DV)",GJ/ton,Feb,2,7.138,1
+Energy_Consumption,"Specific Energy Consumption-Coal, Biomass (YB)","Specific Energy Consumption-Coal, Biomass (YB)",GJ/ton,Feb,2,376.946,0
+Energy_Consumption,"Specific Energy Consumption-Coal, Biomass","Specific Energy Consumption-Coal, Biomass",GJ/ton,Feb,2,7.138,1
+Energy_Consumption,Specific Energy Consumption-Coal Gas (DV),Specific Energy Consumption-Coal Gas (DV),GJ/ton,Feb,2,3.879,1
+Energy_Consumption,Specific Energy Consumption-Coal Gas (YB),Specific Energy Consumption-Coal Gas (YB),GJ/ton,Feb,2,0.09,0
+Energy_Consumption,Specific Energy Consumption-Coal Gas,Specific Energy Consumption-Coal Gas,GJ/ton,Feb,2,3.879,1
+Energy_Consumption,Coal 5A (DV),Coal/ Than 5A (DV),Ton,Mar,3,2414.661,1
+Energy_Consumption,Coal 4A.1 (DV),Coal/ Than 4A.1 (DV),Ton,Mar,3,543.069,1
+Energy_Consumption,Coal import coal (DV),Coal/ Than import coal (DV) (than nhập khẩu),Ton,Mar,3,430.117,1
+Energy_Consumption,Coal 5A under screen DV,Than cám qua sàng / Than 5A under screen DV,Ton,Mar,3,206.339,1
+Energy_Consumption,Coal 5A (YB),Coal/ Than 5A (YB),Ton,Mar,3,0.0,1
+Energy_Consumption,Coal 4A.1 (YB),Coal/ Than 4A.1 (YB),Ton,Mar,3,0.0,1
+Energy_Consumption,Coal import coal (YB),Coal/ Than import coal (YB) (than nhập khẩu),Ton,Mar,3,0.0,1
+Energy_Consumption,Coal 5A under screen YB,Than cám qua sàng / Than 5A under screen YB,Ton,Mar,3,0.0,1
+Energy_Consumption,Coal 5A (DV+YB),Coal/ Than 5A (DV+YB),Ton,Mar,3,2414.661,1
+Energy_Consumption,Coal 4A.1 (DV+YB),Coal/ Than 4A.1 (DV+YB),Ton,Mar,3,543.069,1
+Energy_Consumption,Coal import coal (DV+YB),Coal/ Than import coal (DV+YB),Ton,Mar,3,430.117,1
+Energy_Consumption,Coal  5A under screen  (DV+YB),Coal/ Than  5A under screen  (DV+YB),Ton,Mar,3,206.339,1
+Energy_Consumption,Total Coal DV,Total Coal DV,Ton,Mar,3,3594.186,1
+Energy_Consumption,Total Coal YB,Total Coal YB,Ton,Mar,3,0.0,1
+Energy_Consumption,Total Coal,Total Coal,Ton,Mar,3,3594.186,1
+Energy_Consumption,Coal heating value 5A,Coal heating value 5A (Nhiệt trị theo báo cáo gửi ban NL),cal/g,Mar,3,7350.0,1
+Energy_Consumption,Coal heating value 4A.1,Coal heating value 4A.1 (lấy theo nhiệt trị của ban NL),cal/g,Mar,3,5780.0,1
+Energy_Consumption,Coal heating value import coal,Coal heating value import coal (Nhiệt trị theo ban NL),cal/g,Mar,3,5520.0,1
+Energy_Consumption,Coal heating value5A under screen,Coal heating value5A under screen  (Nhiệt trị theo ban NL),cal/g,Mar,3,6810.0,1
+Energy_Consumption,Coal Heating Value average,Coal Heating Value average,cal/g,Mar,3,6862.781,1
+Energy_Consumption,Coal Gas (DV),Coal Gas (DV) (Nhiệt trị theo phiếu kiểm tra),Mcal,Mar,3,18233956.122,1
+Energy_Consumption,Coal Gas (YB),Coal Gas (YB) (Nhiệt trị theo phiếu kiểm tra),Mcal,Mar,3,0.0,0
+Energy_Consumption,Total Coal Gas,Total Coal Gas,Mcal,Mar,3,18233956.122,1
+Energy_Consumption,Lignite,Lignite/ Than non,Ton,Mar,3,0.0,0
+Energy_Consumption,Natural Gas,Natural Gas/ Khí gas tự nhiên,Ton,Mar,3,0.0,0
+Energy_Consumption,Co-generation (Heat),Co-generation (Heat)/ Đồng phát nhiệt điện,Ton,Mar,3,0.0,0
+Energy_Consumption,LPG for Process used (Station),LPG for Process used (Station)/ LPG dùng cho trạm (dùng cho lò nung),Ton,Mar,3,0.0,0
+Energy_Consumption,Heavy fuel oil / Bunker oil,Heavy fuel oil / Bunker oil/ Dầu nặng hoặc dàu chạy tàu,Ton,Mar,3,0.0,0
+Energy_Consumption,Diesel oil (Mobile),Diesel oil (Mobile) Dầu xe,Litre,Mar,3,26113.0,1
+Energy_Consumption,Gasoline,Gasoline (xăng bơm chữa cháy),Litre,Mar,3,0.0,1
+Energy_Consumption,Steam,Steam/ Hơi nước,Ton,Mar,3,0.0,0
+Energy_Consumption,Solid Biomass (DV),Solid Biomass (DV) (Củi+rác đốt là cây…+ Gỗ băm),Ton,Mar,3,29.067,1
+Energy_Consumption,Solid Biomass (YB),Solid Biomass (YB) (Củi+rác đốt),Ton,Mar,3,0.0,1
+Energy_Consumption,Total Solid Biomass,Total Solid Biomass,Ton,Mar,3,29.067,1
+Energy_Consumption,Solid Biomass heating Value,Solid Biomass heating Value (Nhiệt trị),cal/g,Mar,3,3000.0,1
+Energy_Consumption,Electricity,Electricity/ Điện (DV),MWh,Mar,3,2076.957,1
+Energy_Consumption,Electricity,Electricity/ Điện (YB),MWh,Mar,3,0.0,1
+Energy_Consumption,Total Electricity,Total Electricity,MWh,Mar,3,2076.957,1
+Energy_Consumption,Co-generation (Power),Co-generation (Power)/ Năng lượng đồng phát nhiệt điện,MWh,Mar,3,0.0,0
+Energy_Consumption,Solar Cell (Renewable Energy),Solar Cell (Renewable Energy)/ Năng lượng mặt trời,MWh,Mar,3,0.0,0
+Energy_Consumption,"Total Thermal Consumption-Coal, Biomass (DV)","Total Thermal Consumption-Coal, Biomass (DV)",GJ,Mar,3,104768.712,1
+Energy_Consumption,"Total Thermal Consumption-Coal, Biomass (YB)","Total Thermal Consumption-Coal, Biomass (YB)",GJ,Mar,3,0.0,1
+Energy_Consumption,"Total Thermal Consumption-Coal, Biomass","Total Thermal Consumption-Coal, Biomass",GJ,Mar,3,104768.712,1
+Energy_Consumption,Total Thermal Consumption-Coal Gas (DV),Total Thermal Consumption-Coal Gas (DV),GJ,Mar,3,77478.686,1
+Energy_Consumption,Total Thermal Consumption-Coal Gas (YB),Total Thermal Consumption-Coal Gas (YB),GJ,Mar,3,0.0,1
+Energy_Consumption,Total Thermal Consumption-Coal Gas,Total Thermal Consumption-Coal Gas,GJ,Mar,3,77478.686,1
+Energy_Consumption,Total Electrical Consumption (DV),Total Electrical Consumption (DV),GJ,Mar,3,7477.044,1
+Energy_Consumption,Total Electrical Consumption (YB),Total Electrical Consumption (YB),GJ,Mar,3,0.0,1
+Energy_Consumption,Total Electrical Consumption,Total Electrical Consumption,GJ,Mar,3,7477.044,1
+Energy_Consumption,Total Renewable Energy (DV),Total Renewable Energy (DV),GJ,Mar,3,365.023,1
+Energy_Consumption,Total Renewable Energy (YB),Total Renewable Energy (YB),GJ,Mar,3,0.0,1
+Energy_Consumption,Total Renewable Energy,Total Renewable Energy,GJ,Mar,3,365.023,1
+Energy_Consumption,"Total Energy Consumption-Coal, Biomass (DV)","Total Energy Consumption-Coal, Biomass (DV)",GJ,Mar,3,112245.756,1
+Energy_Consumption,"Total Energy Consumption-Coal, Biomass (YB)","Total Energy Consumption-Coal, Biomass (YB)",GJ,Mar,3,0.0,1
+Energy_Consumption,"Total Energy Consumption-Coal, Biomass","Total Energy Consumption-Coal, Biomass",GJ,Mar,3,112245.756,1
+Energy_Consumption,Total Energy Consumption-Coal Gas (DV),Total Energy Consumption-Coal Gas (DV),GJ,Mar,3,84955.73,1
+Energy_Consumption,Total Energy Consumption-Coal Gas (YB),Total Energy Consumption-Coal Gas (YB),GJ,Mar,3,0.0,1
+Energy_Consumption,Total Energy Consumption-Coal Gas,Total Energy Consumption-Coal Gas,GJ,Mar,3,84955.73,1
+Energy_Consumption,"Specific Energy Consumption-Coal, Biomass (DV)","Specific Energy Consumption-Coal, Biomass (DV)",GJ/ton,Mar,3,6.33,1
+Energy_Consumption,"Specific Energy Consumption-Coal, Biomass (YB)","Specific Energy Consumption-Coal, Biomass (YB)",GJ/ton,Mar,3,376.946,0
+Energy_Consumption,"Specific Energy Consumption-Coal, Biomass","Specific Energy Consumption-Coal, Biomass",GJ/ton,Mar,3,6.33,1
+Energy_Consumption,Specific Energy Consumption-Coal Gas (DV),Specific Energy Consumption-Coal Gas (DV),GJ/ton,Mar,3,4.791,1
+Energy_Consumption,Specific Energy Consumption-Coal Gas (YB),Specific Energy Consumption-Coal Gas (YB),GJ/ton,Mar,3,0.09,0
+Energy_Consumption,Specific Energy Consumption-Coal Gas,Specific Energy Consumption-Coal Gas,GJ/ton,Mar,3,4.791,1
+Energy_Consumption,Coal 5A (DV),Coal/ Than 5A (DV),Ton,Apr,4,2198.795,1
+Energy_Consumption,Coal 4A.1 (DV),Coal/ Than 4A.1 (DV),Ton,Apr,4,88.335,1
+Energy_Consumption,Coal import coal (DV),Coal/ Than import coal (DV) (than nhập khẩu),Ton,Apr,4,722.734,1
+Energy_Consumption,Coal 5A under screen DV,Than cám qua sàng / Than 5A under screen DV,Ton,Apr,4,209.205,1
+Energy_Consumption,Coal 5A (YB),Coal/ Than 5A (YB),Ton,Apr,4,0.0,0
+Energy_Consumption,Coal 4A.1 (YB),Coal/ Than 4A.1 (YB),Ton,Apr,4,0.0,0
+Energy_Consumption,Coal import coal (YB),Coal/ Than import coal (YB) (than nhập khẩu),Ton,Apr,4,0.0,0
+Energy_Consumption,Coal 5A under screen YB,Than cám qua sàng / Than 5A under screen YB,Ton,Apr,4,0.0,0
+Energy_Consumption,Coal 5A (DV+YB),Coal/ Than 5A (DV+YB),Ton,Apr,4,2198.795,1
+Energy_Consumption,Coal 4A.1 (DV+YB),Coal/ Than 4A.1 (DV+YB),Ton,Apr,4,88.335,1
+Energy_Consumption,Coal import coal (DV+YB),Coal/ Than import coal (DV+YB),Ton,Apr,4,722.734,1
+Energy_Consumption,Coal  5A under screen  (DV+YB),Coal/ Than  5A under screen  (DV+YB),Ton,Apr,4,209.205,1
+Energy_Consumption,Total Coal DV,Total Coal DV,Ton,Apr,4,3219.069,1
+Energy_Consumption,Total Coal YB,Total Coal YB,Ton,Apr,4,0.0,1
+Energy_Consumption,Total Coal,Total Coal,Ton,Apr,4,3219.069,1
+Energy_Consumption,Coal heating value 5A,Coal heating value 5A (Nhiệt trị theo báo cáo gửi ban NL),cal/g,Apr,4,7350.0,1
+Energy_Consumption,Coal heating value 4A.1,Coal heating value 4A.1 (lấy theo nhiệt trị của ban NL),cal/g,Apr,4,5780.0,1
+Energy_Consumption,Coal heating value import coal,Coal heating value import coal (Nhiệt trị theo ban NL),cal/g,Apr,4,5520.0,1
+Energy_Consumption,Coal heating value5A under screen,Coal heating value5A under screen  (Nhiệt trị theo ban NL),cal/g,Apr,4,6810.0,1
+Energy_Consumption,Coal Heating Value average,Coal Heating Value average,cal/g,Apr,4,6860.958,1
+Energy_Consumption,Coal Gas (DV),Coal Gas (DV) (Nhiệt trị theo phiếu kiểm tra),Mcal,Apr,4,16498636.969,1
+Energy_Consumption,Coal Gas (YB),Coal Gas (YB) (Nhiệt trị theo phiếu kiểm tra),Mcal,Apr,4,0.0,0
+Energy_Consumption,Total Coal Gas,Total Coal Gas,Mcal,Apr,4,16498636.969,1
+Energy_Consumption,Lignite,Lignite/ Than non,Ton,Apr,4,0.0,0
+Energy_Consumption,Natural Gas,Natural Gas/ Khí gas tự nhiên,Ton,Apr,4,0.0,0
+Energy_Consumption,Co-generation (Heat),Co-generation (Heat)/ Đồng phát nhiệt điện,Ton,Apr,4,0.0,0
+Energy_Consumption,LPG for Process used (Station),LPG for Process used (Station)/ LPG dùng cho trạm (dùng cho lò nung),Ton,Apr,4,0.0,0
+Energy_Consumption,Heavy fuel oil / Bunker oil,Heavy fuel oil / Bunker oil/ Dầu nặng hoặc dàu chạy tàu,Ton,Apr,4,0.0,0
+Energy_Consumption,Diesel oil (Mobile),Diesel oil (Mobile) Dầu xe,Litre,Apr,4,23200.0,1
+Energy_Consumption,Gasoline,Gasoline (xăng bơm chữa cháy),Litre,Apr,4,0.0,1
+Energy_Consumption,Steam,Steam/ Hơi nước,Ton,Apr,4,0.0,0
+Energy_Consumption,Solid Biomass (DV),Solid Biomass (DV) (Củi+rác đốt là cây…+ Gỗ băm),Ton,Apr,4,31.936,1
+Energy_Consumption,Solid Biomass (YB),Solid Biomass (YB) (Củi+rác đốt),Ton,Apr,4,0.0,1
+Energy_Consumption,Total Solid Biomass,Total Solid Biomass,Ton,Apr,4,31.936,1
+Energy_Consumption,Solid Biomass heating Value,Solid Biomass heating Value (Nhiệt trị),cal/g,Apr,4,3000.0,1
+Energy_Consumption,Electricity,Electricity/ Điện (DV),MWh,Apr,4,1968.71,1
+Energy_Consumption,Electricity,Electricity/ Điện (YB),MWh,Apr,4,0.0,1
+Energy_Consumption,Total Electricity,Total Electricity,MWh,Apr,4,1968.71,1
+Energy_Consumption,Co-generation (Power),Co-generation (Power)/ Năng lượng đồng phát nhiệt điện,MWh,Apr,4,0.0,0
+Energy_Consumption,Solar Cell (Renewable Energy),Solar Cell (Renewable Energy)/ Năng lượng mặt trời,MWh,Apr,4,0.0,0
+Energy_Consumption,"Total Thermal Consumption-Coal, Biomass (DV)","Total Thermal Consumption-Coal, Biomass (DV)",GJ,Apr,4,93770.402,1
+Energy_Consumption,"Total Thermal Consumption-Coal, Biomass (YB)","Total Thermal Consumption-Coal, Biomass (YB)",GJ,Apr,4,0.0,1
+Energy_Consumption,"Total Thermal Consumption-Coal, Biomass","Total Thermal Consumption-Coal, Biomass",GJ,Apr,4,93770.402,1
+Energy_Consumption,Total Thermal Consumption-Coal Gas (DV),Total Thermal Consumption-Coal Gas (DV),GJ,Apr,4,69981.078,1
+Energy_Consumption,Total Thermal Consumption-Coal Gas (YB),Total Thermal Consumption-Coal Gas (YB),GJ,Apr,4,0.0,1
+Energy_Consumption,Total Thermal Consumption-Coal Gas,Total Thermal Consumption-Coal Gas,GJ,Apr,4,69981.078,1
+Energy_Consumption,Total Electrical Consumption (DV),Total Electrical Consumption (DV),GJ,Apr,4,7087.355,1
+Energy_Consumption,Total Electrical Consumption (YB),Total Electrical Consumption (YB),GJ,Apr,4,0.0,1
+Energy_Consumption,Total Electrical Consumption,Total Electrical Consumption,GJ,Apr,4,7087.355,1
+Energy_Consumption,Total Renewable Energy (DV),Total Renewable Energy (DV),GJ,Apr,4,401.052,1
+Energy_Consumption,Total Renewable Energy (YB),Total Renewable Energy (YB),GJ,Apr,4,0.0,1
+Energy_Consumption,Total Renewable Energy,Total Renewable Energy,GJ,Apr,4,401.052,1
+Energy_Consumption,"Total Energy Consumption-Coal, Biomass (DV)","Total Energy Consumption-Coal, Biomass (DV)",GJ,Apr,4,100857.757,1
+Energy_Consumption,"Total Energy Consumption-Coal, Biomass (YB)","Total Energy Consumption-Coal, Biomass (YB)",GJ,Apr,4,0.0,1
+Energy_Consumption,"Total Energy Consumption-Coal, Biomass","Total Energy Consumption-Coal, Biomass",GJ,Apr,4,100857.757,1
+Energy_Consumption,Total Energy Consumption-Coal Gas (DV),Total Energy Consumption-Coal Gas (DV),GJ,Apr,4,77068.433,1
+Energy_Consumption,Total Energy Consumption-Coal Gas (YB),Total Energy Consumption-Coal Gas (YB),GJ,Apr,4,0.0,1
+Energy_Consumption,Total Energy Consumption-Coal Gas,Total Energy Consumption-Coal Gas,GJ,Apr,4,77068.433,1
+Energy_Consumption,"Specific Energy Consumption-Coal, Biomass (DV)","Specific Energy Consumption-Coal, Biomass (DV)",GJ/ton,Apr,4,6.385,1
+Energy_Consumption,"Specific Energy Consumption-Coal, Biomass (YB)","Specific Energy Consumption-Coal, Biomass (YB)",GJ/ton,Apr,4,376.946,0
+Energy_Consumption,"Specific Energy Consumption-Coal, Biomass","Specific Energy Consumption-Coal, Biomass",GJ/ton,Apr,4,6.385,1
+Energy_Consumption,Specific Energy Consumption-Coal Gas (DV),Specific Energy Consumption-Coal Gas (DV),GJ/ton,Apr,4,4.879,1
+Energy_Consumption,Specific Energy Consumption-Coal Gas (YB),Specific Energy Consumption-Coal Gas (YB),GJ/ton,Apr,4,0.09,0
+Energy_Consumption,Specific Energy Consumption-Coal Gas,Specific Energy Consumption-Coal Gas,GJ/ton,Apr,4,4.879,1
+Energy_Consumption,Coal 5A (DV),Coal/ Than 5A (DV),Ton,May,5,2197.301,1
+Energy_Consumption,Coal 4A.1 (DV),Coal/ Than 4A.1 (DV),Ton,May,5,774.19,1
+Energy_Consumption,Coal import coal (DV),Coal/ Than import coal (DV) (than nhập khẩu),Ton,May,5,0.0,1
+Energy_Consumption,Coal 5A under screen DV,Than cám qua sàng / Than 5A under screen DV,Ton,May,5,204.699,1
+Energy_Consumption,Coal 5A (YB),Coal/ Than 5A (YB),Ton,May,5,0.0,0
+Energy_Consumption,Coal 4A.1 (YB),Coal/ Than 4A.1 (YB),Ton,May,5,0.0,0
+Energy_Consumption,Coal import coal (YB),Coal/ Than import coal (YB) (than nhập khẩu),Ton,May,5,0.0,0
+Energy_Consumption,Coal 5A under screen YB,Than cám qua sàng / Than 5A under screen YB,Ton,May,5,0.0,0
+Energy_Consumption,Coal 5A (DV+YB),Coal/ Than 5A (DV+YB),Ton,May,5,2197.301,1
+Energy_Consumption,Coal 4A.1 (DV+YB),Coal/ Than 4A.1 (DV+YB),Ton,May,5,774.19,1
+Energy_Consumption,Coal import coal (DV+YB),Coal/ Than import coal (DV+YB),Ton,May,5,0.0,1
+Energy_Consumption,Coal  5A under screen  (DV+YB),Coal/ Than  5A under screen  (DV+YB),Ton,May,5,204.699,1
+Energy_Consumption,Total Coal DV,Total Coal DV,Ton,May,5,3176.19,1
+Energy_Consumption,Total Coal YB,Total Coal YB,Ton,May,5,0.0,1
+Energy_Consumption,Total Coal,Total Coal,Ton,May,5,3176.19,1
+Energy_Consumption,Coal heating value 5A,Coal heating value 5A (Nhiệt trị theo báo cáo gửi ban NL),cal/g,May,5,7350.0,1
+Energy_Consumption,Coal heating value 4A.1,Coal heating value 4A.1 (lấy theo nhiệt trị của ban NL),cal/g,May,5,5780.0,1
+Energy_Consumption,Coal heating value import coal,Coal heating value import coal (Nhiệt trị theo ban NL),cal/g,May,5,5520.0,1
+Energy_Consumption,Coal heating value5A under screen,Coal heating value5A under screen  (Nhiệt trị theo ban NL),cal/g,May,5,6810.0,1
+Energy_Consumption,Coal Heating Value average,Coal Heating Value average,cal/g,May,5,6932.514,1
+Energy_Consumption,Coal Gas (DV),Coal Gas (DV) (Nhiệt trị theo phiếu kiểm tra),Mcal,May,5,15879436.249,1
+Energy_Consumption,Coal Gas (YB),Coal Gas (YB) (Nhiệt trị theo phiếu kiểm tra),Mcal,May,5,0.0,0
+Energy_Consumption,Total Coal Gas,Total Coal Gas,Mcal,May,5,15879436.249,1
+Energy_Consumption,Lignite,Lignite/ Than non,Ton,May,5,0.0,0
+Energy_Consumption,Natural Gas,Natural Gas/ Khí gas tự nhiên,Ton,May,5,0.0,0
+Energy_Consumption,Co-generation (Heat),Co-generation (Heat)/ Đồng phát nhiệt điện,Ton,May,5,0.0,0
+Energy_Consumption,LPG for Process used (Station),LPG for Process used (Station)/ LPG dùng cho trạm (dùng cho lò nung),Ton,May,5,0.0,0
+Energy_Consumption,Heavy fuel oil / Bunker oil,Heavy fuel oil / Bunker oil/ Dầu nặng hoặc dàu chạy tàu,Ton,May,5,0.0,0
+Energy_Consumption,Diesel oil (Mobile),Diesel oil (Mobile) Dầu xe,Litre,May,5,27582.0,1
+Energy_Consumption,Gasoline,Gasoline (xăng bơm chữa cháy),Litre,May,5,0.0,1
+Energy_Consumption,Steam,Steam/ Hơi nước,Ton,May,5,0.0,0
+Energy_Consumption,Solid Biomass (DV),Solid Biomass (DV) (Củi+rác đốt là cây…+ Gỗ băm),Ton,May,5,27.452,1
+Energy_Consumption,Solid Biomass (YB),Solid Biomass (YB) (Củi+rác đốt),Ton,May,5,0.0,1
+Energy_Consumption,Total Solid Biomass,Total Solid Biomass,Ton,May,5,27.452,1
+Energy_Consumption,Solid Biomass heating Value,Solid Biomass heating Value (Nhiệt trị),cal/g,May,5,3000.0,1
+Energy_Consumption,Electricity,Electricity/ Điện (DV),MWh,May,5,2088.979,1
+Energy_Consumption,Electricity,Electricity/ Điện (YB),MWh,May,5,0.0,1
+Energy_Consumption,Total Electricity,Total Electricity,MWh,May,5,2088.979,1
+Energy_Consumption,Co-generation (Power),Co-generation (Power)/ Năng lượng đồng phát nhiệt điện,MWh,May,5,0.0,0
+Energy_Consumption,Solar Cell (Renewable Energy),Solar Cell (Renewable Energy)/ Năng lượng mặt trời,MWh,May,5,0.0,0
+Energy_Consumption,"Total Thermal Consumption-Coal, Biomass (DV)","Total Thermal Consumption-Coal, Biomass (DV)",GJ,May,5,93520.732,1
+Energy_Consumption,"Total Thermal Consumption-Coal, Biomass (YB)","Total Thermal Consumption-Coal, Biomass (YB)",GJ,May,5,0.0,1
+Energy_Consumption,"Total Thermal Consumption-Coal, Biomass","Total Thermal Consumption-Coal, Biomass",GJ,May,5,93520.732,1
+Energy_Consumption,Total Thermal Consumption-Coal Gas (DV),Total Thermal Consumption-Coal Gas (DV),GJ,May,5,67475.857,1
+Energy_Consumption,Total Thermal Consumption-Coal Gas (YB),Total Thermal Consumption-Coal Gas (YB),GJ,May,5,0.0,1
+Energy_Consumption,Total Thermal Consumption-Coal Gas,Total Thermal Consumption-Coal Gas,GJ,May,5,67475.857,1
+Energy_Consumption,Total Electrical Consumption (DV),Total Electrical Consumption (DV),GJ,May,5,7520.325,1
+Energy_Consumption,Total Electrical Consumption (YB),Total Electrical Consumption (YB),GJ,May,5,0.0,1
+Energy_Consumption,Total Electrical Consumption,Total Electrical Consumption,GJ,May,5,7520.325,1
+Energy_Consumption,Total Renewable Energy (DV),Total Renewable Energy (DV),GJ,May,5,344.742,1
+Energy_Consumption,Total Renewable Energy (YB),Total Renewable Energy (YB),GJ,May,5,0.0,1
+Energy_Consumption,Total Renewable Energy,Total Renewable Energy,GJ,May,5,344.742,1
+Energy_Consumption,"Total Energy Consumption-Coal, Biomass (DV)","Total Energy Consumption-Coal, Biomass (DV)",GJ,May,5,101041.057,1
+Energy_Consumption,"Total Energy Consumption-Coal, Biomass (YB)","Total Energy Consumption-Coal, Biomass (YB)",GJ,May,5,0.0,1
+Energy_Consumption,"Total Energy Consumption-Coal, Biomass","Total Energy Consumption-Coal, Biomass",GJ,May,5,101041.057,1
+Energy_Consumption,Total Energy Consumption-Coal Gas (DV),Total Energy Consumption-Coal Gas (DV),GJ,May,5,74996.182,1
+Energy_Consumption,Total Energy Consumption-Coal Gas (YB),Total Energy Consumption-Coal Gas (YB),GJ,May,5,0.0,1
+Energy_Consumption,Total Energy Consumption-Coal Gas,Total Energy Consumption-Coal Gas,GJ,May,5,74996.182,1
+Energy_Consumption,"Specific Energy Consumption-Coal, Biomass (DV)","Specific Energy Consumption-Coal, Biomass (DV)",GJ/ton,May,5,6.279,1
+Energy_Consumption,"Specific Energy Consumption-Coal, Biomass (YB)","Specific Energy Consumption-Coal, Biomass (YB)",GJ/ton,May,5,376.946,0
+Energy_Consumption,"Specific Energy Consumption-Coal, Biomass","Specific Energy Consumption-Coal, Biomass",GJ/ton,May,5,6.279,1
+Energy_Consumption,Specific Energy Consumption-Coal Gas (DV),Specific Energy Consumption-Coal Gas (DV),GJ/ton,May,5,4.661,1
+Energy_Consumption,Specific Energy Consumption-Coal Gas (YB),Specific Energy Consumption-Coal Gas (YB),GJ/ton,May,5,0.09,0
+Energy_Consumption,Specific Energy Consumption-Coal Gas,Specific Energy Consumption-Coal Gas,GJ/ton,May,5,4.661,1
+Energy_Consumption,Coal 5A (DV),Coal/ Than 5A (DV),Ton,Jun,6,2170.99,1
+Energy_Consumption,Coal 4A.1 (DV),Coal/ Than 4A.1 (DV),Ton,Jun,6,319.418,1
+Energy_Consumption,Coal import coal (DV),Coal/ Than import coal (DV) (than nhập khẩu),Ton,Jun,6,434.63,1
+Energy_Consumption,Coal 5A under screen DV,Than cám qua sàng / Than 5A under screen DV,Ton,Jun,6,201.01,1
+Energy_Consumption,Coal 5A (YB),Coal/ Than 5A (YB),Ton,Jun,6,0.0,0
+Energy_Consumption,Coal 4A.1 (YB),Coal/ Than 4A.1 (YB),Ton,Jun,6,0.0,0
+Energy_Consumption,Coal import coal (YB),Coal/ Than import coal (YB) (than nhập khẩu),Ton,Jun,6,0.0,0
+Energy_Consumption,Coal 5A under screen YB,Than cám qua sàng / Than 5A under screen YB,Ton,Jun,6,0.0,0
+Energy_Consumption,Coal 5A (DV+YB),Coal/ Than 5A (DV+YB),Ton,Jun,6,2170.99,1
+Energy_Consumption,Coal 4A.1 (DV+YB),Coal/ Than 4A.1 (DV+YB),Ton,Jun,6,319.418,1
+Energy_Consumption,Coal import coal (DV+YB),Coal/ Than import coal (DV+YB),Ton,Jun,6,434.63,1
+Energy_Consumption,Coal  5A under screen  (DV+YB),Coal/ Than  5A under screen  (DV+YB),Ton,Jun,6,201.01,1
+Energy_Consumption,Total Coal DV,Total Coal DV,Ton,Jun,6,3126.048,1
+Energy_Consumption,Total Coal YB,Total Coal YB,Ton,Jun,6,0.0,1
+Energy_Consumption,Total Coal,Total Coal,Ton,Jun,6,3126.048,1
+Energy_Consumption,Coal heating value 5A,Coal heating value 5A (Nhiệt trị theo báo cáo gửi ban NL),cal/g,Jun,6,7350.0,1
+Energy_Consumption,Coal heating value 4A.1,Coal heating value 4A.1 (lấy theo nhiệt trị của ban NL),cal/g,Jun,6,5780.0,1
+Energy_Consumption,Coal heating value import coal,Coal heating value import coal (Nhiệt trị theo ban NL),cal/g,Jun,6,5520.0,1
+Energy_Consumption,Coal heating value5A under screen,Coal heating value5A under screen  (Nhiệt trị theo ban NL),cal/g,Jun,6,6810.0,1
+Energy_Consumption,Coal Heating Value average,Coal Heating Value average,cal/g,Jun,6,6900.421,1
+Energy_Consumption,Coal Gas (DV),Coal Gas (DV) (Nhiệt trị theo phiếu kiểm tra),Mcal,Jun,6,16129496.023,1
+Energy_Consumption,Coal Gas (YB),Coal Gas (YB) (Nhiệt trị theo phiếu kiểm tra),Mcal,Jun,6,0.0,0
+Energy_Consumption,Total Coal Gas,Total Coal Gas,Mcal,Jun,6,16129496.023,1
+Energy_Consumption,Lignite,Lignite/ Than non,Ton,Jun,6,0.0,0
+Energy_Consumption,Natural Gas,Natural Gas/ Khí gas tự nhiên,Ton,Jun,6,0.0,0
+Energy_Consumption,Co-generation (Heat),Co-generation (Heat)/ Đồng phát nhiệt điện,Ton,Jun,6,0.0,0
+Energy_Consumption,LPG for Process used (Station),LPG for Process used (Station)/ LPG dùng cho trạm (dùng cho lò nung),Ton,Jun,6,0.0,0
+Energy_Consumption,Heavy fuel oil / Bunker oil,Heavy fuel oil / Bunker oil/ Dầu nặng hoặc dàu chạy tàu,Ton,Jun,6,0.0,0
+Energy_Consumption,Diesel oil (Mobile),Diesel oil (Mobile) Dầu xe,Litre,Jun,6,25780.0,1
+Energy_Consumption,Gasoline,Gasoline (xăng bơm chữa cháy),Litre,Jun,6,0.0,1
+Energy_Consumption,Steam,Steam/ Hơi nước,Ton,Jun,6,0.0,0
+Energy_Consumption,Solid Biomass (DV),Solid Biomass (DV) (Củi+rác đốt là cây…+ Gỗ băm),Ton,Jun,6,222.986,1
+Energy_Consumption,Solid Biomass (YB),Solid Biomass (YB) (Củi+rác đốt),Ton,Jun,6,0.0,1
+Energy_Consumption,Total Solid Biomass,Total Solid Biomass,Ton,Jun,6,222.986,1
+Energy_Consumption,Solid Biomass heating Value,Solid Biomass heating Value (Nhiệt trị),cal/g,Jun,6,3000.0,1
+Energy_Consumption,Electricity,Electricity/ Điện (DV),MWh,Jun,6,2154.046,1
+Energy_Consumption,Electricity,Electricity/ Điện (YB),MWh,Jun,6,0.0,1
+Energy_Consumption,Total Electricity,Total Electricity,MWh,Jun,6,2154.046,1
+Energy_Consumption,Co-generation (Power),Co-generation (Power)/ Năng lượng đồng phát nhiệt điện,MWh,Jun,6,0.0,0
+Energy_Consumption,Solar Cell (Renewable Energy),Solar Cell (Renewable Energy)/ Năng lượng mặt trời,MWh,Jun,6,0.0,0
+Energy_Consumption,"Total Thermal Consumption-Coal, Biomass (DV)","Total Thermal Consumption-Coal, Biomass (DV)",GJ,Jun,6,94035.574,1
+Energy_Consumption,"Total Thermal Consumption-Coal, Biomass (YB)","Total Thermal Consumption-Coal, Biomass (YB)",GJ,Jun,6,0.0,1
+Energy_Consumption,"Total Thermal Consumption-Coal, Biomass","Total Thermal Consumption-Coal, Biomass",GJ,Jun,6,94035.574,1
+Energy_Consumption,Total Thermal Consumption-Coal Gas (DV),Total Thermal Consumption-Coal Gas (DV),GJ,Jun,6,68456.978,1
+Energy_Consumption,Total Thermal Consumption-Coal Gas (YB),Total Thermal Consumption-Coal Gas (YB),GJ,Jun,6,0.0,1
+Energy_Consumption,Total Thermal Consumption-Coal Gas,Total Thermal Consumption-Coal Gas,GJ,Jun,6,68456.978,1
+Energy_Consumption,Total Electrical Consumption (DV),Total Electrical Consumption (DV),GJ,Jun,6,7754.567,1
+Energy_Consumption,Total Electrical Consumption (YB),Total Electrical Consumption (YB),GJ,Jun,6,0.0,1
+Energy_Consumption,Total Electrical Consumption,Total Electrical Consumption,GJ,Jun,6,7754.567,1
+Energy_Consumption,Total Renewable Energy (DV),Total Renewable Energy (DV),GJ,Jun,6,2800.258,1
+Energy_Consumption,Total Renewable Energy (YB),Total Renewable Energy (YB),GJ,Jun,6,0.0,1
+Energy_Consumption,Total Renewable Energy,Total Renewable Energy,GJ,Jun,6,2800.258,1
+Energy_Consumption,"Total Energy Consumption-Coal, Biomass (DV)","Total Energy Consumption-Coal, Biomass (DV)",GJ,Jun,6,101790.141,1
+Energy_Consumption,"Total Energy Consumption-Coal, Biomass (YB)","Total Energy Consumption-Coal, Biomass (YB)",GJ,Jun,6,0.0,1
+Energy_Consumption,"Total Energy Consumption-Coal, Biomass","Total Energy Consumption-Coal, Biomass",GJ,Jun,6,101790.141,1
+Energy_Consumption,Total Energy Consumption-Coal Gas (DV),Total Energy Consumption-Coal Gas (DV),GJ,Jun,6,76211.545,1
+Energy_Consumption,Total Energy Consumption-Coal Gas (YB),Total Energy Consumption-Coal Gas (YB),GJ,Jun,6,0.0,1
+Energy_Consumption,Total Energy Consumption-Coal Gas,Total Energy Consumption-Coal Gas,GJ,Jun,6,76211.545,1
+Energy_Consumption,"Specific Energy Consumption-Coal, Biomass (DV)","Specific Energy Consumption-Coal, Biomass (DV)",GJ/ton,Jun,6,6.204,1
+Energy_Consumption,"Specific Energy Consumption-Coal, Biomass (YB)","Specific Energy Consumption-Coal, Biomass (YB)",GJ/ton,Jun,6,376.946,0
+Energy_Consumption,"Specific Energy Consumption-Coal, Biomass","Specific Energy Consumption-Coal, Biomass",GJ/ton,Jun,6,6.204,1
+Energy_Consumption,Specific Energy Consumption-Coal Gas (DV),Specific Energy Consumption-Coal Gas (DV),GJ/ton,Jun,6,4.645,1
+Energy_Consumption,Specific Energy Consumption-Coal Gas (YB),Specific Energy Consumption-Coal Gas (YB),GJ/ton,Jun,6,0.09,0
+Energy_Consumption,Specific Energy Consumption-Coal Gas,Specific Energy Consumption-Coal Gas,GJ/ton,Jun,6,4.645,1
+Energy_Consumption,Coal 5A (DV),Coal/ Than 5A (DV),Ton,Jul,7,2442.916,1
+Energy_Consumption,Coal 4A.1 (DV),Coal/ Than 4A.1 (DV),Ton,Jul,7,508.88,1
+Energy_Consumption,Coal import coal (DV),Coal/ Than import coal (DV) (than nhập khẩu),Ton,Jul,7,375.27,1
+Energy_Consumption,Coal 5A under screen DV,Than cám qua sàng / Than 5A under screen DV,Ton,Jul,7,188.848,1
+Energy_Consumption,Coal 5A (YB),Coal/ Than 5A (YB),Ton,Jul,7,0.0,0
+Energy_Consumption,Coal 4A.1 (YB),Coal/ Than 4A.1 (YB),Ton,Jul,7,0.0,0
+Energy_Consumption,Coal import coal (YB),Coal/ Than import coal (YB) (than nhập khẩu),Ton,Jul,7,0.0,0
+Energy_Consumption,Coal 5A under screen YB,Than cám qua sàng / Than 5A under screen YB,Ton,Jul,7,0.0,0
+Energy_Consumption,Coal 5A (DV+YB),Coal/ Than 5A (DV+YB),Ton,Jul,7,2442.916,1
+Energy_Consumption,Coal 4A.1 (DV+YB),Coal/ Than 4A.1 (DV+YB),Ton,Jul,7,508.88,1
+Energy_Consumption,Coal import coal (DV+YB),Coal/ Than import coal (DV+YB),Ton,Jul,7,375.27,1
+Energy_Consumption,Coal  5A under screen  (DV+YB),Coal/ Than  5A under screen  (DV+YB),Ton,Jul,7,188.848,1
+Energy_Consumption,Total Coal DV,Total Coal DV,Ton,Jul,7,3515.914,1
+Energy_Consumption,Total Coal YB,Total Coal YB,Ton,Jul,7,0.0,1
+Energy_Consumption,Total Coal,Total Coal,Ton,Jul,7,3515.914,1
+Energy_Consumption,Coal heating value 5A,Coal heating value 5A (Nhiệt trị theo báo cáo gửi ban NL),cal/g,Jul,7,7350.0,1
+Energy_Consumption,Coal heating value 4A.1,Coal heating value 4A.1 (lấy theo nhiệt trị của ban NL),cal/g,Jul,7,5780.0,1
+Energy_Consumption,Coal heating value import coal,Coal heating value import coal (Nhiệt trị theo ban NL),cal/g,Jul,7,5520.0,1
+Energy_Consumption,Coal heating value5A under screen,Coal heating value5A under screen  (Nhiệt trị theo ban NL),cal/g,Jul,7,6810.0,1
+Energy_Consumption,Coal Heating Value average,Coal Heating Value average,cal/g,Jul,7,6898.435,1
+Energy_Consumption,Coal Gas (DV),Coal Gas (DV) (Nhiệt trị theo phiếu kiểm tra),Mcal,Jul,7,18191175.304,1
+Energy_Consumption,Coal Gas (YB),Coal Gas (YB) (Nhiệt trị theo phiếu kiểm tra),Mcal,Jul,7,0.0,0
+Energy_Consumption,Total Coal Gas,Total Coal Gas,Mcal,Jul,7,18191175.304,1
+Energy_Consumption,Lignite,Lignite/ Than non,Ton,Jul,7,0.0,0
+Energy_Consumption,Natural Gas,Natural Gas/ Khí gas tự nhiên,Ton,Jul,7,0.0,0
+Energy_Consumption,Co-generation (Heat),Co-generation (Heat)/ Đồng phát nhiệt điện,Ton,Jul,7,0.0,0
+Energy_Consumption,LPG for Process used (Station),LPG for Process used (Station)/ LPG dùng cho trạm (dùng cho lò nung),Ton,Jul,7,0.0,0
+Energy_Consumption,Heavy fuel oil / Bunker oil,Heavy fuel oil / Bunker oil/ Dầu nặng hoặc dàu chạy tàu,Ton,Jul,7,0.0,0
+Energy_Consumption,Diesel oil (Mobile),Diesel oil (Mobile) Dầu xe,Litre,Jul,7,27627.0,1
+Energy_Consumption,Gasoline,Gasoline (xăng bơm chữa cháy),Litre,Jul,7,0.0,1
+Energy_Consumption,Steam,Steam/ Hơi nước,Ton,Jul,7,0.0,0
+Energy_Consumption,Solid Biomass (DV),Solid Biomass (DV) (Củi+rác đốt là cây…+ Gỗ băm),Ton,Jul,7,345.63,1
+Energy_Consumption,Solid Biomass (YB),Solid Biomass (YB) (Củi+rác đốt),Ton,Jul,7,0.0,1
+Energy_Consumption,Total Solid Biomass,Total Solid Biomass,Ton,Jul,7,345.63,1
+Energy_Consumption,Solid Biomass heating Value,Solid Biomass heating Value (Nhiệt trị),cal/g,Jul,7,3000.0,1
+Energy_Consumption,Electricity,Electricity/ Điện (DV),MWh,Jul,7,2334.834,1
+Energy_Consumption,Electricity,Electricity/ Điện (YB),MWh,Jul,7,0.0,1
+Energy_Consumption,Total Electricity,Total Electricity,MWh,Jul,7,2334.834,1
+Energy_Consumption,Co-generation (Power),Co-generation (Power)/ Năng lượng đồng phát nhiệt điện,MWh,Jul,7,0.0,0
+Energy_Consumption,Solar Cell (Renewable Energy),Solar Cell (Renewable Energy)/ Năng lượng mặt trời,MWh,Jul,7,0.0,0
+Energy_Consumption,"Total Thermal Consumption-Coal, Biomass (DV)","Total Thermal Consumption-Coal, Biomass (DV)",GJ,Jul,7,106947.955,1
+Energy_Consumption,"Total Thermal Consumption-Coal, Biomass (YB)","Total Thermal Consumption-Coal, Biomass (YB)",GJ,Jul,7,0.0,1
+Energy_Consumption,"Total Thermal Consumption-Coal, Biomass","Total Thermal Consumption-Coal, Biomass",GJ,Jul,7,106947.955,1
+Energy_Consumption,Total Thermal Consumption-Coal Gas (DV),Total Thermal Consumption-Coal Gas (DV),GJ,Jul,7,77227.275,1
+Energy_Consumption,Total Thermal Consumption-Coal Gas (YB),Total Thermal Consumption-Coal Gas (YB),GJ,Jul,7,0.0,1
+Energy_Consumption,Total Thermal Consumption-Coal Gas,Total Thermal Consumption-Coal Gas,GJ,Jul,7,77227.275,1
+Energy_Consumption,Total Electrical Consumption (DV),Total Electrical Consumption (DV),GJ,Jul,7,8405.401,1
+Energy_Consumption,Total Electrical Consumption (YB),Total Electrical Consumption (YB),GJ,Jul,7,0.0,1
+Energy_Consumption,Total Electrical Consumption,Total Electrical Consumption,GJ,Jul,7,8405.401,1
+Energy_Consumption,Total Renewable Energy (DV),Total Renewable Energy (DV),GJ,Jul,7,4340.422,1
+Energy_Consumption,Total Renewable Energy (YB),Total Renewable Energy (YB),GJ,Jul,7,0.0,1
+Energy_Consumption,Total Renewable Energy,Total Renewable Energy,GJ,Jul,7,4340.422,1
+Energy_Consumption,"Total Energy Consumption-Coal, Biomass (DV)","Total Energy Consumption-Coal, Biomass (DV)",GJ,Jul,7,115353.356,1
+Energy_Consumption,"Total Energy Consumption-Coal, Biomass (YB)","Total Energy Consumption-Coal, Biomass (YB)",GJ,Jul,7,0.0,1
+Energy_Consumption,"Total Energy Consumption-Coal, Biomass","Total Energy Consumption-Coal, Biomass",GJ,Jul,7,115353.356,1
+Energy_Consumption,Total Energy Consumption-Coal Gas (DV),Total Energy Consumption-Coal Gas (DV),GJ,Jul,7,85632.676,1
+Energy_Consumption,Total Energy Consumption-Coal Gas (YB),Total Energy Consumption-Coal Gas (YB),GJ,Jul,7,0.0,1
+Energy_Consumption,Total Energy Consumption-Coal Gas,Total Energy Consumption-Coal Gas,GJ,Jul,7,85632.676,1
+Energy_Consumption,"Specific Energy Consumption-Coal, Biomass (DV)","Specific Energy Consumption-Coal, Biomass (DV)",GJ/ton,Jul,7,6.251,1
+Energy_Consumption,"Specific Energy Consumption-Coal, Biomass (YB)","Specific Energy Consumption-Coal, Biomass (YB)",GJ/ton,Jul,7,376.946,0
+Energy_Consumption,"Specific Energy Consumption-Coal, Biomass","Specific Energy Consumption-Coal, Biomass",GJ/ton,Jul,7,6.251,1
+Energy_Consumption,Specific Energy Consumption-Coal Gas (DV),Specific Energy Consumption-Coal Gas (DV),GJ/ton,Jul,7,4.64,1
+Energy_Consumption,Specific Energy Consumption-Coal Gas (YB),Specific Energy Consumption-Coal Gas (YB),GJ/ton,Jul,7,0.09,0
+Energy_Consumption,Specific Energy Consumption-Coal Gas,Specific Energy Consumption-Coal Gas,GJ/ton,Jul,7,4.64,1
+Energy_Consumption,Coal 5A (DV),Coal/ Than 5A (DV),Ton,Aug,8,2148.882,1
+Energy_Consumption,Coal 4A.1 (DV),Coal/ Than 4A.1 (DV),Ton,Aug,8,630.609,1
+Energy_Consumption,Coal import coal (DV),Coal/ Than import coal (DV) (than nhập khẩu),Ton,Aug,8,77.21,1
+Energy_Consumption,Coal 5A under screen DV,Than cám qua sàng / Than 5A under screen DV,Ton,Aug,8,204.034,1
+Energy_Consumption,Coal 5A (YB),Coal/ Than 5A (YB),Ton,Aug,8,0.0,0
+Energy_Consumption,Coal 4A.1 (YB),Coal/ Than 4A.1 (YB),Ton,Aug,8,0.0,0
+Energy_Consumption,Coal import coal (YB),Coal/ Than import coal (YB) (than nhập khẩu),Ton,Aug,8,0.0,0
+Energy_Consumption,Coal 5A under screen YB,Than cám qua sàng / Than 5A under screen YB,Ton,Aug,8,0.0,0
+Energy_Consumption,Coal 5A (DV+YB),Coal/ Than 5A (DV+YB),Ton,Aug,8,2148.882,1
+Energy_Consumption,Coal 4A.1 (DV+YB),Coal/ Than 4A.1 (DV+YB),Ton,Aug,8,630.609,1
+Energy_Consumption,Coal import coal (DV+YB),Coal/ Than import coal (DV+YB),Ton,Aug,8,77.21,1
+Energy_Consumption,Coal  5A under screen  (DV+YB),Coal/ Than  5A under screen  (DV+YB),Ton,Aug,8,204.034,1
+Energy_Consumption,Total Coal DV,Total Coal DV,Ton,Aug,8,3060.735,1
+Energy_Consumption,Total Coal YB,Total Coal YB,Ton,Aug,8,0.0,1
+Energy_Consumption,Total Coal,Total Coal,Ton,Aug,8,3060.735,1
+Energy_Consumption,Coal heating value 5A,Coal heating value 5A (Nhiệt trị theo báo cáo gửi ban NL),cal/g,Aug,8,7350.0,1
+Energy_Consumption,Coal heating value 4A.1,Coal heating value 4A.1 (lấy theo nhiệt trị của ban NL),cal/g,Aug,8,5780.0,1
+Energy_Consumption,Coal heating value import coal,Coal heating value import coal (Nhiệt trị theo ban NL),cal/g,Aug,8,5520.0,1
+Energy_Consumption,Coal heating value5A under screen,Coal heating value5A under screen  (Nhiệt trị theo ban NL),cal/g,Aug,8,6810.0,1
+Energy_Consumption,Coal Heating Value average,Coal Heating Value average,cal/g,Aug,8,6944.369,1
+Energy_Consumption,Coal Gas (DV),Coal Gas (DV) (Nhiệt trị theo phiếu kiểm tra),Mcal,Aug,8,16165638.821,1
+Energy_Consumption,Coal Gas (YB),Coal Gas (YB) (Nhiệt trị theo phiếu kiểm tra),Mcal,Aug,8,0.0,0
+Energy_Consumption,Total Coal Gas,Total Coal Gas,Mcal,Aug,8,16165638.821,1
+Energy_Consumption,Lignite,Lignite/ Than non,Ton,Aug,8,0.0,0
+Energy_Consumption,Natural Gas,Natural Gas/ Khí gas tự nhiên,Ton,Aug,8,0.0,0
+Energy_Consumption,Co-generation (Heat),Co-generation (Heat)/ Đồng phát nhiệt điện,Ton,Aug,8,0.0,0
+Energy_Consumption,LPG for Process used (Station),LPG for Process used (Station)/ LPG dùng cho trạm (dùng cho lò nung),Ton,Aug,8,0.0,0
+Energy_Consumption,Heavy fuel oil / Bunker oil,Heavy fuel oil / Bunker oil/ Dầu nặng hoặc dàu chạy tàu,Ton,Aug,8,0.0,0
+Energy_Consumption,Diesel oil (Mobile),Diesel oil (Mobile) Dầu xe,Litre,Aug,8,27197.0,1
+Energy_Consumption,Gasoline,Gasoline (xăng bơm chữa cháy),Litre,Aug,8,0.0,0
+Energy_Consumption,Steam,Steam/ Hơi nước,Ton,Aug,8,0.0,0
+Energy_Consumption,Solid Biomass (DV),Solid Biomass (DV) (Củi+rác đốt là cây…+ Gỗ băm),Ton,Aug,8,580.365,1
+Energy_Consumption,Solid Biomass (YB),Solid Biomass (YB) (Củi+rác đốt),Ton,Aug,8,0.0,1
+Energy_Consumption,Total Solid Biomass,Total Solid Biomass,Ton,Aug,8,580.365,1
+Energy_Consumption,Solid Biomass heating Value,Solid Biomass heating Value (Nhiệt trị),cal/g,Aug,8,3000.0,1
+Energy_Consumption,Electricity,Electricity/ Điện (DV),MWh,Aug,8,2015.34,1
+Energy_Consumption,Electricity,Electricity/ Điện (YB),MWh,Aug,8,0.0,1
+Energy_Consumption,Total Electricity,Total Electricity,MWh,Aug,8,2015.34,1
+Energy_Consumption,Co-generation (Power),Co-generation (Power)/ Năng lượng đồng phát nhiệt điện,MWh,Aug,8,0.0,0
+Energy_Consumption,Solar Cell (Renewable Energy),Solar Cell (Renewable Energy)/ Năng lượng mặt trời,MWh,Aug,8,0.0,0
+Energy_Consumption,"Total Thermal Consumption-Coal, Biomass (DV)","Total Thermal Consumption-Coal, Biomass (DV)",GJ,Aug,8,97251.639,1
+Energy_Consumption,"Total Thermal Consumption-Coal, Biomass (YB)","Total Thermal Consumption-Coal, Biomass (YB)",GJ,Aug,8,0.0,1
+Energy_Consumption,"Total Thermal Consumption-Coal, Biomass","Total Thermal Consumption-Coal, Biomass",GJ,Aug,8,97251.639,1
+Energy_Consumption,Total Thermal Consumption-Coal Gas (DV),Total Thermal Consumption-Coal Gas (DV),GJ,Aug,8,68659.879,1
+Energy_Consumption,Total Thermal Consumption-Coal Gas (YB),Total Thermal Consumption-Coal Gas (YB),GJ,Aug,8,0.0,1
+Energy_Consumption,Total Thermal Consumption-Coal Gas,Total Thermal Consumption-Coal Gas,GJ,Aug,8,68659.879,1
+Energy_Consumption,Total Electrical Consumption (DV),Total Electrical Consumption (DV),GJ,Aug,8,7255.224,1
+Energy_Consumption,Total Electrical Consumption (YB),Total Electrical Consumption (YB),GJ,Aug,8,0.0,1
+Energy_Consumption,Total Electrical Consumption,Total Electrical Consumption,GJ,Aug,8,7255.224,1
+Energy_Consumption,Total Renewable Energy (DV),Total Renewable Energy (DV),GJ,Aug,8,7288.224,1
+Energy_Consumption,Total Renewable Energy (YB),Total Renewable Energy (YB),GJ,Aug,8,0.0,1
+Energy_Consumption,Total Renewable Energy,Total Renewable Energy,GJ,Aug,8,7288.224,1
+Energy_Consumption,"Total Energy Consumption-Coal, Biomass (DV)","Total Energy Consumption-Coal, Biomass (DV)",GJ,Aug,8,104506.863,1
+Energy_Consumption,"Total Energy Consumption-Coal, Biomass (YB)","Total Energy Consumption-Coal, Biomass (YB)",GJ,Aug,8,0.0,1
+Energy_Consumption,"Total Energy Consumption-Coal, Biomass","Total Energy Consumption-Coal, Biomass",GJ,Aug,8,104506.863,1
+Energy_Consumption,Total Energy Consumption-Coal Gas (DV),Total Energy Consumption-Coal Gas (DV),GJ,Aug,8,75915.103,1
+Energy_Consumption,Total Energy Consumption-Coal Gas (YB),Total Energy Consumption-Coal Gas (YB),GJ,Aug,8,0.0,1
+Energy_Consumption,Total Energy Consumption-Coal Gas,Total Energy Consumption-Coal Gas,GJ,Aug,8,75915.103,1
+Energy_Consumption,"Specific Energy Consumption-Coal, Biomass (DV)","Specific Energy Consumption-Coal, Biomass (DV)",GJ/ton,Aug,8,6.459,1
+Energy_Consumption,"Specific Energy Consumption-Coal, Biomass (YB)","Specific Energy Consumption-Coal, Biomass (YB)",GJ/ton,Aug,8,376.946,0
+Energy_Consumption,"Specific Energy Consumption-Coal, Biomass","Specific Energy Consumption-Coal, Biomass",GJ/ton,Aug,8,6.459,1
+Energy_Consumption,Specific Energy Consumption-Coal Gas (DV),Specific Energy Consumption-Coal Gas (DV),GJ/ton,Aug,8,4.692,1
+Energy_Consumption,Specific Energy Consumption-Coal Gas (YB),Specific Energy Consumption-Coal Gas (YB),GJ/ton,Aug,8,0.09,0
+Energy_Consumption,Specific Energy Consumption-Coal Gas,Specific Energy Consumption-Coal Gas,GJ/ton,Aug,8,4.692,1
+Energy_Consumption,Coal 5A (DV),Coal/ Than 5A (DV),Ton,Sep,9,1718.913,1
+Energy_Consumption,Coal 4A.1 (DV),Coal/ Than 4A.1 (DV),Ton,Sep,9,444.559,1
+Energy_Consumption,Coal import coal (DV),Coal/ Than import coal (DV) (than nhập khẩu),Ton,Sep,9,0.0,1
+Energy_Consumption,Coal 5A under screen DV,Than cám qua sàng / Than 5A under screen DV,Ton,Sep,9,133.775,1
+Energy_Consumption,Coal 5A (YB),Coal/ Than 5A (YB),Ton,Sep,9,0.0,0
+Energy_Consumption,Coal 4A.1 (YB),Coal/ Than 4A.1 (YB),Ton,Sep,9,0.0,0
+Energy_Consumption,Coal import coal (YB),Coal/ Than import coal (YB) (than nhập khẩu),Ton,Sep,9,0.0,0
+Energy_Consumption,Coal 5A under screen YB,Than cám qua sàng / Than 5A under screen YB,Ton,Sep,9,0.0,0
+Energy_Consumption,Coal 5A (DV+YB),Coal/ Than 5A (DV+YB),Ton,Sep,9,1718.913,1
+Energy_Consumption,Coal 4A.1 (DV+YB),Coal/ Than 4A.1 (DV+YB),Ton,Sep,9,444.559,1
+Energy_Consumption,Coal import coal (DV+YB),Coal/ Than import coal (DV+YB),Ton,Sep,9,0.0,1
+Energy_Consumption,Coal  5A under screen  (DV+YB),Coal/ Than  5A under screen  (DV+YB),Ton,Sep,9,133.775,1
+Energy_Consumption,Total Coal DV,Total Coal DV,Ton,Sep,9,2297.247,1
+Energy_Consumption,Total Coal YB,Total Coal YB,Ton,Sep,9,0.0,1
+Energy_Consumption,Total Coal,Total Coal,Ton,Sep,9,2297.247,1
+Energy_Consumption,Coal heating value 5A,Coal heating value 5A (Nhiệt trị theo báo cáo gửi ban NL),cal/g,Sep,9,7350.0,1
+Energy_Consumption,Coal heating value 4A.1,Coal heating value 4A.1 (lấy theo nhiệt trị của ban NL),cal/g,Sep,9,5780.0,1
+Energy_Consumption,Coal heating value import coal,Coal heating value import coal (Nhiệt trị theo ban NL),cal/g,Sep,9,5520.0,1
+Energy_Consumption,Coal heating value5A under screen,Coal heating value5A under screen  (Nhiệt trị theo ban NL),cal/g,Sep,9,6810.0,1
+Energy_Consumption,Coal Heating Value average,Coal Heating Value average,cal/g,Sep,9,7014.731,1
+Energy_Consumption,Coal Gas (DV),Coal Gas (DV) (Nhiệt trị theo phiếu kiểm tra),Mcal,Sep,9,12955186.796,1
+Energy_Consumption,Coal Gas (YB),Coal Gas (YB) (Nhiệt trị theo phiếu kiểm tra),Mcal,Sep,9,0.0,0
+Energy_Consumption,Total Coal Gas,Total Coal Gas,Mcal,Sep,9,12955186.796,1
+Energy_Consumption,Lignite,Lignite/ Than non,Ton,Sep,9,0.0,0
+Energy_Consumption,Natural Gas,Natural Gas/ Khí gas tự nhiên,Ton,Sep,9,0.0,0
+Energy_Consumption,Co-generation (Heat),Co-generation (Heat)/ Đồng phát nhiệt điện,Ton,Sep,9,0.0,0
+Energy_Consumption,LPG for Process used (Station),LPG for Process used (Station)/ LPG dùng cho trạm (dùng cho lò nung),Ton,Sep,9,0.0,0
+Energy_Consumption,Heavy fuel oil / Bunker oil,Heavy fuel oil / Bunker oil/ Dầu nặng hoặc dàu chạy tàu,Ton,Sep,9,0.0,0
+Energy_Consumption,Diesel oil (Mobile),Diesel oil (Mobile) Dầu xe,Litre,Sep,9,22566.0,1
+Energy_Consumption,Gasoline,Gasoline (xăng bơm chữa cháy),Litre,Sep,9,0.0,1
+Energy_Consumption,Steam,Steam/ Hơi nước,Ton,Sep,9,0.0,0
+Energy_Consumption,Solid Biomass (DV),Solid Biomass (DV) (Củi+rác đốt là cây…+ Gỗ băm),Ton,Sep,9,471.125,1
+Energy_Consumption,Solid Biomass (YB),Solid Biomass (YB) (Củi+rác đốt),Ton,Sep,9,0.0,1
+Energy_Consumption,Total Solid Biomass,Total Solid Biomass,Ton,Sep,9,471.125,1
+Energy_Consumption,Solid Biomass heating Value,Solid Biomass heating Value (Nhiệt trị),cal/g,Sep,9,3000.0,1
+Energy_Consumption,Electricity,Electricity/ Điện (DV),MWh,Sep,9,1630.341,1
+Energy_Consumption,Electricity,Electricity/ Điện (YB),MWh,Sep,9,0.0,1
+Energy_Consumption,Total Electricity,Total Electricity,MWh,Sep,9,1630.341,1
+Energy_Consumption,Co-generation (Power),Co-generation (Power)/ Năng lượng đồng phát nhiệt điện,MWh,Sep,9,0.0,0
+Energy_Consumption,Solar Cell (Renewable Energy),Solar Cell (Renewable Energy)/ Năng lượng mặt trời,MWh,Sep,9,0.0,0
+Energy_Consumption,"Total Thermal Consumption-Coal, Biomass (DV)","Total Thermal Consumption-Coal, Biomass (DV)",GJ,Sep,9,74339.509,1
+Energy_Consumption,"Total Thermal Consumption-Coal, Biomass (YB)","Total Thermal Consumption-Coal, Biomass (YB)",GJ,Sep,9,0.0,1
+Energy_Consumption,"Total Thermal Consumption-Coal, Biomass","Total Thermal Consumption-Coal, Biomass",GJ,Sep,9,74339.509,1
+Energy_Consumption,Total Thermal Consumption-Coal Gas (DV),Total Thermal Consumption-Coal Gas (DV),GJ,Sep,9,55197.946,1
+Energy_Consumption,Total Thermal Consumption-Coal Gas (YB),Total Thermal Consumption-Coal Gas (YB),GJ,Sep,9,0.0,1
+Energy_Consumption,Total Thermal Consumption-Coal Gas,Total Thermal Consumption-Coal Gas,GJ,Sep,9,55197.946,1
+Energy_Consumption,Total Electrical Consumption (DV),Total Electrical Consumption (DV),GJ,Sep,9,5869.227,1
+Energy_Consumption,Total Electrical Consumption (YB),Total Electrical Consumption (YB),GJ,Sep,9,0.0,1
+Energy_Consumption,Total Electrical Consumption,Total Electrical Consumption,GJ,Sep,9,5869.227,1
+Energy_Consumption,Total Renewable Energy (DV),Total Renewable Energy (DV),GJ,Sep,9,5916.388,1
+Energy_Consumption,Total Renewable Energy (YB),Total Renewable Energy (YB),GJ,Sep,9,0.0,1
+Energy_Consumption,Total Renewable Energy,Total Renewable Energy,GJ,Sep,9,5916.388,1
+Energy_Consumption,"Total Energy Consumption-Coal, Biomass (DV)","Total Energy Consumption-Coal, Biomass (DV)",GJ,Sep,9,80208.736,1
+Energy_Consumption,"Total Energy Consumption-Coal, Biomass (YB)","Total Energy Consumption-Coal, Biomass (YB)",GJ,Sep,9,0.0,1
+Energy_Consumption,"Total Energy Consumption-Coal, Biomass","Total Energy Consumption-Coal, Biomass",GJ,Sep,9,80208.736,1
+Energy_Consumption,Total Energy Consumption-Coal Gas (DV),Total Energy Consumption-Coal Gas (DV),GJ,Sep,9,61067.173,1
+Energy_Consumption,Total Energy Consumption-Coal Gas (YB),Total Energy Consumption-Coal Gas (YB),GJ,Sep,9,0.0,1
+Energy_Consumption,Total Energy Consumption-Coal Gas,Total Energy Consumption-Coal Gas,GJ,Sep,9,61067.173,1
+Energy_Consumption,"Specific Energy Consumption-Coal, Biomass (DV)","Specific Energy Consumption-Coal, Biomass (DV)",GJ/ton,Sep,9,6.609,1
+Energy_Consumption,"Specific Energy Consumption-Coal, Biomass (YB)","Specific Energy Consumption-Coal, Biomass (YB)",GJ/ton,Sep,9,376.946,0
+Energy_Consumption,"Specific Energy Consumption-Coal, Biomass","Specific Energy Consumption-Coal, Biomass",GJ/ton,Sep,9,6.609,1
+Energy_Consumption,Specific Energy Consumption-Coal Gas (DV),Specific Energy Consumption-Coal Gas (DV),GJ/ton,Sep,9,5.032,1
+Energy_Consumption,Specific Energy Consumption-Coal Gas (YB),Specific Energy Consumption-Coal Gas (YB),GJ/ton,Sep,9,0.09,0
+Energy_Consumption,Specific Energy Consumption-Coal Gas,Specific Energy Consumption-Coal Gas,GJ/ton,Sep,9,5.032,1
+Energy_Consumption,Coal 5A (DV),Coal/ Than 5A (DV),Ton,Oct,10,1753.955,1
+Energy_Consumption,Coal 4A.1 (DV),Coal/ Than 4A.1 (DV),Ton,Oct,10,18.9,1
+Energy_Consumption,Coal import coal (DV),Coal/ Than import coal (DV) (than nhập khẩu),Ton,Oct,10,550.88,1
+Energy_Consumption,Coal 5A under screen DV,Than cám qua sàng / Than 5A under screen DV,Ton,Oct,10,153.045,1
+Energy_Consumption,Coal 5A (YB),Coal/ Than 5A (YB),Ton,Oct,10,0.0,0
+Energy_Consumption,Coal 4A.1 (YB),Coal/ Than 4A.1 (YB),Ton,Oct,10,0.0,0
+Energy_Consumption,Coal import coal (YB),Coal/ Than import coal (YB) (than nhập khẩu),Ton,Oct,10,0.0,0
+Energy_Consumption,Coal 5A under screen YB,Than cám qua sàng / Than 5A under screen YB,Ton,Oct,10,0.0,0
+Energy_Consumption,Coal 5A (DV+YB),Coal/ Than 5A (DV+YB),Ton,Oct,10,1753.955,1
+Energy_Consumption,Coal 4A.1 (DV+YB),Coal/ Than 4A.1 (DV+YB),Ton,Oct,10,18.9,1
+Energy_Consumption,Coal import coal (DV+YB),Coal/ Than import coal (DV+YB),Ton,Oct,10,550.88,1
+Energy_Consumption,Coal  5A under screen  (DV+YB),Coal/ Than  5A under screen  (DV+YB),Ton,Oct,10,153.045,1
+Energy_Consumption,Total Coal DV,Total Coal DV,Ton,Oct,10,2476.78,1
+Energy_Consumption,Total Coal YB,Total Coal YB,Ton,Oct,10,0.0,1
+Energy_Consumption,Total Coal,Total Coal,Ton,Oct,10,2476.78,1
+Energy_Consumption,Coal heating value 5A,Coal heating value 5A (Nhiệt trị theo báo cáo gửi ban NL),cal/g,Oct,10,7350.0,1
+Energy_Consumption,Coal heating value 4A.1,Coal heating value 4A.1 (lấy theo nhiệt trị của ban NL),cal/g,Oct,10,5780.0,1
+Energy_Consumption,Coal heating value import coal,Coal heating value import coal (Nhiệt trị theo ban NL),cal/g,Oct,10,5520.0,1
+Energy_Consumption,Coal heating value5A under screen,Coal heating value5A under screen  (Nhiệt trị theo ban NL),cal/g,Oct,10,6810.0,1
+Energy_Consumption,Coal Heating Value average,Coal Heating Value average,cal/g,Oct,10,6897.627,1
+Energy_Consumption,Coal Gas (DV),Coal Gas (DV) (Nhiệt trị theo phiếu kiểm tra),Mcal,Oct,10,12294716.5,1
+Energy_Consumption,Coal Gas (YB),Coal Gas (YB) (Nhiệt trị theo phiếu kiểm tra),Mcal,Oct,10,0.0,0
+Energy_Consumption,Total Coal Gas,Total Coal Gas,Mcal,Oct,10,12294716.5,1
+Energy_Consumption,Lignite,Lignite/ Than non,Ton,Oct,10,0.0,0
+Energy_Consumption,Natural Gas,Natural Gas/ Khí gas tự nhiên,Ton,Oct,10,0.0,0
+Energy_Consumption,Co-generation (Heat),Co-generation (Heat)/ Đồng phát nhiệt điện,Ton,Oct,10,0.0,0
+Energy_Consumption,LPG for Process used (Station),LPG for Process used (Station)/ LPG dùng cho trạm (dùng cho lò nung),Ton,Oct,10,0.0,0
+Energy_Consumption,Heavy fuel oil / Bunker oil,Heavy fuel oil / Bunker oil/ Dầu nặng hoặc dàu chạy tàu,Ton,Oct,10,0.0,0
+Energy_Consumption,Diesel oil (Mobile),Diesel oil (Mobile) Dầu xe,Litre,Oct,10,21537.0,1
+Energy_Consumption,Gasoline,Gasoline (xăng bơm chữa cháy),Litre,Oct,10,0.0,1
+Energy_Consumption,Steam,Steam/ Hơi nước,Ton,Oct,10,0.0,0
+Energy_Consumption,Solid Biomass (DV),Solid Biomass (DV) (Củi+rác đốt là cây…+ Gỗ băm),Ton,Oct,10,308.34,1
+Energy_Consumption,Solid Biomass (YB),Solid Biomass (YB) (Củi+rác đốt),Ton,Oct,10,0.0,1
+Energy_Consumption,Total Solid Biomass,Total Solid Biomass,Ton,Oct,10,308.34,1
+Energy_Consumption,Solid Biomass heating Value,Solid Biomass heating Value (Nhiệt trị),cal/g,Oct,10,3000.0,1
+Energy_Consumption,Electricity,Electricity/ Điện (DV),MWh,Oct,10,1631.502,1
+Energy_Consumption,Electricity,Electricity/ Điện (YB),MWh,Oct,10,0.0,1
+Energy_Consumption,Total Electricity,Total Electricity,MWh,Oct,10,1631.502,1
+Energy_Consumption,Co-generation (Power),Co-generation (Power)/ Năng lượng đồng phát nhiệt điện,MWh,Oct,10,0.0,0
+Energy_Consumption,Solar Cell (Renewable Energy),Solar Cell (Renewable Energy)/ Năng lượng mặt trời,MWh,Oct,10,0.0,0
+Energy_Consumption,"Total Thermal Consumption-Coal, Biomass (DV)","Total Thermal Consumption-Coal, Biomass (DV)",GJ,Oct,10,76169.739,1
+Energy_Consumption,"Total Thermal Consumption-Coal, Biomass (YB)","Total Thermal Consumption-Coal, Biomass (YB)",GJ,Oct,10,0.0,1
+Energy_Consumption,"Total Thermal Consumption-Coal, Biomass","Total Thermal Consumption-Coal, Biomass",GJ,Oct,10,76169.739,1
+Energy_Consumption,Total Thermal Consumption-Coal Gas (DV),Total Thermal Consumption-Coal Gas (DV),GJ,Oct,10,52250.061,1
+Energy_Consumption,Total Thermal Consumption-Coal Gas (YB),Total Thermal Consumption-Coal Gas (YB),GJ,Oct,10,0.0,1
+Energy_Consumption,Total Thermal Consumption-Coal Gas,Total Thermal Consumption-Coal Gas,GJ,Oct,10,52250.061,1
+Energy_Consumption,Total Electrical Consumption (DV),Total Electrical Consumption (DV),GJ,Oct,10,5873.409,1
+Energy_Consumption,Total Electrical Consumption (YB),Total Electrical Consumption (YB),GJ,Oct,10,0.0,1
+Energy_Consumption,Total Electrical Consumption,Total Electrical Consumption,GJ,Oct,10,5873.409,1
+Energy_Consumption,Total Renewable Energy (DV),Total Renewable Energy (DV),GJ,Oct,10,3872.134,1
+Energy_Consumption,Total Renewable Energy (YB),Total Renewable Energy (YB),GJ,Oct,10,0.0,1
+Energy_Consumption,Total Renewable Energy,Total Renewable Energy,GJ,Oct,10,3872.134,1
+Energy_Consumption,"Total Energy Consumption-Coal, Biomass (DV)","Total Energy Consumption-Coal, Biomass (DV)",GJ,Oct,10,82043.147,1
+Energy_Consumption,"Total Energy Consumption-Coal, Biomass (YB)","Total Energy Consumption-Coal, Biomass (YB)",GJ,Oct,10,0.0,1
+Energy_Consumption,"Total Energy Consumption-Coal, Biomass","Total Energy Consumption-Coal, Biomass",GJ,Oct,10,82043.147,1
+Energy_Consumption,Total Energy Consumption-Coal Gas (DV),Total Energy Consumption-Coal Gas (DV),GJ,Oct,10,58123.469,1
+Energy_Consumption,Total Energy Consumption-Coal Gas (YB),Total Energy Consumption-Coal Gas (YB),GJ,Oct,10,0.0,1
+Energy_Consumption,Total Energy Consumption-Coal Gas,Total Energy Consumption-Coal Gas,GJ,Oct,10,58123.469,1
+Energy_Consumption,"Specific Energy Consumption-Coal, Biomass (DV)","Specific Energy Consumption-Coal, Biomass (DV)",GJ/ton,Oct,10,6.582,1
+Energy_Consumption,"Specific Energy Consumption-Coal, Biomass (YB)","Specific Energy Consumption-Coal, Biomass (YB)",GJ/ton,Oct,10,376.946,0
+Energy_Consumption,"Specific Energy Consumption-Coal, Biomass","Specific Energy Consumption-Coal, Biomass",GJ/ton,Oct,10,6.582,1
+Energy_Consumption,Specific Energy Consumption-Coal Gas (DV),Specific Energy Consumption-Coal Gas (DV),GJ/ton,Oct,10,4.663,1
+Energy_Consumption,Specific Energy Consumption-Coal Gas (YB),Specific Energy Consumption-Coal Gas (YB),GJ/ton,Oct,10,0.09,0
+Energy_Consumption,Specific Energy Consumption-Coal Gas,Specific Energy Consumption-Coal Gas,GJ/ton,Oct,10,4.663,1
+Energy_Consumption,Coal 5A (DV),Coal/ Than 5A (DV),Ton,Nov,11,1649.3,1
+Energy_Consumption,Coal 4A.1 (DV),Coal/ Than 4A.1 (DV),Ton,Nov,11,113.76,1
+Energy_Consumption,Coal import coal (DV),Coal/ Than import coal (DV) (than nhập khẩu),Ton,Nov,11,352.255,1
+Energy_Consumption,Coal 5A under screen DV,Than cám qua sàng / Than 5A under screen DV,Ton,Nov,11,156.7,1
+Energy_Consumption,Coal 5A (YB),Coal/ Than 5A (YB),Ton,Nov,11,0.0,0
+Energy_Consumption,Coal 4A.1 (YB),Coal/ Than 4A.1 (YB),Ton,Nov,11,0.0,0
+Energy_Consumption,Coal import coal (YB),Coal/ Than import coal (YB) (than nhập khẩu),Ton,Nov,11,0.0,0
+Energy_Consumption,Coal 5A under screen YB,Than cám qua sàng / Than 5A under screen YB,Ton,Nov,11,0.0,0
+Energy_Consumption,Coal 5A (DV+YB),Coal/ Than 5A (DV+YB),Ton,Nov,11,1649.3,1
+Energy_Consumption,Coal 4A.1 (DV+YB),Coal/ Than 4A.1 (DV+YB),Ton,Nov,11,113.76,1
+Energy_Consumption,Coal import coal (DV+YB),Coal/ Than import coal (DV+YB),Ton,Nov,11,352.255,1
+Energy_Consumption,Coal  5A under screen  (DV+YB),Coal/ Than  5A under screen  (DV+YB),Ton,Nov,11,156.7,1
+Energy_Consumption,Total Coal DV,Total Coal DV,Ton,Nov,11,2272.015,1
+Energy_Consumption,Total Coal YB,Total Coal YB,Ton,Nov,11,0.0,1
+Energy_Consumption,Total Coal,Total Coal,Ton,Nov,11,2272.015,1
+Energy_Consumption,Coal heating value 5A,Coal heating value 5A (Nhiệt trị theo báo cáo gửi ban NL),cal/g,Nov,11,7350.0,1
+Energy_Consumption,Coal heating value 4A.1,Coal heating value 4A.1 (lấy theo nhiệt trị của ban NL),cal/g,Nov,11,5780.0,1
+Energy_Consumption,Coal heating value import coal,Coal heating value import coal (Nhiệt trị theo ban NL),cal/g,Nov,11,5520.0,1
+Energy_Consumption,Coal heating value5A under screen,Coal heating value5A under screen  (Nhiệt trị theo ban NL),cal/g,Nov,11,6810.0,1
+Energy_Consumption,Coal Heating Value average,Coal Heating Value average,cal/g,Nov,11,6950.422,1
+Energy_Consumption,Coal Gas (DV),Coal Gas (DV) (Nhiệt trị theo phiếu kiểm tra),Mcal,Nov,11,12544717.188,1
+Energy_Consumption,Coal Gas (YB),Coal Gas (YB) (Nhiệt trị theo phiếu kiểm tra),Mcal,Nov,11,0.0,0
+Energy_Consumption,Total Coal Gas,Total Coal Gas,Mcal,Nov,11,12544717.188,1
+Energy_Consumption,Lignite,Lignite/ Than non,Ton,Nov,11,0.0,0
+Energy_Consumption,Natural Gas,Natural Gas/ Khí gas tự nhiên,Ton,Nov,11,0.0,0
+Energy_Consumption,Co-generation (Heat),Co-generation (Heat)/ Đồng phát nhiệt điện,Ton,Nov,11,0.0,0
+Energy_Consumption,LPG for Process used (Station),LPG for Process used (Station)/ LPG dùng cho trạm (dùng cho lò nung),Ton,Nov,11,0.0,0
+Energy_Consumption,Heavy fuel oil / Bunker oil,Heavy fuel oil / Bunker oil/ Dầu nặng hoặc dàu chạy tàu,Ton,Nov,11,0.0,0
+Energy_Consumption,Diesel oil (Mobile),Diesel oil (Mobile) Dầu xe,Litre,Nov,11,26509.0,1
+Energy_Consumption,Gasoline,Gasoline (xăng bơm chữa cháy),Litre,Nov,11,0.0,1
+Energy_Consumption,Steam,Steam/ Hơi nước,Ton,Nov,11,0.0,0
+Energy_Consumption,Solid Biomass (DV),Solid Biomass (DV) (Củi+rác đốt là cây…+ Gỗ băm),Ton,Nov,11,139.982,1
+Energy_Consumption,Solid Biomass (YB),Solid Biomass (YB) (Củi+rác đốt),Ton,Nov,11,0.0,1
+Energy_Consumption,Total Solid Biomass,Total Solid Biomass,Ton,Nov,11,139.982,1
+Energy_Consumption,Solid Biomass heating Value,Solid Biomass heating Value (Nhiệt trị),cal/g,Nov,11,3000.0,1
+Energy_Consumption,Electricity,Electricity/ Điện (DV),MWh,Nov,11,1569.299,1
+Energy_Consumption,Electricity,Electricity/ Điện (YB),MWh,Nov,11,0.0,1
+Energy_Consumption,Total Electricity,Total Electricity,MWh,Nov,11,1569.299,1
+Energy_Consumption,Co-generation (Power),Co-generation (Power)/ Năng lượng đồng phát nhiệt điện,MWh,Nov,11,0.0,0
+Energy_Consumption,Solar Cell (Renewable Energy),Solar Cell (Renewable Energy)/ Năng lượng mặt trời,MWh,Nov,11,0.0,0
+Energy_Consumption,"Total Thermal Consumption-Coal, Biomass (DV)","Total Thermal Consumption-Coal, Biomass (DV)",GJ,Nov,11,69008.513,1
+Energy_Consumption,"Total Thermal Consumption-Coal, Biomass (YB)","Total Thermal Consumption-Coal, Biomass (YB)",GJ,Nov,11,0.0,1
+Energy_Consumption,"Total Thermal Consumption-Coal, Biomass","Total Thermal Consumption-Coal, Biomass",GJ,Nov,11,69008.513,1
+Energy_Consumption,Total Thermal Consumption-Coal Gas (DV),Total Thermal Consumption-Coal Gas (DV),GJ,Nov,11,53659.744,1
+Energy_Consumption,Total Thermal Consumption-Coal Gas (YB),Total Thermal Consumption-Coal Gas (YB),GJ,Nov,11,0.0,1
+Energy_Consumption,Total Thermal Consumption-Coal Gas,Total Thermal Consumption-Coal Gas,GJ,Nov,11,53659.744,1
+Energy_Consumption,Total Electrical Consumption (DV),Total Electrical Consumption (DV),GJ,Nov,11,5649.476,1
+Energy_Consumption,Total Electrical Consumption (YB),Total Electrical Consumption (YB),GJ,Nov,11,0.0,1
+Energy_Consumption,Total Electrical Consumption,Total Electrical Consumption,GJ,Nov,11,5649.476,1
+Energy_Consumption,Total Renewable Energy (DV),Total Renewable Energy (DV),GJ,Nov,11,1757.894,1
+Energy_Consumption,Total Renewable Energy (YB),Total Renewable Energy (YB),GJ,Nov,11,0.0,1
+Energy_Consumption,Total Renewable Energy,Total Renewable Energy,GJ,Nov,11,1757.894,1
+Energy_Consumption,"Total Energy Consumption-Coal, Biomass (DV)","Total Energy Consumption-Coal, Biomass (DV)",GJ,Nov,11,74657.989,1
+Energy_Consumption,"Total Energy Consumption-Coal, Biomass (YB)","Total Energy Consumption-Coal, Biomass (YB)",GJ,Nov,11,0.0,1
+Energy_Consumption,"Total Energy Consumption-Coal, Biomass","Total Energy Consumption-Coal, Biomass",GJ,Nov,11,74657.989,1
+Energy_Consumption,Total Energy Consumption-Coal Gas (DV),Total Energy Consumption-Coal Gas (DV),GJ,Nov,11,59309.22,1
+Energy_Consumption,Total Energy Consumption-Coal Gas (YB),Total Energy Consumption-Coal Gas (YB),GJ,Nov,11,0.0,1
+Energy_Consumption,Total Energy Consumption-Coal Gas,Total Energy Consumption-Coal Gas,GJ,Nov,11,59309.22,1
+Energy_Consumption,"Specific Energy Consumption-Coal, Biomass (DV)","Specific Energy Consumption-Coal, Biomass (DV)",GJ/ton,Nov,11,6.058,1
+Energy_Consumption,"Specific Energy Consumption-Coal, Biomass (YB)","Specific Energy Consumption-Coal, Biomass (YB)",GJ/ton,Nov,11,376.946,0
+Energy_Consumption,"Specific Energy Consumption-Coal, Biomass","Specific Energy Consumption-Coal, Biomass",GJ/ton,Nov,11,6.058,1
+Energy_Consumption,Specific Energy Consumption-Coal Gas (DV),Specific Energy Consumption-Coal Gas (DV),GJ/ton,Nov,11,4.812,1
+Energy_Consumption,Specific Energy Consumption-Coal Gas (YB),Specific Energy Consumption-Coal Gas (YB),GJ/ton,Nov,11,0.09,0
+Energy_Consumption,Specific Energy Consumption-Coal Gas,Specific Energy Consumption-Coal Gas,GJ/ton,Nov,11,4.812,1
+Energy_Consumption,Coal 5A (DV),Coal/ Than 5A (DV),Ton,Dec,12,2061.215,1
+Energy_Consumption,Coal 4A.1 (DV),Coal/ Than 4A.1 (DV),Ton,Dec,12,369.092,1
+Energy_Consumption,Coal import coal (DV),Coal/ Than import coal (DV) (than nhập khẩu),Ton,Dec,12,533.023,1
+Energy_Consumption,Coal 5A under screen DV,Than cám qua sàng / Than 5A under screen DV,Ton,Dec,12,175.785,1
+Energy_Consumption,Coal 5A (YB),Coal/ Than 5A (YB),Ton,Dec,12,0.0,0
+Energy_Consumption,Coal 4A.1 (YB),Coal/ Than 4A.1 (YB),Ton,Dec,12,27.623,1
+Energy_Consumption,Coal import coal (YB),Coal/ Than import coal (YB) (than nhập khẩu),Ton,Dec,12,0.0,0
+Energy_Consumption,Coal 5A under screen YB,Than cám qua sàng / Than 5A under screen YB,Ton,Dec,12,0.0,0
+Energy_Consumption,Coal 5A (DV+YB),Coal/ Than 5A (DV+YB),Ton,Dec,12,2061.215,1
+Energy_Consumption,Coal 4A.1 (DV+YB),Coal/ Than 4A.1 (DV+YB),Ton,Dec,12,396.715,1
+Energy_Consumption,Coal import coal (DV+YB),Coal/ Than import coal (DV+YB),Ton,Dec,12,533.023,1
+Energy_Consumption,Coal  5A under screen  (DV+YB),Coal/ Than  5A under screen  (DV+YB),Ton,Dec,12,175.785,1
+Energy_Consumption,Total Coal DV,Total Coal DV,Ton,Dec,12,3139.115,1
+Energy_Consumption,Total Coal YB,Total Coal YB,Ton,Dec,12,27.623,1
+Energy_Consumption,Total Coal,Total Coal,Ton,Dec,12,3166.738,1
+Energy_Consumption,Coal heating value 5A,Coal heating value 5A (Nhiệt trị theo báo cáo gửi ban NL),cal/g,Dec,12,7350.0,1
+Energy_Consumption,Coal heating value 4A.1,Coal heating value 4A.1 (lấy theo nhiệt trị của ban NL),cal/g,Dec,12,5780.0,1
+Energy_Consumption,Coal heating value import coal,Coal heating value import coal (Nhiệt trị theo ban NL),cal/g,Dec,12,5520.0,1
+Energy_Consumption,Coal heating value5A under screen,Coal heating value5A under screen  (Nhiệt trị theo ban NL),cal/g,Dec,12,6810.0,1
+Energy_Consumption,Coal Heating Value average,Coal Heating Value average,cal/g,Dec,12,6815.318,1
+Energy_Consumption,Coal Gas (DV),Coal Gas (DV) (Nhiệt trị theo phiếu kiểm tra),Mcal,Dec,12,15057913.475,1
+Energy_Consumption,Coal Gas (YB),Coal Gas (YB) (Nhiệt trị theo phiếu kiểm tra),Mcal,Dec,12,0.0,0
+Energy_Consumption,Total Coal Gas,Total Coal Gas,Mcal,Dec,12,15057913.475,1
+Energy_Consumption,Lignite,Lignite/ Than non,Ton,Dec,12,0.0,0
+Energy_Consumption,Natural Gas,Natural Gas/ Khí gas tự nhiên,Ton,Dec,12,0.0,0
+Energy_Consumption,Co-generation (Heat),Co-generation (Heat)/ Đồng phát nhiệt điện,Ton,Dec,12,0.0,0
+Energy_Consumption,LPG for Process used (Station),LPG for Process used (Station)/ LPG dùng cho trạm (dùng cho lò nung),Ton,Dec,12,0.0,0
+Energy_Consumption,Heavy fuel oil / Bunker oil,Heavy fuel oil / Bunker oil/ Dầu nặng hoặc dàu chạy tàu,Ton,Dec,12,0.0,0
+Energy_Consumption,Diesel oil (Mobile),Diesel oil (Mobile) Dầu xe,Litre,Dec,12,24880.0,1
+Energy_Consumption,Gasoline,Gasoline (xăng bơm chữa cháy),Litre,Dec,12,0.0,1
+Energy_Consumption,Steam,Steam/ Hơi nước,Ton,Dec,12,0.0,0
+Energy_Consumption,Solid Biomass (DV),Solid Biomass (DV) (Củi+rác đốt là cây…+ Gỗ băm),Ton,Dec,12,15.882,1
+Energy_Consumption,Solid Biomass (YB),Solid Biomass (YB) (Củi+rác đốt),Ton,Dec,12,0.0,1
+Energy_Consumption,Total Solid Biomass,Total Solid Biomass,Ton,Dec,12,15.882,1
+Energy_Consumption,Solid Biomass heating Value,Solid Biomass heating Value (Nhiệt trị),cal/g,Dec,12,3000.0,1
+Energy_Consumption,Electricity,Electricity/ Điện (DV),MWh,Dec,12,1836.991,1
+Energy_Consumption,Electricity,Electricity/ Điện (YB),MWh,Dec,12,10.592,1
+Energy_Consumption,Total Electricity,Total Electricity,MWh,Dec,12,1847.583,1
+Energy_Consumption,Co-generation (Power),Co-generation (Power)/ Năng lượng đồng phát nhiệt điện,MWh,Dec,12,0.0,0
+Energy_Consumption,Solar Cell (Renewable Energy),Solar Cell (Renewable Energy)/ Năng lượng mặt trời,MWh,Dec,12,0.0,0
+Energy_Consumption,"Total Thermal Consumption-Coal, Biomass (DV)","Total Thermal Consumption-Coal, Biomass (DV)",GJ,Dec,12,91436.411,1
+Energy_Consumption,"Total Thermal Consumption-Coal, Biomass (YB)","Total Thermal Consumption-Coal, Biomass (YB)",GJ,Dec,12,159661.602,1
+Energy_Consumption,"Total Thermal Consumption-Coal, Biomass","Total Thermal Consumption-Coal, Biomass",GJ,Dec,12,92104.754,1
+Energy_Consumption,Total Thermal Consumption-Coal Gas (DV),Total Thermal Consumption-Coal Gas (DV),GJ,Dec,12,64594.115,1
+Energy_Consumption,Total Thermal Consumption-Coal Gas (YB),Total Thermal Consumption-Coal Gas (YB),GJ,Dec,12,0.0,1
+Energy_Consumption,Total Thermal Consumption-Coal Gas,Total Thermal Consumption-Coal Gas,GJ,Dec,12,64594.115,1
+Energy_Consumption,Total Electrical Consumption (DV),Total Electrical Consumption (DV),GJ,Dec,12,6613.168,1
+Energy_Consumption,Total Electrical Consumption (YB),Total Electrical Consumption (YB),GJ,Dec,12,38.13,1
+Energy_Consumption,Total Electrical Consumption,Total Electrical Consumption,GJ,Dec,12,6651.298,1
+Energy_Consumption,Total Renewable Energy (DV),Total Renewable Energy (DV),GJ,Dec,12,199.446,1
+Energy_Consumption,Total Renewable Energy (YB),Total Renewable Energy (YB),GJ,Dec,12,0.0,1
+Energy_Consumption,Total Renewable Energy,Total Renewable Energy,GJ,Dec,12,199.446,1
+Energy_Consumption,"Total Energy Consumption-Coal, Biomass (DV)","Total Energy Consumption-Coal, Biomass (DV)",GJ,Dec,12,98049.579,1
+Energy_Consumption,"Total Energy Consumption-Coal, Biomass (YB)","Total Energy Consumption-Coal, Biomass (YB)",GJ,Dec,12,159699.732,1
+Energy_Consumption,"Total Energy Consumption-Coal, Biomass","Total Energy Consumption-Coal, Biomass",GJ,Dec,12,98756.053,1
+Energy_Consumption,Total Energy Consumption-Coal Gas (DV),Total Energy Consumption-Coal Gas (DV),GJ,Dec,12,71207.284,1
+Energy_Consumption,Total Energy Consumption-Coal Gas (YB),Total Energy Consumption-Coal Gas (YB),GJ,Dec,12,38.13,1
+Energy_Consumption,Total Energy Consumption-Coal Gas,Total Energy Consumption-Coal Gas,GJ,Dec,12,71245.414,1
+Energy_Consumption,"Specific Energy Consumption-Coal, Biomass (DV)","Specific Energy Consumption-Coal, Biomass (DV)",GJ/ton,Dec,12,6.293,1
+Energy_Consumption,"Specific Energy Consumption-Coal, Biomass (YB)","Specific Energy Consumption-Coal, Biomass (YB)",GJ/ton,Dec,12,376.946,1
+Energy_Consumption,"Specific Energy Consumption-Coal, Biomass","Specific Energy Consumption-Coal, Biomass",GJ/ton,Dec,12,6.171,1
+Energy_Consumption,Specific Energy Consumption-Coal Gas (DV),Specific Energy Consumption-Coal Gas (DV),GJ/ton,Dec,12,4.57,1
+Energy_Consumption,Specific Energy Consumption-Coal Gas (YB),Specific Energy Consumption-Coal Gas (YB),GJ/ton,Dec,12,0.09,1
+Energy_Consumption,Specific Energy Consumption-Coal Gas,Specific Energy Consumption-Coal Gas,GJ/ton,Dec,12,4.452,1
+Greenhouse_Gas_Emission,Diesel oil (Station),Diesel oil (Station)/ Dầu cho máy phát điện,Litre,Jan,1,2000.0,1
+Greenhouse_Gas_Emission,Acetylene (Station),Acetylene (Station)/ Khí axetilen cho máy Oxi Axetilen,kg,Jan,1,0.0,0
+Greenhouse_Gas_Emission,LPG for Welding (Station),LPG for Welding (Station)/ Gas cho máy cắt Oxi Axetilen (hàn),kg,Jan,1,72.0,1
+Greenhouse_Gas_Emission,Calcium Carbonate ≥900OC (process),Calcium Carbonate ≥900OC (process)/ Bột CaCO3,ton,Jan,1,1185.21,1
+Greenhouse_Gas_Emission,Anaerobic Wastewater: Average of flow,Anaerobic Wastewater: Average of flow,m3/day,Jan,1,0.0,0
+Greenhouse_Gas_Emission,Anaerobic Wastewater: COD (Enter anaerobic zone),"Anaerobic Wastewater: COD (Enter anaerobic zone)/ 
+Nhu cầu Oxi để oxi hóa",mg COD/l,Jan,1,0.0,0
+Greenhouse_Gas_Emission,Anaerobic Wastewater: COD (Exit anaerobic zone),Anaerobic Wastewater: COD (Exit anaerobic zone),mg COD/l,Jan,1,0.0,0
+Greenhouse_Gas_Emission,Anaerobic Wastewater: Summary,Anaerobic Wastewater: Summary,kg CH4,Jan,1,0.0,1
+Greenhouse_Gas_Emission,Coal Gas CO2 Conversion factor (DV),Coal Gas CO2 Conversion factor (DV),kgCO2/Mcal,Jan,1,0.62,1
+Greenhouse_Gas_Emission,Coal Gas CO2 Conversion factor(YB),Coal Gas CO2 Conversion factor(YB),kgCO2/Mcal,Jan,1,0.0,1
+Greenhouse_Gas_Emission,Total Coal Gas CO2 Conversion factor,Total Coal Gas CO2 Conversion factor,kgCO2/Mcal,Jan,1,0.62,1
+Greenhouse_Gas_Emission,Total GHG Scope1-Coal (DV),Total GHG Scope1-Coal (DV),Ton CO2,Jan,1,5553.124,1
+Greenhouse_Gas_Emission,Total GHG Scope1-Coal (YB),Total GHG Scope1-Coal (YB),Ton CO2,Jan,1,0.0,1
+Greenhouse_Gas_Emission,Total GHG Scope1-Coal,Total GHG Scope1-Coal,Ton CO2,Jan,1,5553.124,1
+Greenhouse_Gas_Emission,Total GHG Scope1-Coal Gas (DV),Total GHG Scope1-Coal Gas (DV),Ton CO2,Jan,1,6291.733,1
+Greenhouse_Gas_Emission,Total GHG Scope1-Coal Gas (YB),Total GHG Scope1-Coal Gas (YB),Ton CO2,Jan,1,0.0,1
+Greenhouse_Gas_Emission,Total GHG Scope1-Coal Gas,Total GHG Scope1-Coal Gas,Ton CO2,Jan,1,6291.733,1
+Greenhouse_Gas_Emission,Total GHG Scope2 (DV),Total GHG Scope2 (DV),Ton CO2,Jan,1,1050.586,1
+Greenhouse_Gas_Emission,Total GHG Scope2 (YB),Total GHG Scope2 (YB),Ton CO2,Jan,1,0.0,1
+Greenhouse_Gas_Emission,Total GHG Scope2,Total GHG Scope2,Ton CO2,Jan,1,1050.586,1
+Greenhouse_Gas_Emission,Specific GHG Scope1-Coal (DV),Specific GHG Scope1-Coal (DV),kgCO2/ton,Jan,1,577.853,1
+Greenhouse_Gas_Emission,Specific GHG Scope1-Coal (YB),Specific GHG Scope1-Coal (YB),kgCO2/ton,Jan,1,2.059,0
+Greenhouse_Gas_Emission,Specific GHG Scope1-Coal,Specific GHG Scope1-Coal,kgCO2/ton,Jan,1,577.853,1
+Greenhouse_Gas_Emission,Specific GHG Scope1-Coal Gas (DV),Specific GHG Scope1-Coal Gas (DV),kgCO2/ton,Jan,1,654.712,1
+Greenhouse_Gas_Emission,Specific GHG Scope1-Coal Gas (YB),Specific GHG Scope1-Coal Gas (YB),kgCO2/ton,Jan,1,0.0,0
+Greenhouse_Gas_Emission,Specific GHG Scope1-Coal Gas,Specific GHG Scope1-Coal Gas,kgCO2/ton,Jan,1,654.712,1
+Greenhouse_Gas_Emission,Specific GHG Scope2 (DV),Specific GHG Scope2 (DV),kgCO2/ton,Jan,1,109.323,1
+Greenhouse_Gas_Emission,Specific GHG Scope2 (YB),Specific GHG Scope2 (YB),kgCO2/ton,Jan,1,0.294,0
+Greenhouse_Gas_Emission,Specific GHG Scope2,Specific GHG Scope2,kgCO2/ton,Jan,1,109.323,1
+Greenhouse_Gas_Emission,Diesel oil (Station),Diesel oil (Station)/ Dầu cho máy phát điện,Litre,Feb,2,0.0,1
+Greenhouse_Gas_Emission,Acetylene (Station),Acetylene (Station)/ Khí axetilen cho máy Oxi Axetilen,kg,Feb,2,0.0,0
+Greenhouse_Gas_Emission,LPG for Welding (Station),LPG for Welding (Station)/ Gas cho máy cắt Oxi Axetilen (hàn),kg,Feb,2,108.0,1
+Greenhouse_Gas_Emission,Calcium Carbonate ≥900OC (process),Calcium Carbonate ≥900OC (process)/ Bột CaCO3,ton,Feb,2,903.63,1
+Greenhouse_Gas_Emission,Anaerobic Wastewater: Average of flow,Anaerobic Wastewater: Average of flow,m3/day,Feb,2,0.0,0
+Greenhouse_Gas_Emission,Anaerobic Wastewater: COD (Enter anaerobic zone),"Anaerobic Wastewater: COD (Enter anaerobic zone)/ 
+Nhu cầu Oxi để oxi hóa",mg COD/l,Feb,2,0.0,0
+Greenhouse_Gas_Emission,Anaerobic Wastewater: COD (Exit anaerobic zone),Anaerobic Wastewater: COD (Exit anaerobic zone),mg COD/l,Feb,2,0.0,0
+Greenhouse_Gas_Emission,Anaerobic Wastewater: Summary,Anaerobic Wastewater: Summary,kg CH4,Feb,2,0.0,1
+Greenhouse_Gas_Emission,Coal Gas CO2 Conversion factor (DV),Coal Gas CO2 Conversion factor (DV),kgCO2/Mcal,Feb,2,0.904,1
+Greenhouse_Gas_Emission,Coal Gas CO2 Conversion factor(YB),Coal Gas CO2 Conversion factor(YB),kgCO2/Mcal,Feb,2,0.0,1
+Greenhouse_Gas_Emission,Total Coal Gas CO2 Conversion factor,Total Coal Gas CO2 Conversion factor,kgCO2/Mcal,Feb,2,0.904,1
+Greenhouse_Gas_Emission,Total GHG Scope1-Coal (DV),Total GHG Scope1-Coal (DV),Ton CO2,Feb,2,4379.793,1
+Greenhouse_Gas_Emission,Total GHG Scope1-Coal (YB),Total GHG Scope1-Coal (YB),Ton CO2,Feb,2,0.0,1
+Greenhouse_Gas_Emission,Total GHG Scope1-Coal,Total GHG Scope1-Coal,Ton CO2,Feb,2,4379.793,1
+Greenhouse_Gas_Emission,Total GHG Scope1-Coal Gas (DV),Total GHG Scope1-Coal Gas (DV),Ton CO2,Feb,2,4904.465,1
+Greenhouse_Gas_Emission,Total GHG Scope1-Coal Gas (YB),Total GHG Scope1-Coal Gas (YB),Ton CO2,Feb,2,0.0,1
+Greenhouse_Gas_Emission,Total GHG Scope1-Coal Gas,Total GHG Scope1-Coal Gas,Ton CO2,Feb,2,4904.465,1
+Greenhouse_Gas_Emission,Total GHG Scope2 (DV),Total GHG Scope2 (DV),Ton CO2,Feb,2,765.496,1
+Greenhouse_Gas_Emission,Total GHG Scope2 (YB),Total GHG Scope2 (YB),Ton CO2,Feb,2,0.0,1
+Greenhouse_Gas_Emission,Total GHG Scope2,Total GHG Scope2,Ton CO2,Feb,2,765.496,1
+Greenhouse_Gas_Emission,Specific GHG Scope1-Coal (DV),Specific GHG Scope1-Coal (DV),kgCO2/ton,Feb,2,694.095,1
+Greenhouse_Gas_Emission,Specific GHG Scope1-Coal (YB),Specific GHG Scope1-Coal (YB),kgCO2/ton,Feb,2,2.059,0
+Greenhouse_Gas_Emission,Specific GHG Scope1-Coal,Specific GHG Scope1-Coal,kgCO2/ton,Feb,2,694.095,1
+Greenhouse_Gas_Emission,Specific GHG Scope1-Coal Gas (DV),Specific GHG Scope1-Coal Gas (DV),kgCO2/ton,Feb,2,777.243,1
+Greenhouse_Gas_Emission,Specific GHG Scope1-Coal Gas (YB),Specific GHG Scope1-Coal Gas (YB),kgCO2/ton,Feb,2,0.0,0
+Greenhouse_Gas_Emission,Specific GHG Scope1-Coal Gas,Specific GHG Scope1-Coal Gas,kgCO2/ton,Feb,2,777.243,1
+Greenhouse_Gas_Emission,Specific GHG Scope2 (DV),Specific GHG Scope2 (DV),kgCO2/ton,Feb,2,121.313,1
+Greenhouse_Gas_Emission,Specific GHG Scope2 (YB),Specific GHG Scope2 (YB),kgCO2/ton,Feb,2,0.294,0
+Greenhouse_Gas_Emission,Specific GHG Scope2,Specific GHG Scope2,kgCO2/ton,Feb,2,121.313,1
+Greenhouse_Gas_Emission,Diesel oil (Station),Diesel oil (Station)/ Dầu cho máy phát điện,Litre,Mar,3,5500.0,1
+Greenhouse_Gas_Emission,Acetylene (Station),Acetylene (Station)/ Khí axetilen cho máy Oxi Axetilen,kg,Mar,3,0.0,0
+Greenhouse_Gas_Emission,LPG for Welding (Station),LPG for Welding (Station)/ Gas cho máy cắt Oxi Axetilen (hàn),kg,Mar,3,12.0,1
+Greenhouse_Gas_Emission,Calcium Carbonate ≥900OC (process),Calcium Carbonate ≥900OC (process)/ Bột CaCO3,ton,Mar,3,2451.735,1
+Greenhouse_Gas_Emission,Anaerobic Wastewater: Average of flow,Anaerobic Wastewater: Average of flow,m3/day,Mar,3,0.0,0
+Greenhouse_Gas_Emission,Anaerobic Wastewater: COD (Enter anaerobic zone),"Anaerobic Wastewater: COD (Enter anaerobic zone)/ 
+Nhu cầu Oxi để oxi hóa",mg COD/l,Mar,3,0.0,0
+Greenhouse_Gas_Emission,Anaerobic Wastewater: COD (Exit anaerobic zone),Anaerobic Wastewater: COD (Exit anaerobic zone),mg COD/l,Mar,3,0.0,0
+Greenhouse_Gas_Emission,Anaerobic Wastewater: Summary,Anaerobic Wastewater: Summary,kg CH4,Mar,3,0.0,1
+Greenhouse_Gas_Emission,Coal Gas CO2 Conversion factor (DV),Coal Gas CO2 Conversion factor (DV),kgCO2/Mcal,Mar,3,0.611,1
+Greenhouse_Gas_Emission,Coal Gas CO2 Conversion factor(YB),Coal Gas CO2 Conversion factor(YB),kgCO2/Mcal,Mar,3,0.0,1
+Greenhouse_Gas_Emission,Total Coal Gas CO2 Conversion factor,Total Coal Gas CO2 Conversion factor,kgCO2/Mcal,Mar,3,0.611,1
+Greenhouse_Gas_Emission,Total GHG Scope1-Coal (DV),Total GHG Scope1-Coal (DV),Ton CO2,Mar,3,11076.764,1
+Greenhouse_Gas_Emission,Total GHG Scope1-Coal (YB),Total GHG Scope1-Coal (YB),Ton CO2,Mar,3,0.0,1
+Greenhouse_Gas_Emission,Total GHG Scope1-Coal,Total GHG Scope1-Coal,Ton CO2,Mar,3,11076.764,1
+Greenhouse_Gas_Emission,Total GHG Scope1-Coal Gas (DV),Total GHG Scope1-Coal Gas (DV),Ton CO2,Mar,3,12308.448,1
+Greenhouse_Gas_Emission,Total GHG Scope1-Coal Gas (YB),Total GHG Scope1-Coal Gas (YB),Ton CO2,Mar,3,0.0,1
+Greenhouse_Gas_Emission,Total GHG Scope1-Coal Gas,Total GHG Scope1-Coal Gas,Ton CO2,Mar,3,12308.448,1
+Greenhouse_Gas_Emission,Total GHG Scope2 (DV),Total GHG Scope2 (DV),Ton CO2,Mar,3,1796.36,1
+Greenhouse_Gas_Emission,Total GHG Scope2 (YB),Total GHG Scope2 (YB),Ton CO2,Mar,3,0.0,1
+Greenhouse_Gas_Emission,Total GHG Scope2,Total GHG Scope2,Ton CO2,Mar,3,1796.36,1
+Greenhouse_Gas_Emission,Specific GHG Scope1-Coal (DV),Specific GHG Scope1-Coal (DV),kgCO2/ton,Mar,3,624.642,1
+Greenhouse_Gas_Emission,Specific GHG Scope1-Coal (YB),Specific GHG Scope1-Coal (YB),kgCO2/ton,Mar,3,2.059,0
+Greenhouse_Gas_Emission,Specific GHG Scope1-Coal,Specific GHG Scope1-Coal,kgCO2/ton,Mar,3,624.642,1
+Greenhouse_Gas_Emission,Specific GHG Scope1-Coal Gas (DV),Specific GHG Scope1-Coal Gas (DV),kgCO2/ton,Mar,3,694.1,1
+Greenhouse_Gas_Emission,Specific GHG Scope1-Coal Gas (YB),Specific GHG Scope1-Coal Gas (YB),kgCO2/ton,Mar,3,0.0,0
+Greenhouse_Gas_Emission,Specific GHG Scope1-Coal Gas,Specific GHG Scope1-Coal Gas,kgCO2/ton,Mar,3,694.1,1
+Greenhouse_Gas_Emission,Specific GHG Scope2 (DV),Specific GHG Scope2 (DV),kgCO2/ton,Mar,3,101.301,1
+Greenhouse_Gas_Emission,Specific GHG Scope2 (YB),Specific GHG Scope2 (YB),kgCO2/ton,Mar,3,0.294,0
+Greenhouse_Gas_Emission,Specific GHG Scope2,Specific GHG Scope2,kgCO2/ton,Mar,3,101.301,1
+Greenhouse_Gas_Emission,Diesel oil (Station),Diesel oil (Station)/ Dầu cho máy phát điện,Litre,Apr,4,2000.0,1
+Greenhouse_Gas_Emission,Acetylene (Station),Acetylene (Station)/ Khí axetilen cho máy Oxi Axetilen,kg,Apr,4,0.0,0
+Greenhouse_Gas_Emission,LPG for Welding (Station),LPG for Welding (Station)/ Gas cho máy cắt Oxi Axetilen (hàn),kg,Apr,4,12.0,1
+Greenhouse_Gas_Emission,Calcium Carbonate ≥900OC (process),Calcium Carbonate ≥900OC (process)/ Bột CaCO3,ton,Apr,4,2133.495,1
+Greenhouse_Gas_Emission,Anaerobic Wastewater: Average of flow,Anaerobic Wastewater: Average of flow,m3/day,Apr,4,0.0,0
+Greenhouse_Gas_Emission,Anaerobic Wastewater: COD (Enter anaerobic zone),"Anaerobic Wastewater: COD (Enter anaerobic zone)/ 
+Nhu cầu Oxi để oxi hóa",mg COD/l,Apr,4,0.0,0
+Greenhouse_Gas_Emission,Anaerobic Wastewater: COD (Exit anaerobic zone),Anaerobic Wastewater: COD (Exit anaerobic zone),mg COD/l,Apr,4,0.0,0
+Greenhouse_Gas_Emission,Anaerobic Wastewater: Summary,Anaerobic Wastewater: Summary,kg CH4,Apr,4,0.0,1
+Greenhouse_Gas_Emission,Coal Gas CO2 Conversion factor (DV),Coal Gas CO2 Conversion factor (DV),kgCO2/Mcal,Apr,4,0.606,1
+Greenhouse_Gas_Emission,Coal Gas CO2 Conversion factor(YB),Coal Gas CO2 Conversion factor(YB),kgCO2/Mcal,Apr,4,0.0,1
+Greenhouse_Gas_Emission,Total Coal Gas CO2 Conversion factor,Total Coal Gas CO2 Conversion factor,kgCO2/Mcal,Apr,4,0.606,1
+Greenhouse_Gas_Emission,Total GHG Scope1-Coal (DV),Total GHG Scope1-Coal (DV),Ton CO2,Apr,4,9882.497,1
+Greenhouse_Gas_Emission,Total GHG Scope1-Coal (YB),Total GHG Scope1-Coal (YB),Ton CO2,Apr,4,0.0,1
+Greenhouse_Gas_Emission,Total GHG Scope1-Coal,Total GHG Scope1-Coal,Ton CO2,Apr,4,9882.497,1
+Greenhouse_Gas_Emission,Total GHG Scope1-Coal Gas (DV),Total GHG Scope1-Coal Gas (DV),Ton CO2,Apr,4,11012.715,1
+Greenhouse_Gas_Emission,Total GHG Scope1-Coal Gas (YB),Total GHG Scope1-Coal Gas (YB),Ton CO2,Apr,4,0.0,1
+Greenhouse_Gas_Emission,Total GHG Scope1-Coal Gas,Total GHG Scope1-Coal Gas,Ton CO2,Apr,4,11012.715,1
+Greenhouse_Gas_Emission,Total GHG Scope2 (DV),Total GHG Scope2 (DV),Ton CO2,Apr,4,1702.737,1
+Greenhouse_Gas_Emission,Total GHG Scope2 (YB),Total GHG Scope2 (YB),Ton CO2,Apr,4,0.0,1
+Greenhouse_Gas_Emission,Total GHG Scope2,Total GHG Scope2,Ton CO2,Apr,4,1702.737,1
+Greenhouse_Gas_Emission,Specific GHG Scope1-Coal (DV),Specific GHG Scope1-Coal (DV),kgCO2/ton,Apr,4,625.654,1
+Greenhouse_Gas_Emission,Specific GHG Scope1-Coal (YB),Specific GHG Scope1-Coal (YB),kgCO2/ton,Apr,4,2.059,0
+Greenhouse_Gas_Emission,Specific GHG Scope1-Coal,Specific GHG Scope1-Coal,kgCO2/ton,Apr,4,625.654,1
+Greenhouse_Gas_Emission,Specific GHG Scope1-Coal Gas (DV),Specific GHG Scope1-Coal Gas (DV),kgCO2/ton,Apr,4,697.208,1
+Greenhouse_Gas_Emission,Specific GHG Scope1-Coal Gas (YB),Specific GHG Scope1-Coal Gas (YB),kgCO2/ton,Apr,4,0.0,0
+Greenhouse_Gas_Emission,Specific GHG Scope1-Coal Gas,Specific GHG Scope1-Coal Gas,kgCO2/ton,Apr,4,697.208,1
+Greenhouse_Gas_Emission,Specific GHG Scope2 (DV),Specific GHG Scope2 (DV),kgCO2/ton,Apr,4,107.799,1
+Greenhouse_Gas_Emission,Specific GHG Scope2 (YB),Specific GHG Scope2 (YB),kgCO2/ton,Apr,4,0.294,0
+Greenhouse_Gas_Emission,Specific GHG Scope2,Specific GHG Scope2,kgCO2/ton,Apr,4,107.799,1
+Greenhouse_Gas_Emission,Diesel oil (Station),Diesel oil (Station)/ Dầu cho máy phát điện,Litre,May,5,0.0,1
+Greenhouse_Gas_Emission,Acetylene (Station),Acetylene (Station)/ Khí axetilen cho máy Oxi Axetilen,kg,May,5,0.0,0
+Greenhouse_Gas_Emission,LPG for Welding (Station),LPG for Welding (Station)/ Gas cho máy cắt Oxi Axetilen (hàn),kg,May,5,24.0,1
+Greenhouse_Gas_Emission,Calcium Carbonate ≥900OC (process),Calcium Carbonate ≥900OC (process)/ Bột CaCO3,ton,May,5,2066.22,1
+Greenhouse_Gas_Emission,Anaerobic Wastewater: Average of flow,Anaerobic Wastewater: Average of flow,m3/day,May,5,0.0,0
+Greenhouse_Gas_Emission,Anaerobic Wastewater: COD (Enter anaerobic zone),"Anaerobic Wastewater: COD (Enter anaerobic zone)/ 
+Nhu cầu Oxi để oxi hóa",mg COD/l,May,5,0.0,0
+Greenhouse_Gas_Emission,Anaerobic Wastewater: COD (Exit anaerobic zone),Anaerobic Wastewater: COD (Exit anaerobic zone),mg COD/l,May,5,0.0,0
+Greenhouse_Gas_Emission,Anaerobic Wastewater: Summary,Anaerobic Wastewater: Summary,kg CH4,May,5,0.0,1
+Greenhouse_Gas_Emission,Coal Gas CO2 Conversion factor (DV),Coal Gas CO2 Conversion factor (DV),kgCO2/Mcal,May,5,0.636,1
+Greenhouse_Gas_Emission,Coal Gas CO2 Conversion factor(YB),Coal Gas CO2 Conversion factor(YB),kgCO2/Mcal,May,5,0.0,1
+Greenhouse_Gas_Emission,Total Coal Gas CO2 Conversion factor,Total Coal Gas CO2 Conversion factor,kgCO2/Mcal,May,5,0.636,1
+Greenhouse_Gas_Emission,Total GHG Scope1-Coal (DV),Total GHG Scope1-Coal (DV),Ton CO2,May,5,9832.655,1
+Greenhouse_Gas_Emission,Total GHG Scope1-Coal (YB),Total GHG Scope1-Coal (YB),Ton CO2,May,5,0.0,1
+Greenhouse_Gas_Emission,Total GHG Scope1-Coal,Total GHG Scope1-Coal,Ton CO2,May,5,9832.655,1
+Greenhouse_Gas_Emission,Total GHG Scope1-Coal Gas (DV),Total GHG Scope1-Coal Gas (DV),Ton CO2,May,5,11079.226,1
+Greenhouse_Gas_Emission,Total GHG Scope1-Coal Gas (YB),Total GHG Scope1-Coal Gas (YB),Ton CO2,May,5,0.0,1
+Greenhouse_Gas_Emission,Total GHG Scope1-Coal Gas,Total GHG Scope1-Coal Gas,Ton CO2,May,5,11079.226,1
+Greenhouse_Gas_Emission,Total GHG Scope2 (DV),Total GHG Scope2 (DV),Ton CO2,May,5,1806.758,1
+Greenhouse_Gas_Emission,Total GHG Scope2 (YB),Total GHG Scope2 (YB),Ton CO2,May,5,0.0,1
+Greenhouse_Gas_Emission,Total GHG Scope2,Total GHG Scope2,Ton CO2,May,5,1806.758,1
+Greenhouse_Gas_Emission,Specific GHG Scope1-Coal (DV),Specific GHG Scope1-Coal (DV),kgCO2/ton,May,5,611.035,1
+Greenhouse_Gas_Emission,Specific GHG Scope1-Coal (YB),Specific GHG Scope1-Coal (YB),kgCO2/ton,May,5,2.059,0
+Greenhouse_Gas_Emission,Specific GHG Scope1-Coal,Specific GHG Scope1-Coal,kgCO2/ton,May,5,611.035,1
+Greenhouse_Gas_Emission,Specific GHG Scope1-Coal Gas (DV),Specific GHG Scope1-Coal Gas (DV),kgCO2/ton,May,5,688.501,1
+Greenhouse_Gas_Emission,Specific GHG Scope1-Coal Gas (YB),Specific GHG Scope1-Coal Gas (YB),kgCO2/ton,May,5,0.0,0
+Greenhouse_Gas_Emission,Specific GHG Scope1-Coal Gas,Specific GHG Scope1-Coal Gas,kgCO2/ton,May,5,688.501,1
+Greenhouse_Gas_Emission,Specific GHG Scope2 (DV),Specific GHG Scope2 (DV),kgCO2/ton,May,5,112.278,1
+Greenhouse_Gas_Emission,Specific GHG Scope2 (YB),Specific GHG Scope2 (YB),kgCO2/ton,May,5,0.294,0
+Greenhouse_Gas_Emission,Specific GHG Scope2,Specific GHG Scope2,kgCO2/ton,May,5,112.278,1
+Greenhouse_Gas_Emission,Diesel oil (Station),Diesel oil (Station)/ Dầu cho máy phát điện,Litre,Jun,6,0.0,1
+Greenhouse_Gas_Emission,Acetylene (Station),Acetylene (Station)/ Khí axetilen cho máy Oxi Axetilen,kg,Jun,6,0.0,0
+Greenhouse_Gas_Emission,LPG for Welding (Station),LPG for Welding (Station)/ Gas cho máy cắt Oxi Axetilen (hàn),kg,Jun,6,12.0,1
+Greenhouse_Gas_Emission,Calcium Carbonate ≥900OC (process),Calcium Carbonate ≥900OC (process)/ Bột CaCO3,ton,Jun,6,2160.795,1
+Greenhouse_Gas_Emission,Anaerobic Wastewater: Average of flow,Anaerobic Wastewater: Average of flow,m3/day,Jun,6,0.0,0
+Greenhouse_Gas_Emission,Anaerobic Wastewater: COD (Enter anaerobic zone),"Anaerobic Wastewater: COD (Enter anaerobic zone)/ 
+Nhu cầu Oxi để oxi hóa",mg COD/l,Jun,6,0.0,0
+Greenhouse_Gas_Emission,Anaerobic Wastewater: COD (Exit anaerobic zone),Anaerobic Wastewater: COD (Exit anaerobic zone),mg COD/l,Jun,6,0.0,0
+Greenhouse_Gas_Emission,Anaerobic Wastewater: Summary,Anaerobic Wastewater: Summary,kg CH4,Jun,6,0.0,1
+Greenhouse_Gas_Emission,Coal Gas CO2 Conversion factor (DV),Coal Gas CO2 Conversion factor (DV),kgCO2/Mcal,Jun,6,0.619,1
+Greenhouse_Gas_Emission,Coal Gas CO2 Conversion factor(YB),Coal Gas CO2 Conversion factor(YB),kgCO2/Mcal,Jun,6,0.0,1
+Greenhouse_Gas_Emission,Total Coal Gas CO2 Conversion factor,Total Coal Gas CO2 Conversion factor,kgCO2/Mcal,Jun,6,0.619,1
+Greenhouse_Gas_Emission,Total GHG Scope1-Coal (DV),Total GHG Scope1-Coal (DV),Ton CO2,Jun,6,9689.261,1
+Greenhouse_Gas_Emission,Total GHG Scope1-Coal (YB),Total GHG Scope1-Coal (YB),Ton CO2,Jun,6,0.0,1
+Greenhouse_Gas_Emission,Total GHG Scope1-Coal,Total GHG Scope1-Coal,Ton CO2,Jun,6,9689.261,1
+Greenhouse_Gas_Emission,Total GHG Scope1-Coal Gas (DV),Total GHG Scope1-Coal Gas (DV),Ton CO2,Jun,6,11002.203,1
+Greenhouse_Gas_Emission,Total GHG Scope1-Coal Gas (YB),Total GHG Scope1-Coal Gas (YB),Ton CO2,Jun,6,0.0,1
+Greenhouse_Gas_Emission,Total GHG Scope1-Coal Gas,Total GHG Scope1-Coal Gas,Ton CO2,Jun,6,11002.203,1
+Greenhouse_Gas_Emission,Total GHG Scope2 (DV),Total GHG Scope2 (DV),Ton CO2,Jun,6,1863.035,1
+Greenhouse_Gas_Emission,Total GHG Scope2 (YB),Total GHG Scope2 (YB),Ton CO2,Jun,6,0.0,1
+Greenhouse_Gas_Emission,Total GHG Scope2,Total GHG Scope2,Ton CO2,Jun,6,1863.035,1
+Greenhouse_Gas_Emission,Specific GHG Scope1-Coal (DV),Specific GHG Scope1-Coal (DV),kgCO2/ton,Jun,6,590.52,1
+Greenhouse_Gas_Emission,Specific GHG Scope1-Coal (YB),Specific GHG Scope1-Coal (YB),kgCO2/ton,Jun,6,2.059,0
+Greenhouse_Gas_Emission,Specific GHG Scope1-Coal,Specific GHG Scope1-Coal,kgCO2/ton,Jun,6,590.52,1
+Greenhouse_Gas_Emission,Specific GHG Scope1-Coal Gas (DV),Specific GHG Scope1-Coal Gas (DV),kgCO2/ton,Jun,6,670.538,1
+Greenhouse_Gas_Emission,Specific GHG Scope1-Coal Gas (YB),Specific GHG Scope1-Coal Gas (YB),kgCO2/ton,Jun,6,0.0,0
+Greenhouse_Gas_Emission,Specific GHG Scope1-Coal Gas,Specific GHG Scope1-Coal Gas,kgCO2/ton,Jun,6,670.538,1
+Greenhouse_Gas_Emission,Specific GHG Scope2 (DV),Specific GHG Scope2 (DV),kgCO2/ton,Jun,6,113.544,1
+Greenhouse_Gas_Emission,Specific GHG Scope2 (YB),Specific GHG Scope2 (YB),kgCO2/ton,Jun,6,0.294,0
+Greenhouse_Gas_Emission,Specific GHG Scope2,Specific GHG Scope2,kgCO2/ton,Jun,6,113.544,1
+Greenhouse_Gas_Emission,Diesel oil (Station),Diesel oil (Station)/ Dầu cho máy phát điện,Litre,Jul,7,2000.0,1
+Greenhouse_Gas_Emission,Acetylene (Station),Acetylene (Station)/ Khí axetilen cho máy Oxi Axetilen,kg,Jul,7,0.0,0
+Greenhouse_Gas_Emission,LPG for Welding (Station),LPG for Welding (Station)/ Gas cho máy cắt Oxi Axetilen (hàn),kg,Jul,7,0.0,1
+Greenhouse_Gas_Emission,Calcium Carbonate ≥900OC (process),Calcium Carbonate ≥900OC (process)/ Bột CaCO3,ton,Jul,7,2501.265,1
+Greenhouse_Gas_Emission,Anaerobic Wastewater: Average of flow,Anaerobic Wastewater: Average of flow,m3/day,Jul,7,0.0,0
+Greenhouse_Gas_Emission,Anaerobic Wastewater: COD (Enter anaerobic zone),"Anaerobic Wastewater: COD (Enter anaerobic zone)/ 
+Nhu cầu Oxi để oxi hóa",mg COD/l,Jul,7,0.0,0
+Greenhouse_Gas_Emission,Anaerobic Wastewater: COD (Exit anaerobic zone),Anaerobic Wastewater: COD (Exit anaerobic zone),mg COD/l,Jul,7,0.0,0
+Greenhouse_Gas_Emission,Anaerobic Wastewater: Summary,Anaerobic Wastewater: Summary,kg CH4,Jul,7,0.0,1
+Greenhouse_Gas_Emission,Coal Gas CO2 Conversion factor (DV),Coal Gas CO2 Conversion factor (DV),kgCO2/Mcal,Jul,7,0.618,1
+Greenhouse_Gas_Emission,Coal Gas CO2 Conversion factor(YB),Coal Gas CO2 Conversion factor(YB),kgCO2/Mcal,Jul,7,0.0,1
+Greenhouse_Gas_Emission,Total Coal Gas CO2 Conversion factor,Total Coal Gas CO2 Conversion factor,kgCO2/Mcal,Jul,7,0.618,1
+Greenhouse_Gas_Emission,Total GHG Scope1-Coal (DV),Total GHG Scope1-Coal (DV),Ton CO2,Jul,7,10927.69,1
+Greenhouse_Gas_Emission,Total GHG Scope1-Coal (YB),Total GHG Scope1-Coal (YB),Ton CO2,Jul,7,0.0,1
+Greenhouse_Gas_Emission,Total GHG Scope1-Coal,Total GHG Scope1-Coal,Ton CO2,Jul,7,10927.69,1
+Greenhouse_Gas_Emission,Total GHG Scope1-Coal Gas (DV),Total GHG Scope1-Coal Gas (DV),Ton CO2,Jul,7,12430.279,1
+Greenhouse_Gas_Emission,Total GHG Scope1-Coal Gas (YB),Total GHG Scope1-Coal Gas (YB),Ton CO2,Jul,7,0.0,1
+Greenhouse_Gas_Emission,Total GHG Scope1-Coal Gas,Total GHG Scope1-Coal Gas,Ton CO2,Jul,7,12430.279,1
+Greenhouse_Gas_Emission,Total GHG Scope2 (DV),Total GHG Scope2 (DV),Ton CO2,Jul,7,2019.398,1
+Greenhouse_Gas_Emission,Total GHG Scope2 (YB),Total GHG Scope2 (YB),Ton CO2,Jul,7,0.0,1
+Greenhouse_Gas_Emission,Total GHG Scope2,Total GHG Scope2,Ton CO2,Jul,7,2019.398,1
+Greenhouse_Gas_Emission,Specific GHG Scope1-Coal (DV),Specific GHG Scope1-Coal (DV),kgCO2/ton,Jul,7,592.148,1
+Greenhouse_Gas_Emission,Specific GHG Scope1-Coal (YB),Specific GHG Scope1-Coal (YB),kgCO2/ton,Jul,7,2.059,0
+Greenhouse_Gas_Emission,Specific GHG Scope1-Coal,Specific GHG Scope1-Coal,kgCO2/ton,Jul,7,592.148,1
+Greenhouse_Gas_Emission,Specific GHG Scope1-Coal Gas (DV),Specific GHG Scope1-Coal Gas (DV),kgCO2/ton,Jul,7,673.57,1
+Greenhouse_Gas_Emission,Specific GHG Scope1-Coal Gas (YB),Specific GHG Scope1-Coal Gas (YB),kgCO2/ton,Jul,7,0.0,0
+Greenhouse_Gas_Emission,Specific GHG Scope1-Coal Gas,Specific GHG Scope1-Coal Gas,kgCO2/ton,Jul,7,673.57,1
+Greenhouse_Gas_Emission,Specific GHG Scope2 (DV),Specific GHG Scope2 (DV),kgCO2/ton,Jul,7,109.427,1
+Greenhouse_Gas_Emission,Specific GHG Scope2 (YB),Specific GHG Scope2 (YB),kgCO2/ton,Jul,7,0.294,0
+Greenhouse_Gas_Emission,Specific GHG Scope2,Specific GHG Scope2,kgCO2/ton,Jul,7,109.427,1
+Greenhouse_Gas_Emission,Diesel oil (Station),Diesel oil (Station)/ Dầu cho máy phát điện,Litre,Aug,8,0.0,1
+Greenhouse_Gas_Emission,Acetylene (Station),Acetylene (Station)/ Khí axetilen cho máy Oxi Axetilen,kg,Aug,8,0.0,0
+Greenhouse_Gas_Emission,LPG for Welding (Station),LPG for Welding (Station)/ Gas cho máy cắt Oxi Axetilen (hàn),kg,Aug,8,12.0,0
+Greenhouse_Gas_Emission,Calcium Carbonate ≥900OC (process),Calcium Carbonate ≥900OC (process)/ Bột CaCO3,ton,Aug,8,2094.69,1
+Greenhouse_Gas_Emission,Anaerobic Wastewater: Average of flow,Anaerobic Wastewater: Average of flow,m3/day,Aug,8,0.0,0
+Greenhouse_Gas_Emission,Anaerobic Wastewater: COD (Enter anaerobic zone),"Anaerobic Wastewater: COD (Enter anaerobic zone)/ 
+Nhu cầu Oxi để oxi hóa",mg COD/l,Aug,8,0.0,0
+Greenhouse_Gas_Emission,Anaerobic Wastewater: COD (Exit anaerobic zone),Anaerobic Wastewater: COD (Exit anaerobic zone),mg COD/l,Aug,8,0.0,0
+Greenhouse_Gas_Emission,Anaerobic Wastewater: Summary,Anaerobic Wastewater: Summary,kg CH4,Aug,8,0.0,1
+Greenhouse_Gas_Emission,Coal Gas CO2 Conversion factor (DV),Coal Gas CO2 Conversion factor (DV),kgCO2/Mcal,Aug,8,0.602,1
+Greenhouse_Gas_Emission,Coal Gas CO2 Conversion factor(YB),Coal Gas CO2 Conversion factor(YB),kgCO2/Mcal,Aug,8,0.0,1
+Greenhouse_Gas_Emission,Total Coal Gas CO2 Conversion factor,Total Coal Gas CO2 Conversion factor,kgCO2/Mcal,Aug,8,0.602,1
+Greenhouse_Gas_Emission,Total GHG Scope1-Coal (DV),Total GHG Scope1-Coal (DV),Ton CO2,Aug,8,9536.983,1
+Greenhouse_Gas_Emission,Total GHG Scope1-Coal (YB),Total GHG Scope1-Coal (YB),Ton CO2,Aug,8,0.0,1
+Greenhouse_Gas_Emission,Total GHG Scope1-Coal,Total GHG Scope1-Coal,Ton CO2,Aug,8,9536.983,1
+Greenhouse_Gas_Emission,Total GHG Scope1-Coal Gas (DV),Total GHG Scope1-Coal Gas (DV),Ton CO2,Aug,8,10721.683,1
+Greenhouse_Gas_Emission,Total GHG Scope1-Coal Gas (YB),Total GHG Scope1-Coal Gas (YB),Ton CO2,Aug,8,0.0,1
+Greenhouse_Gas_Emission,Total GHG Scope1-Coal Gas,Total GHG Scope1-Coal Gas,Ton CO2,Aug,8,10721.683,1
+Greenhouse_Gas_Emission,Total GHG Scope2 (DV),Total GHG Scope2 (DV),Ton CO2,Aug,8,1743.068,1
+Greenhouse_Gas_Emission,Total GHG Scope2 (YB),Total GHG Scope2 (YB),Ton CO2,Aug,8,0.0,1
+Greenhouse_Gas_Emission,Total GHG Scope2,Total GHG Scope2,Ton CO2,Aug,8,1743.068,1
+Greenhouse_Gas_Emission,Specific GHG Scope1-Coal (DV),Specific GHG Scope1-Coal (DV),kgCO2/ton,Aug,8,589.444,1
+Greenhouse_Gas_Emission,Specific GHG Scope1-Coal (YB),Specific GHG Scope1-Coal (YB),kgCO2/ton,Aug,8,2.059,0
+Greenhouse_Gas_Emission,Specific GHG Scope1-Coal,Specific GHG Scope1-Coal,kgCO2/ton,Aug,8,589.444,1
+Greenhouse_Gas_Emission,Specific GHG Scope1-Coal Gas (DV),Specific GHG Scope1-Coal Gas (DV),kgCO2/ton,Aug,8,662.665,1
+Greenhouse_Gas_Emission,Specific GHG Scope1-Coal Gas (YB),Specific GHG Scope1-Coal Gas (YB),kgCO2/ton,Aug,8,0.0,0
+Greenhouse_Gas_Emission,Specific GHG Scope1-Coal Gas,Specific GHG Scope1-Coal Gas,kgCO2/ton,Aug,8,662.665,1
+Greenhouse_Gas_Emission,Specific GHG Scope2 (DV),Specific GHG Scope2 (DV),kgCO2/ton,Aug,8,107.732,1
+Greenhouse_Gas_Emission,Specific GHG Scope2 (YB),Specific GHG Scope2 (YB),kgCO2/ton,Aug,8,0.294,0
+Greenhouse_Gas_Emission,Specific GHG Scope2,Specific GHG Scope2,kgCO2/ton,Aug,8,107.732,1
+Greenhouse_Gas_Emission,Diesel oil (Station),Diesel oil (Station)/ Dầu cho máy phát điện,Litre,Sep,9,4000.0,1
+Greenhouse_Gas_Emission,Acetylene (Station),Acetylene (Station)/ Khí axetilen cho máy Oxi Axetilen,kg,Sep,9,0.0,0
+Greenhouse_Gas_Emission,LPG for Welding (Station),LPG for Welding (Station)/ Gas cho máy cắt Oxi Axetilen (hàn),kg,Sep,9,12.0,0
+Greenhouse_Gas_Emission,Calcium Carbonate ≥900OC (process),Calcium Carbonate ≥900OC (process)/ Bột CaCO3,ton,Sep,9,1523.34,1
+Greenhouse_Gas_Emission,Anaerobic Wastewater: Average of flow,Anaerobic Wastewater: Average of flow,m3/day,Sep,9,0.0,0
+Greenhouse_Gas_Emission,Anaerobic Wastewater: COD (Enter anaerobic zone),"Anaerobic Wastewater: COD (Enter anaerobic zone)/ 
+Nhu cầu Oxi để oxi hóa",mg COD/l,Sep,9,0.0,0
+Greenhouse_Gas_Emission,Anaerobic Wastewater: COD (Exit anaerobic zone),Anaerobic Wastewater: COD (Exit anaerobic zone),mg COD/l,Sep,9,0.0,0
+Greenhouse_Gas_Emission,Anaerobic Wastewater: Summary,Anaerobic Wastewater: Summary,kg CH4,Sep,9,0.0,1
+Greenhouse_Gas_Emission,Coal Gas CO2 Conversion factor (DV),Coal Gas CO2 Conversion factor (DV),kgCO2/Mcal,Sep,9,0.58,1
+Greenhouse_Gas_Emission,Coal Gas CO2 Conversion factor(YB),Coal Gas CO2 Conversion factor(YB),kgCO2/Mcal,Sep,9,0.0,1
+Greenhouse_Gas_Emission,Total Coal Gas CO2 Conversion factor,Total Coal Gas CO2 Conversion factor,kgCO2/Mcal,Sep,9,0.58,1
+Greenhouse_Gas_Emission,Total GHG Scope1-Coal (DV),Total GHG Scope1-Coal (DV),Ton CO2,Sep,9,7218.232,1
+Greenhouse_Gas_Emission,Total GHG Scope1-Coal (YB),Total GHG Scope1-Coal (YB),Ton CO2,Sep,9,0.0,1
+Greenhouse_Gas_Emission,Total GHG Scope1-Coal,Total GHG Scope1-Coal,Ton CO2,Sep,9,7218.232,1
+Greenhouse_Gas_Emission,Total GHG Scope1-Coal Gas (DV),Total GHG Scope1-Coal Gas (DV),Ton CO2,Sep,9,8262.22,1
+Greenhouse_Gas_Emission,Total GHG Scope1-Coal Gas (YB),Total GHG Scope1-Coal Gas (YB),Ton CO2,Sep,9,0.0,1
+Greenhouse_Gas_Emission,Total GHG Scope1-Coal Gas,Total GHG Scope1-Coal Gas,Ton CO2,Sep,9,8262.22,1
+Greenhouse_Gas_Emission,Total GHG Scope2 (DV),Total GHG Scope2 (DV),Ton CO2,Sep,9,1410.082,1
+Greenhouse_Gas_Emission,Total GHG Scope2 (YB),Total GHG Scope2 (YB),Ton CO2,Sep,9,0.0,1
+Greenhouse_Gas_Emission,Total GHG Scope2,Total GHG Scope2,Ton CO2,Sep,9,1410.082,1
+Greenhouse_Gas_Emission,Specific GHG Scope1-Coal (DV),Specific GHG Scope1-Coal (DV),kgCO2/ton,Sep,9,594.741,1
+Greenhouse_Gas_Emission,Specific GHG Scope1-Coal (YB),Specific GHG Scope1-Coal (YB),kgCO2/ton,Sep,9,2.059,0
+Greenhouse_Gas_Emission,Specific GHG Scope1-Coal,Specific GHG Scope1-Coal,kgCO2/ton,Sep,9,594.741,1
+Greenhouse_Gas_Emission,Specific GHG Scope1-Coal Gas (DV),Specific GHG Scope1-Coal Gas (DV),kgCO2/ton,Sep,9,680.76,1
+Greenhouse_Gas_Emission,Specific GHG Scope1-Coal Gas (YB),Specific GHG Scope1-Coal Gas (YB),kgCO2/ton,Sep,9,0.0,0
+Greenhouse_Gas_Emission,Specific GHG Scope1-Coal Gas,Specific GHG Scope1-Coal Gas,kgCO2/ton,Sep,9,680.76,1
+Greenhouse_Gas_Emission,Specific GHG Scope2 (DV),Specific GHG Scope2 (DV),kgCO2/ton,Sep,9,116.183,1
+Greenhouse_Gas_Emission,Specific GHG Scope2 (YB),Specific GHG Scope2 (YB),kgCO2/ton,Sep,9,0.294,0
+Greenhouse_Gas_Emission,Specific GHG Scope2,Specific GHG Scope2,kgCO2/ton,Sep,9,116.183,1
+Greenhouse_Gas_Emission,Diesel oil (Station),Diesel oil (Station)/ Dầu cho máy phát điện,Litre,Oct,10,0.0,1
+Greenhouse_Gas_Emission,Acetylene (Station),Acetylene (Station)/ Khí axetilen cho máy Oxi Axetilen,kg,Oct,10,0.0,0
+Greenhouse_Gas_Emission,LPG for Welding (Station),LPG for Welding (Station)/ Gas cho máy cắt Oxi Axetilen (hàn),kg,Oct,10,12.0,0
+Greenhouse_Gas_Emission,Calcium Carbonate ≥900OC (process),Calcium Carbonate ≥900OC (process)/ Bột CaCO3,ton,Oct,10,1624.155,1
+Greenhouse_Gas_Emission,Anaerobic Wastewater: Average of flow,Anaerobic Wastewater: Average of flow,m3/day,Oct,10,0.0,0
+Greenhouse_Gas_Emission,Anaerobic Wastewater: COD (Enter anaerobic zone),"Anaerobic Wastewater: COD (Enter anaerobic zone)/ 
+Nhu cầu Oxi để oxi hóa",mg COD/l,Oct,10,0.0,0
+Greenhouse_Gas_Emission,Anaerobic Wastewater: COD (Exit anaerobic zone),Anaerobic Wastewater: COD (Exit anaerobic zone),mg COD/l,Oct,10,0.0,0
+Greenhouse_Gas_Emission,Anaerobic Wastewater: Summary,Anaerobic Wastewater: Summary,kg CH4,Oct,10,0.0,1
+Greenhouse_Gas_Emission,Coal Gas CO2 Conversion factor (DV),Coal Gas CO2 Conversion factor (DV),kgCO2/Mcal,Oct,10,0.639,1
+Greenhouse_Gas_Emission,Coal Gas CO2 Conversion factor(YB),Coal Gas CO2 Conversion factor(YB),kgCO2/Mcal,Oct,10,0.0,1
+Greenhouse_Gas_Emission,Total Coal Gas CO2 Conversion factor,Total Coal Gas CO2 Conversion factor,kgCO2/Mcal,Oct,10,0.639,1
+Greenhouse_Gas_Emission,Total GHG Scope1-Coal (DV),Total GHG Scope1-Coal (DV),Ton CO2,Oct,10,7638.445,1
+Greenhouse_Gas_Emission,Total GHG Scope1-Coal (YB),Total GHG Scope1-Coal (YB),Ton CO2,Oct,10,0.0,1
+Greenhouse_Gas_Emission,Total GHG Scope1-Coal,Total GHG Scope1-Coal,Ton CO2,Oct,10,7638.445,1
+Greenhouse_Gas_Emission,Total GHG Scope1-Coal Gas (DV),Total GHG Scope1-Coal Gas (DV),Ton CO2,Oct,10,8630.702,1
+Greenhouse_Gas_Emission,Total GHG Scope1-Coal Gas (YB),Total GHG Scope1-Coal Gas (YB),Ton CO2,Oct,10,0.0,1
+Greenhouse_Gas_Emission,Total GHG Scope1-Coal Gas,Total GHG Scope1-Coal Gas,Ton CO2,Oct,10,8630.702,1
+Greenhouse_Gas_Emission,Total GHG Scope2 (DV),Total GHG Scope2 (DV),Ton CO2,Oct,10,1411.086,1
+Greenhouse_Gas_Emission,Total GHG Scope2 (YB),Total GHG Scope2 (YB),Ton CO2,Oct,10,0.0,1
+Greenhouse_Gas_Emission,Total GHG Scope2,Total GHG Scope2,Ton CO2,Oct,10,1411.086,1
+Greenhouse_Gas_Emission,Specific GHG Scope1-Coal (DV),Specific GHG Scope1-Coal (DV),kgCO2/ton,Oct,10,612.799,1
+Greenhouse_Gas_Emission,Specific GHG Scope1-Coal (YB),Specific GHG Scope1-Coal (YB),kgCO2/ton,Oct,10,2.059,0
+Greenhouse_Gas_Emission,Specific GHG Scope1-Coal,Specific GHG Scope1-Coal,kgCO2/ton,Oct,10,612.799,1
+Greenhouse_Gas_Emission,Specific GHG Scope1-Coal Gas (DV),Specific GHG Scope1-Coal Gas (DV),kgCO2/ton,Oct,10,692.404,1
+Greenhouse_Gas_Emission,Specific GHG Scope1-Coal Gas (YB),Specific GHG Scope1-Coal Gas (YB),kgCO2/ton,Oct,10,0.0,0
+Greenhouse_Gas_Emission,Specific GHG Scope1-Coal Gas,Specific GHG Scope1-Coal Gas,kgCO2/ton,Oct,10,692.404,1
+Greenhouse_Gas_Emission,Specific GHG Scope2 (DV),Specific GHG Scope2 (DV),kgCO2/ton,Oct,10,113.205,1
+Greenhouse_Gas_Emission,Specific GHG Scope2 (YB),Specific GHG Scope2 (YB),kgCO2/ton,Oct,10,0.294,0
+Greenhouse_Gas_Emission,Specific GHG Scope2,Specific GHG Scope2,kgCO2/ton,Oct,10,113.205,1
+Greenhouse_Gas_Emission,Diesel oil (Station),Diesel oil (Station)/ Dầu cho máy phát điện,Litre,Nov,11,5000.0,1
+Greenhouse_Gas_Emission,Acetylene (Station),Acetylene (Station)/ Khí axetilen cho máy Oxi Axetilen,kg,Nov,11,0.0,0
+Greenhouse_Gas_Emission,LPG for Welding (Station),LPG for Welding (Station)/ Gas cho máy cắt Oxi Axetilen (hàn),kg,Nov,11,36.0,1
+Greenhouse_Gas_Emission,Calcium Carbonate ≥900OC (process),Calcium Carbonate ≥900OC (process)/ Bột CaCO3,ton,Nov,11,1624.35,1
+Greenhouse_Gas_Emission,Anaerobic Wastewater: Average of flow,Anaerobic Wastewater: Average of flow,m3/day,Nov,11,0.0,0
+Greenhouse_Gas_Emission,Anaerobic Wastewater: COD (Enter anaerobic zone),"Anaerobic Wastewater: COD (Enter anaerobic zone)/ 
+Nhu cầu Oxi để oxi hóa",mg COD/l,Nov,11,0.0,0
+Greenhouse_Gas_Emission,Anaerobic Wastewater: COD (Exit anaerobic zone),Anaerobic Wastewater: COD (Exit anaerobic zone),mg COD/l,Nov,11,0.0,0
+Greenhouse_Gas_Emission,Anaerobic Wastewater: Summary,Anaerobic Wastewater: Summary,kg CH4,Nov,11,0.0,1
+Greenhouse_Gas_Emission,Coal Gas CO2 Conversion factor (DV),Coal Gas CO2 Conversion factor (DV),kgCO2/Mcal,Nov,11,0.58,1
+Greenhouse_Gas_Emission,Coal Gas CO2 Conversion factor(YB),Coal Gas CO2 Conversion factor(YB),kgCO2/Mcal,Nov,11,0.0,1
+Greenhouse_Gas_Emission,Total Coal Gas CO2 Conversion factor,Total Coal Gas CO2 Conversion factor,kgCO2/Mcal,Nov,11,0.58,1
+Greenhouse_Gas_Emission,Total GHG Scope1-Coal (DV),Total GHG Scope1-Coal (DV),Ton CO2,Nov,11,7146.43,1
+Greenhouse_Gas_Emission,Total GHG Scope1-Coal (YB),Total GHG Scope1-Coal (YB),Ton CO2,Nov,11,0.0,1
+Greenhouse_Gas_Emission,Total GHG Scope1-Coal,Total GHG Scope1-Coal,Ton CO2,Nov,11,7146.43,1
+Greenhouse_Gas_Emission,Total GHG Scope1-Coal Gas (DV),Total GHG Scope1-Coal Gas (DV),Ton CO2,Nov,11,8074.885,1
+Greenhouse_Gas_Emission,Total GHG Scope1-Coal Gas (YB),Total GHG Scope1-Coal Gas (YB),Ton CO2,Nov,11,0.0,1
+Greenhouse_Gas_Emission,Total GHG Scope1-Coal Gas,Total GHG Scope1-Coal Gas,Ton CO2,Nov,11,8074.885,1
+Greenhouse_Gas_Emission,Total GHG Scope2 (DV),Total GHG Scope2 (DV),Ton CO2,Nov,11,1357.287,1
+Greenhouse_Gas_Emission,Total GHG Scope2 (YB),Total GHG Scope2 (YB),Ton CO2,Nov,11,0.0,1
+Greenhouse_Gas_Emission,Total GHG Scope2,Total GHG Scope2,Ton CO2,Nov,11,1357.287,1
+Greenhouse_Gas_Emission,Specific GHG Scope1-Coal (DV),Specific GHG Scope1-Coal (DV),kgCO2/ton,Nov,11,579.872,1
+Greenhouse_Gas_Emission,Specific GHG Scope1-Coal (YB),Specific GHG Scope1-Coal (YB),kgCO2/ton,Nov,11,0.0,1
+Greenhouse_Gas_Emission,Specific GHG Scope1-Coal,Specific GHG Scope1-Coal,kgCO2/ton,Nov,11,579.872,1
+Greenhouse_Gas_Emission,Specific GHG Scope1-Coal Gas (DV),Specific GHG Scope1-Coal Gas (DV),kgCO2/ton,Nov,11,655.208,1
+Greenhouse_Gas_Emission,Specific GHG Scope1-Coal Gas (YB),Specific GHG Scope1-Coal Gas (YB),kgCO2/ton,Nov,11,0.0,0
+Greenhouse_Gas_Emission,Specific GHG Scope1-Coal Gas,Specific GHG Scope1-Coal Gas,kgCO2/ton,Nov,11,655.208,1
+Greenhouse_Gas_Emission,Specific GHG Scope2 (DV),Specific GHG Scope2 (DV),kgCO2/ton,Nov,11,110.132,1
+Greenhouse_Gas_Emission,Specific GHG Scope2 (YB),Specific GHG Scope2 (YB),kgCO2/ton,Nov,11,0.0,1
+Greenhouse_Gas_Emission,Specific GHG Scope2,Specific GHG Scope2,kgCO2/ton,Nov,11,110.132,1
+Greenhouse_Gas_Emission,Diesel oil (Station),Diesel oil (Station)/ Dầu cho máy phát điện,Litre,Dec,12,18000.0,1
+Greenhouse_Gas_Emission,Acetylene (Station),Acetylene (Station)/ Khí axetilen cho máy Oxi Axetilen,kg,Dec,12,0.0,0
+Greenhouse_Gas_Emission,LPG for Welding (Station),LPG for Welding (Station)/ Gas cho máy cắt Oxi Axetilen (hàn),kg,Dec,12,0.0,1
+Greenhouse_Gas_Emission,Calcium Carbonate ≥900OC (process),Calcium Carbonate ≥900OC (process)/ Bột CaCO3,ton,Dec,12,1872.75,1
+Greenhouse_Gas_Emission,Anaerobic Wastewater: Average of flow,Anaerobic Wastewater: Average of flow,m3/day,Dec,12,0.0,0
+Greenhouse_Gas_Emission,Anaerobic Wastewater: COD (Enter anaerobic zone),"Anaerobic Wastewater: COD (Enter anaerobic zone)/ 
+Nhu cầu Oxi để oxi hóa",mg COD/l,Dec,12,0.0,0
+Greenhouse_Gas_Emission,Anaerobic Wastewater: COD (Exit anaerobic zone),Anaerobic Wastewater: COD (Exit anaerobic zone),mg COD/l,Dec,12,0.0,0
+Greenhouse_Gas_Emission,Anaerobic Wastewater: Summary,Anaerobic Wastewater: Summary,kg CH4,Dec,12,0.0,1
+Greenhouse_Gas_Emission,Coal Gas CO2 Conversion factor (DV),Coal Gas CO2 Conversion factor (DV),kgCO2/Mcal,Dec,12,0.645,1
+Greenhouse_Gas_Emission,Coal Gas CO2 Conversion factor(YB),Coal Gas CO2 Conversion factor(YB),kgCO2/Mcal,Dec,12,0.0,1
+Greenhouse_Gas_Emission,Total Coal Gas CO2 Conversion factor,Total Coal Gas CO2 Conversion factor,kgCO2/Mcal,Dec,12,0.65,1
+Greenhouse_Gas_Emission,Total GHG Scope1-Coal (DV),Total GHG Scope1-Coal (DV),Ton CO2,Dec,12,9549.209,1
+Greenhouse_Gas_Emission,Total GHG Scope1-Coal (YB),Total GHG Scope1-Coal (YB),Ton CO2,Dec,12,64.161,1
+Greenhouse_Gas_Emission,Total GHG Scope1-Coal,Total GHG Scope1-Coal,Ton CO2,Dec,12,9613.37,1
+Greenhouse_Gas_Emission,Total GHG Scope1-Coal Gas (DV),Total GHG Scope1-Coal Gas (DV),Ton CO2,Dec,12,10656.962,1
+Greenhouse_Gas_Emission,Total GHG Scope1-Coal Gas (YB),Total GHG Scope1-Coal Gas (YB),Ton CO2,Dec,12,0.0,1
+Greenhouse_Gas_Emission,Total GHG Scope1-Coal Gas,Total GHG Scope1-Coal Gas,Ton CO2,Dec,12,10656.962,1
+Greenhouse_Gas_Emission,Total GHG Scope2 (DV),Total GHG Scope2 (DV),Ton CO2,Dec,12,1588.814,1
+Greenhouse_Gas_Emission,Total GHG Scope2 (YB),Total GHG Scope2 (YB),Ton CO2,Dec,12,9.161,1
+Greenhouse_Gas_Emission,Total GHG Scope2,Total GHG Scope2,Ton CO2,Dec,12,1597.974,1
+Greenhouse_Gas_Emission,Specific GHG Scope1-Coal (DV),Specific GHG Scope1-Coal (DV),kgCO2/ton,Dec,12,612.904,1
+Greenhouse_Gas_Emission,Specific GHG Scope1-Coal (YB),Specific GHG Scope1-Coal (YB),kgCO2/ton,Dec,12,4.118,1
+Greenhouse_Gas_Emission,Specific GHG Scope1-Coal,Specific GHG Scope1-Coal,kgCO2/ton,Dec,12,600.688,1
+Greenhouse_Gas_Emission,Specific GHG Scope1-Coal Gas (DV),Specific GHG Scope1-Coal Gas (DV),kgCO2/ton,Dec,12,684.004,1
+Greenhouse_Gas_Emission,Specific GHG Scope1-Coal Gas (YB),Specific GHG Scope1-Coal Gas (YB),kgCO2/ton,Dec,12,0.0,1
+Greenhouse_Gas_Emission,Specific GHG Scope1-Coal Gas,Specific GHG Scope1-Coal Gas,kgCO2/ton,Dec,12,665.896,1
+Greenhouse_Gas_Emission,Specific GHG Scope2 (DV),Specific GHG Scope2 (DV),kgCO2/ton,Dec,12,101.976,1
+Greenhouse_Gas_Emission,Specific GHG Scope2 (YB),Specific GHG Scope2 (YB),kgCO2/ton,Dec,12,0.588,1
+Greenhouse_Gas_Emission,Specific GHG Scope2,Specific GHG Scope2,kgCO2/ton,Dec,12,99.849,1
+Energy_Cost,Coal,Coal,Local Currency,Jan,1,0.0,0
+Energy_Cost,Lignite,Lignite,Local Currency,Jan,1,0.0,0
+Energy_Cost,Natural Gas,Natural Gas,Local Currency,Jan,1,0.0,0
+Energy_Cost,Co-generation (Heat),Co-generation (Heat),Local Currency,Jan,1,0.0,0
+Energy_Cost,LPG,LPG,Local Currency,Jan,1,0.0,0
+Energy_Cost,Heavy fuel oil / Bunker oil,Heavy fuel oil / Bunker oil,Local Currency,Jan,1,0.0,0
+Energy_Cost,Diesel,Diesel,Ringgit,Jan,1,0.0,0
+Energy_Cost,Gasoline,Gasoline,Local Currency,Jan,1,0.0,0
+Energy_Cost,Steam,Steam,Local Currency,Jan,1,0.0,0
+Energy_Cost,Solid Biomass (Renewable Energy),Solid Biomass (Renewable Energy),Local Currency,Jan,1,0.0,0
+Energy_Cost,Electricity,Electricity,Ringgit,Jan,1,0.0,0
+Energy_Cost,Co-generation (Power),Co-generation (Power),Local Currency,Jan,1,0.0,0
+Energy_Cost,Solar Cell (Renewable Energy),Solar Cell (Renewable Energy),Local Currency,Jan,1,0.0,0
+Energy_Cost,Coal,Coal,Local Currency,Feb,2,0.0,0
+Energy_Cost,Lignite,Lignite,Local Currency,Feb,2,0.0,0
+Energy_Cost,Natural Gas,Natural Gas,Local Currency,Feb,2,0.0,0
+Energy_Cost,Co-generation (Heat),Co-generation (Heat),Local Currency,Feb,2,0.0,0
+Energy_Cost,LPG,LPG,Local Currency,Feb,2,0.0,0
+Energy_Cost,Heavy fuel oil / Bunker oil,Heavy fuel oil / Bunker oil,Local Currency,Feb,2,0.0,0
+Energy_Cost,Diesel,Diesel,Ringgit,Feb,2,0.0,0
+Energy_Cost,Gasoline,Gasoline,Local Currency,Feb,2,0.0,0
+Energy_Cost,Steam,Steam,Local Currency,Feb,2,0.0,0
+Energy_Cost,Solid Biomass (Renewable Energy),Solid Biomass (Renewable Energy),Local Currency,Feb,2,0.0,0
+Energy_Cost,Electricity,Electricity,Ringgit,Feb,2,0.0,0
+Energy_Cost,Co-generation (Power),Co-generation (Power),Local Currency,Feb,2,0.0,0
+Energy_Cost,Solar Cell (Renewable Energy),Solar Cell (Renewable Energy),Local Currency,Feb,2,0.0,0
+Energy_Cost,Coal,Coal,Local Currency,Mar,3,0.0,0
+Energy_Cost,Lignite,Lignite,Local Currency,Mar,3,0.0,0
+Energy_Cost,Natural Gas,Natural Gas,Local Currency,Mar,3,0.0,0
+Energy_Cost,Co-generation (Heat),Co-generation (Heat),Local Currency,Mar,3,0.0,0
+Energy_Cost,LPG,LPG,Local Currency,Mar,3,0.0,0
+Energy_Cost,Heavy fuel oil / Bunker oil,Heavy fuel oil / Bunker oil,Local Currency,Mar,3,0.0,0
+Energy_Cost,Diesel,Diesel,Ringgit,Mar,3,0.0,0
+Energy_Cost,Gasoline,Gasoline,Local Currency,Mar,3,0.0,0
+Energy_Cost,Steam,Steam,Local Currency,Mar,3,0.0,0
+Energy_Cost,Solid Biomass (Renewable Energy),Solid Biomass (Renewable Energy),Local Currency,Mar,3,0.0,0
+Energy_Cost,Electricity,Electricity,Ringgit,Mar,3,0.0,0
+Energy_Cost,Co-generation (Power),Co-generation (Power),Local Currency,Mar,3,0.0,0
+Energy_Cost,Solar Cell (Renewable Energy),Solar Cell (Renewable Energy),Local Currency,Mar,3,0.0,0
+Energy_Cost,Coal,Coal,Local Currency,Apr,4,0.0,0
+Energy_Cost,Lignite,Lignite,Local Currency,Apr,4,0.0,0
+Energy_Cost,Natural Gas,Natural Gas,Local Currency,Apr,4,0.0,0
+Energy_Cost,Co-generation (Heat),Co-generation (Heat),Local Currency,Apr,4,0.0,0
+Energy_Cost,LPG,LPG,Local Currency,Apr,4,0.0,0
+Energy_Cost,Heavy fuel oil / Bunker oil,Heavy fuel oil / Bunker oil,Local Currency,Apr,4,0.0,0
+Energy_Cost,Diesel,Diesel,Ringgit,Apr,4,0.0,0
+Energy_Cost,Gasoline,Gasoline,Local Currency,Apr,4,0.0,0
+Energy_Cost,Steam,Steam,Local Currency,Apr,4,0.0,0
+Energy_Cost,Solid Biomass (Renewable Energy),Solid Biomass (Renewable Energy),Local Currency,Apr,4,0.0,0
+Energy_Cost,Electricity,Electricity,Ringgit,Apr,4,0.0,0
+Energy_Cost,Co-generation (Power),Co-generation (Power),Local Currency,Apr,4,0.0,0
+Energy_Cost,Solar Cell (Renewable Energy),Solar Cell (Renewable Energy),Local Currency,Apr,4,0.0,0
+Energy_Cost,Coal,Coal,Local Currency,May,5,0.0,0
+Energy_Cost,Lignite,Lignite,Local Currency,May,5,0.0,0
+Energy_Cost,Natural Gas,Natural Gas,Local Currency,May,5,0.0,0
+Energy_Cost,Co-generation (Heat),Co-generation (Heat),Local Currency,May,5,0.0,0
+Energy_Cost,LPG,LPG,Local Currency,May,5,0.0,0
+Energy_Cost,Heavy fuel oil / Bunker oil,Heavy fuel oil / Bunker oil,Local Currency,May,5,0.0,0
+Energy_Cost,Diesel,Diesel,Ringgit,May,5,0.0,0
+Energy_Cost,Gasoline,Gasoline,Local Currency,May,5,0.0,0
+Energy_Cost,Steam,Steam,Local Currency,May,5,0.0,0
+Energy_Cost,Solid Biomass (Renewable Energy),Solid Biomass (Renewable Energy),Local Currency,May,5,0.0,0
+Energy_Cost,Electricity,Electricity,Ringgit,May,5,0.0,0
+Energy_Cost,Co-generation (Power),Co-generation (Power),Local Currency,May,5,0.0,0
+Energy_Cost,Solar Cell (Renewable Energy),Solar Cell (Renewable Energy),Local Currency,May,5,0.0,0
+Energy_Cost,Coal,Coal,Local Currency,Jun,6,0.0,0
+Energy_Cost,Lignite,Lignite,Local Currency,Jun,6,0.0,0
+Energy_Cost,Natural Gas,Natural Gas,Local Currency,Jun,6,0.0,0
+Energy_Cost,Co-generation (Heat),Co-generation (Heat),Local Currency,Jun,6,0.0,0
+Energy_Cost,LPG,LPG,Local Currency,Jun,6,0.0,0
+Energy_Cost,Heavy fuel oil / Bunker oil,Heavy fuel oil / Bunker oil,Local Currency,Jun,6,0.0,0
+Energy_Cost,Diesel,Diesel,Ringgit,Jun,6,0.0,0
+Energy_Cost,Gasoline,Gasoline,Local Currency,Jun,6,0.0,0
+Energy_Cost,Steam,Steam,Local Currency,Jun,6,0.0,0
+Energy_Cost,Solid Biomass (Renewable Energy),Solid Biomass (Renewable Energy),Local Currency,Jun,6,0.0,0
+Energy_Cost,Electricity,Electricity,Ringgit,Jun,6,0.0,0
+Energy_Cost,Co-generation (Power),Co-generation (Power),Local Currency,Jun,6,0.0,0
+Energy_Cost,Solar Cell (Renewable Energy),Solar Cell (Renewable Energy),Local Currency,Jun,6,0.0,0
+Energy_Cost,Coal,Coal,Local Currency,Jul,7,0.0,0
+Energy_Cost,Lignite,Lignite,Local Currency,Jul,7,0.0,0
+Energy_Cost,Natural Gas,Natural Gas,Local Currency,Jul,7,0.0,0
+Energy_Cost,Co-generation (Heat),Co-generation (Heat),Local Currency,Jul,7,0.0,0
+Energy_Cost,LPG,LPG,Local Currency,Jul,7,0.0,0
+Energy_Cost,Heavy fuel oil / Bunker oil,Heavy fuel oil / Bunker oil,Local Currency,Jul,7,0.0,0
+Energy_Cost,Diesel,Diesel,Ringgit,Jul,7,0.0,0
+Energy_Cost,Gasoline,Gasoline,Local Currency,Jul,7,0.0,0
+Energy_Cost,Steam,Steam,Local Currency,Jul,7,0.0,0
+Energy_Cost,Solid Biomass (Renewable Energy),Solid Biomass (Renewable Energy),Local Currency,Jul,7,0.0,0
+Energy_Cost,Electricity,Electricity,Ringgit,Jul,7,0.0,0
+Energy_Cost,Co-generation (Power),Co-generation (Power),Local Currency,Jul,7,0.0,0
+Energy_Cost,Solar Cell (Renewable Energy),Solar Cell (Renewable Energy),Local Currency,Jul,7,0.0,0
+Energy_Cost,Coal,Coal,Local Currency,Aug,8,0.0,0
+Energy_Cost,Lignite,Lignite,Local Currency,Aug,8,0.0,0
+Energy_Cost,Natural Gas,Natural Gas,Local Currency,Aug,8,0.0,0
+Energy_Cost,Co-generation (Heat),Co-generation (Heat),Local Currency,Aug,8,0.0,0
+Energy_Cost,LPG,LPG,Local Currency,Aug,8,0.0,0
+Energy_Cost,Heavy fuel oil / Bunker oil,Heavy fuel oil / Bunker oil,Local Currency,Aug,8,0.0,0
+Energy_Cost,Diesel,Diesel,Ringgit,Aug,8,0.0,0
+Energy_Cost,Gasoline,Gasoline,Local Currency,Aug,8,0.0,0
+Energy_Cost,Steam,Steam,Local Currency,Aug,8,0.0,0
+Energy_Cost,Solid Biomass (Renewable Energy),Solid Biomass (Renewable Energy),Local Currency,Aug,8,0.0,0
+Energy_Cost,Electricity,Electricity,Ringgit,Aug,8,0.0,0
+Energy_Cost,Co-generation (Power),Co-generation (Power),Local Currency,Aug,8,0.0,0
+Energy_Cost,Solar Cell (Renewable Energy),Solar Cell (Renewable Energy),Local Currency,Aug,8,0.0,0
+Energy_Cost,Coal,Coal,Local Currency,Sep,9,0.0,0
+Energy_Cost,Lignite,Lignite,Local Currency,Sep,9,0.0,0
+Energy_Cost,Natural Gas,Natural Gas,Local Currency,Sep,9,0.0,0
+Energy_Cost,Co-generation (Heat),Co-generation (Heat),Local Currency,Sep,9,0.0,0
+Energy_Cost,LPG,LPG,Local Currency,Sep,9,0.0,0
+Energy_Cost,Heavy fuel oil / Bunker oil,Heavy fuel oil / Bunker oil,Local Currency,Sep,9,0.0,0
+Energy_Cost,Diesel,Diesel,Ringgit,Sep,9,0.0,0
+Energy_Cost,Gasoline,Gasoline,Local Currency,Sep,9,0.0,0
+Energy_Cost,Steam,Steam,Local Currency,Sep,9,0.0,0
+Energy_Cost,Solid Biomass (Renewable Energy),Solid Biomass (Renewable Energy),Local Currency,Sep,9,0.0,0
+Energy_Cost,Electricity,Electricity,Ringgit,Sep,9,0.0,0
+Energy_Cost,Co-generation (Power),Co-generation (Power),Local Currency,Sep,9,0.0,0
+Energy_Cost,Solar Cell (Renewable Energy),Solar Cell (Renewable Energy),Local Currency,Sep,9,0.0,0
+Energy_Cost,Coal,Coal,Local Currency,Oct,10,0.0,0
+Energy_Cost,Lignite,Lignite,Local Currency,Oct,10,0.0,0
+Energy_Cost,Natural Gas,Natural Gas,Local Currency,Oct,10,0.0,0
+Energy_Cost,Co-generation (Heat),Co-generation (Heat),Local Currency,Oct,10,0.0,0
+Energy_Cost,LPG,LPG,Local Currency,Oct,10,0.0,0
+Energy_Cost,Heavy fuel oil / Bunker oil,Heavy fuel oil / Bunker oil,Local Currency,Oct,10,0.0,0
+Energy_Cost,Diesel,Diesel,Ringgit,Oct,10,0.0,0
+Energy_Cost,Gasoline,Gasoline,Local Currency,Oct,10,0.0,0
+Energy_Cost,Steam,Steam,Local Currency,Oct,10,0.0,0
+Energy_Cost,Solid Biomass (Renewable Energy),Solid Biomass (Renewable Energy),Local Currency,Oct,10,0.0,0
+Energy_Cost,Electricity,Electricity,Ringgit,Oct,10,0.0,0
+Energy_Cost,Co-generation (Power),Co-generation (Power),Local Currency,Oct,10,0.0,0
+Energy_Cost,Solar Cell (Renewable Energy),Solar Cell (Renewable Energy),Local Currency,Oct,10,0.0,0
+Energy_Cost,Coal,Coal,Local Currency,Nov,11,0.0,0
+Energy_Cost,Lignite,Lignite,Local Currency,Nov,11,0.0,0
+Energy_Cost,Natural Gas,Natural Gas,Local Currency,Nov,11,0.0,0
+Energy_Cost,Co-generation (Heat),Co-generation (Heat),Local Currency,Nov,11,0.0,0
+Energy_Cost,LPG,LPG,Local Currency,Nov,11,0.0,0
+Energy_Cost,Heavy fuel oil / Bunker oil,Heavy fuel oil / Bunker oil,Local Currency,Nov,11,0.0,0
+Energy_Cost,Diesel,Diesel,Ringgit,Nov,11,0.0,0
+Energy_Cost,Gasoline,Gasoline,Local Currency,Nov,11,0.0,0
+Energy_Cost,Steam,Steam,Local Currency,Nov,11,0.0,0
+Energy_Cost,Solid Biomass (Renewable Energy),Solid Biomass (Renewable Energy),Local Currency,Nov,11,0.0,0
+Energy_Cost,Electricity,Electricity,Ringgit,Nov,11,0.0,0
+Energy_Cost,Co-generation (Power),Co-generation (Power),Local Currency,Nov,11,0.0,0
+Energy_Cost,Solar Cell (Renewable Energy),Solar Cell (Renewable Energy),Local Currency,Nov,11,0.0,0
+Energy_Cost,Coal,Coal,Local Currency,Dec,12,0.0,0
+Energy_Cost,Lignite,Lignite,Local Currency,Dec,12,0.0,0
+Energy_Cost,Natural Gas,Natural Gas,Local Currency,Dec,12,0.0,0
+Energy_Cost,Co-generation (Heat),Co-generation (Heat),Local Currency,Dec,12,0.0,0
+Energy_Cost,LPG,LPG,Local Currency,Dec,12,0.0,0
+Energy_Cost,Heavy fuel oil / Bunker oil,Heavy fuel oil / Bunker oil,Local Currency,Dec,12,0.0,0
+Energy_Cost,Diesel,Diesel,Ringgit,Dec,12,0.0,0
+Energy_Cost,Gasoline,Gasoline,Local Currency,Dec,12,0.0,0
+Energy_Cost,Steam,Steam,Local Currency,Dec,12,0.0,0
+Energy_Cost,Solid Biomass (Renewable Energy),Solid Biomass (Renewable Energy),Local Currency,Dec,12,0.0,0
+Energy_Cost,Electricity,Electricity,Ringgit,Dec,12,0.0,0
+Energy_Cost,Co-generation (Power),Co-generation (Power),Local Currency,Dec,12,0.0,0
+Energy_Cost,Solar Cell (Renewable Energy),Solar Cell (Renewable Energy),Local Currency,Dec,12,0.0,0
