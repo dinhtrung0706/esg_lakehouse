@@ -1,0 +1,145 @@
+category,name,original_name,unit,period,Month,value,has_data
+Water_Recycle,Water Recycle,Water Recycle/ Nước tái sử dụng,m3,Jan,1,3047.0,1
+Water_Recycle,Water Recycle,Water Recycle/ Nước tái sử dụng,m3,Feb,2,2139.0,1
+Water_Recycle,Water Recycle,Water Recycle/ Nước tái sử dụng,m3,Mar,3,5669.0,1
+Water_Recycle,Water Recycle,Water Recycle/ Nước tái sử dụng,m3,Apr,4,5231.0,1
+Water_Recycle,Water Recycle,Water Recycle/ Nước tái sử dụng,m3,May,5,4453.0,1
+Water_Recycle,Water Recycle,Water Recycle/ Nước tái sử dụng,m3,Jun,6,4245.0,1
+Water_Recycle,Water Recycle,Water Recycle/ Nước tái sử dụng,m3,Jul,7,6172.0,1
+Water_Recycle,Water Recycle,Water Recycle/ Nước tái sử dụng,m3,Aug,8,5372.0,1
+Water_Recycle,Water Recycle,Water Recycle/ Nước tái sử dụng,m3,Sep,9,4704.0,1
+Water_Recycle,Water Recycle,Water Recycle/ Nước tái sử dụng,m3,Oct,10,4552.0,1
+Water_Recycle,Water Recycle,Water Recycle/ Nước tái sử dụng,m3,Nov,11,5187.0,1
+Water_Recycle,Water Recycle,Water Recycle/ Nước tái sử dụng,m3,Dec,12,5392.0,1
+Water_Withdrawal,Surface water (Lake) (DV),Surface water (Lake) (DV) (Nước mặt),m3,Jan,1,4987.0,1
+Water_Withdrawal,Surface water (Lake) (YB),Surface water (Lake) (YB) (Nước Mặt),m3,Jan,1,0.0,1
+Water_Withdrawal,Surface water (Lake) (DV+YB),Surface water (Lake) (DV+YB) (tổng nước mặt),m3,Jan,1,4987.0,1
+Water_Withdrawal,Ground water (wells) (DV),Ground water (wells) (DV),m3,Jan,1,0.0,1
+Water_Withdrawal,Tap wate (DV),Tap wate (DV) (Nước sạch),m3,Jan,1,658.0,1
+Water_Withdrawal,Total Water Withdrawal (DV),Total Water Withdrawal (DV),m3,Jan,1,5645.0,1
+Water_Withdrawal,Total Water Withdrawal (YB),Total Water Withdrawal (YB),m3,Jan,1,0.0,1
+Water_Withdrawal,Total Water Withdrawal (DV+YB),Total Water Withdrawal (DV+YB),m3,Jan,1,5645.0,1
+Water_Withdrawal,Specific Water Withdrawal (DV),Specific Water Withdrawal (DV),m3/ton,Jan,1,0.587413,1
+Water_Withdrawal,Specific Water Withdrawal (YB),Specific Water Withdrawal (YB),m3/ton,Jan,1,0.0,0
+Water_Withdrawal,Specific Water Withdrawal (DV+YB),Specific Water Withdrawal (DV+YB),m3/ton,Jan,1,0.587413,1
+Water_Withdrawal,Surface water (Lake) (DV),Surface water (Lake) (DV) (Nước mặt),m3,Feb,2,3058.0,1
+Water_Withdrawal,Surface water (Lake) (YB),Surface water (Lake) (YB) (Nước Mặt),m3,Feb,2,0.0,1
+Water_Withdrawal,Surface water (Lake) (DV+YB),Surface water (Lake) (DV+YB) (tổng nước mặt),m3,Feb,2,3058.0,1
+Water_Withdrawal,Ground water (wells) (DV),Ground water (wells) (DV),m3,Feb,2,0.0,1
+Water_Withdrawal,Tap wate (DV),Tap wate (DV) (Nước sạch),m3,Feb,2,1198.0,1
+Water_Withdrawal,Total Water Withdrawal (DV),Total Water Withdrawal (DV),m3,Feb,2,4256.0,1
+Water_Withdrawal,Total Water Withdrawal (YB),Total Water Withdrawal (YB),m3,Feb,2,0.0,1
+Water_Withdrawal,Total Water Withdrawal (DV+YB),Total Water Withdrawal (DV+YB),m3,Feb,2,4256.0,1
+Water_Withdrawal,Specific Water Withdrawal (DV),Specific Water Withdrawal (DV),m3/ton,Feb,2,0.674476,1
+Water_Withdrawal,Specific Water Withdrawal (YB),Specific Water Withdrawal (YB),m3/ton,Feb,2,0.0,0
+Water_Withdrawal,Specific Water Withdrawal (DV+YB),Specific Water Withdrawal (DV+YB),m3/ton,Feb,2,0.674476,1
+Water_Withdrawal,Surface water (Lake) (DV),Surface water (Lake) (DV) (Nước mặt),m3,Mar,3,6675.0,1
+Water_Withdrawal,Surface water (Lake) (YB),Surface water (Lake) (YB) (Nước Mặt),m3,Mar,3,0.0,1
+Water_Withdrawal,Surface water (Lake) (DV+YB),Surface water (Lake) (DV+YB) (tổng nước mặt),m3,Mar,3,6675.0,1
+Water_Withdrawal,Ground water (wells) (DV),Ground water (wells) (DV),m3,Mar,3,0.0,1
+Water_Withdrawal,Tap wate (DV),Tap wate (DV) (Nước sạch),m3,Mar,3,1079.0,1
+Water_Withdrawal,Total Water Withdrawal (DV),Total Water Withdrawal (DV),m3,Mar,3,7754.0,1
+Water_Withdrawal,Total Water Withdrawal (YB),Total Water Withdrawal (YB),m3,Mar,3,0.0,1
+Water_Withdrawal,Total Water Withdrawal (DV+YB),Total Water Withdrawal (DV+YB),m3,Mar,3,7754.0,1
+Water_Withdrawal,Specific Water Withdrawal (DV),Specific Water Withdrawal (DV),m3/ton,Mar,3,0.437265,1
+Water_Withdrawal,Specific Water Withdrawal (YB),Specific Water Withdrawal (YB),m3/ton,Mar,3,0.0,0
+Water_Withdrawal,Specific Water Withdrawal (DV+YB),Specific Water Withdrawal (DV+YB),m3/ton,Mar,3,0.437265,1
+Water_Withdrawal,Surface water (Lake) (DV),Surface water (Lake) (DV) (Nước mặt),m3,Apr,4,6392.0,1
+Water_Withdrawal,Surface water (Lake) (YB),Surface water (Lake) (YB) (Nước Mặt),m3,Apr,4,0.0,1
+Water_Withdrawal,Surface water (Lake) (DV+YB),Surface water (Lake) (DV+YB) (tổng nước mặt),m3,Apr,4,6392.0,1
+Water_Withdrawal,Ground water (wells) (DV),Ground water (wells) (DV),m3,Apr,4,0.0,1
+Water_Withdrawal,Tap wate (DV),Tap wate (DV) (Nước sạch),m3,Apr,4,1292.0,1
+Water_Withdrawal,Total Water Withdrawal (DV),Total Water Withdrawal (DV),m3,Apr,4,7684.0,1
+Water_Withdrawal,Total Water Withdrawal (YB),Total Water Withdrawal (YB),m3,Apr,4,0.0,1
+Water_Withdrawal,Total Water Withdrawal (DV+YB),Total Water Withdrawal (DV+YB),m3,Apr,4,7684.0,1
+Water_Withdrawal,Specific Water Withdrawal (DV),Specific Water Withdrawal (DV),m3/ton,Apr,4,0.486469,1
+Water_Withdrawal,Specific Water Withdrawal (YB),Specific Water Withdrawal (YB),m3/ton,Apr,4,0.0,0
+Water_Withdrawal,Specific Water Withdrawal (DV+YB),Specific Water Withdrawal (DV+YB),m3/ton,Apr,4,0.486469,1
+Water_Withdrawal,Surface water (Lake) (DV),Surface water (Lake) (DV) (Nước mặt),m3,May,5,6393.0,1
+Water_Withdrawal,Surface water (Lake) (YB),Surface water (Lake) (YB) (Nước Mặt),m3,May,5,0.0,1
+Water_Withdrawal,Surface water (Lake) (DV+YB),Surface water (Lake) (DV+YB) (tổng nước mặt),m3,May,5,6393.0,1
+Water_Withdrawal,Ground water (wells) (DV),Ground water (wells) (DV),m3,May,5,0.0,1
+Water_Withdrawal,Tap wate (DV),Tap wate (DV) (Nước sạch),m3,May,5,631.0,1
+Water_Withdrawal,Total Water Withdrawal (DV),Total Water Withdrawal (DV),m3,May,5,7024.0,1
+Water_Withdrawal,Total Water Withdrawal (YB),Total Water Withdrawal (YB),m3,May,5,0.0,1
+Water_Withdrawal,Total Water Withdrawal (DV+YB),Total Water Withdrawal (DV+YB),m3,May,5,7024.0,1
+Water_Withdrawal,Specific Water Withdrawal (DV),Specific Water Withdrawal (DV),m3/ton,May,5,0.436496,1
+Water_Withdrawal,Specific Water Withdrawal (YB),Specific Water Withdrawal (YB),m3/ton,May,5,0.0,0
+Water_Withdrawal,Specific Water Withdrawal (DV+YB),Specific Water Withdrawal (DV+YB),m3/ton,May,5,0.436496,1
+Water_Withdrawal,Surface water (Lake) (DV),Surface water (Lake) (DV) (Nước mặt),m3,Jun,6,6254.0,1
+Water_Withdrawal,Surface water (Lake) (YB),Surface water (Lake) (YB) (Nước Mặt),m3,Jun,6,0.0,1
+Water_Withdrawal,Surface water (Lake) (DV+YB),Surface water (Lake) (DV+YB) (tổng nước mặt),m3,Jun,6,6254.0,1
+Water_Withdrawal,Ground water (wells) (DV),Ground water (wells) (DV),m3,Jun,6,0.0,1
+Water_Withdrawal,Tap wate (DV),Tap wate (DV) (Nước sạch),m3,Jun,6,1524.0,1
+Water_Withdrawal,Total Water Withdrawal (DV),Total Water Withdrawal (DV),m3,Jun,6,7778.0,1
+Water_Withdrawal,Total Water Withdrawal (YB),Total Water Withdrawal (YB),m3,Jun,6,0.0,1
+Water_Withdrawal,Total Water Withdrawal (DV+YB),Total Water Withdrawal (DV+YB),m3,Jun,6,7778.0,1
+Water_Withdrawal,Specific Water Withdrawal (DV),Specific Water Withdrawal (DV),m3/ton,Jun,6,0.474037,1
+Water_Withdrawal,Specific Water Withdrawal (YB),Specific Water Withdrawal (YB),m3/ton,Jun,6,0.0,0
+Water_Withdrawal,Specific Water Withdrawal (DV+YB),Specific Water Withdrawal (DV+YB),m3/ton,Jun,6,0.474037,1
+Water_Withdrawal,Surface water (Lake) (DV),Surface water (Lake) (DV) (Nước mặt),m3,Jul,7,6934.0,1
+Water_Withdrawal,Surface water (Lake) (YB),Surface water (Lake) (YB) (Nước Mặt),m3,Jul,7,0.0,1
+Water_Withdrawal,Surface water (Lake) (DV+YB),Surface water (Lake) (DV+YB) (tổng nước mặt),m3,Jul,7,6934.0,1
+Water_Withdrawal,Ground water (wells) (DV),Ground water (wells) (DV),m3,Jul,7,0.0,1
+Water_Withdrawal,Tap wate (DV),Tap wate (DV) (Nước sạch),m3,Jul,7,2083.0,1
+Water_Withdrawal,Total Water Withdrawal (DV),Total Water Withdrawal (DV),m3,Jul,7,9017.0,1
+Water_Withdrawal,Total Water Withdrawal (YB),Total Water Withdrawal (YB),m3,Jul,7,0.0,1
+Water_Withdrawal,Total Water Withdrawal (DV+YB),Total Water Withdrawal (DV+YB),m3,Jul,7,9017.0,1
+Water_Withdrawal,Specific Water Withdrawal (DV),Specific Water Withdrawal (DV),m3/ton,Jul,7,0.488612,1
+Water_Withdrawal,Specific Water Withdrawal (YB),Specific Water Withdrawal (YB),m3/ton,Jul,7,0.0,0
+Water_Withdrawal,Specific Water Withdrawal (DV+YB),Specific Water Withdrawal (DV+YB),m3/ton,Jul,7,0.488612,1
+Water_Withdrawal,Surface water (Lake) (DV),Surface water (Lake) (DV) (Nước mặt),m3,Aug,8,6241.0,1
+Water_Withdrawal,Surface water (Lake) (YB),Surface water (Lake) (YB) (Nước Mặt),m3,Aug,8,0.0,1
+Water_Withdrawal,Surface water (Lake) (DV+YB),Surface water (Lake) (DV+YB) (tổng nước mặt),m3,Aug,8,6241.0,1
+Water_Withdrawal,Ground water (wells) (DV),Ground water (wells) (DV),m3,Aug,8,0.0,1
+Water_Withdrawal,Tap wate (DV),Tap wate (DV) (Nước sạch),m3,Aug,8,1586.0,1
+Water_Withdrawal,Total Water Withdrawal (DV),Total Water Withdrawal (DV),m3,Aug,8,7827.0,1
+Water_Withdrawal,Total Water Withdrawal (YB),Total Water Withdrawal (YB),m3,Aug,8,0.0,1
+Water_Withdrawal,Total Water Withdrawal (DV+YB),Total Water Withdrawal (DV+YB),m3,Aug,8,7827.0,1
+Water_Withdrawal,Specific Water Withdrawal (DV),Specific Water Withdrawal (DV),m3/ton,Aug,8,0.483756,1
+Water_Withdrawal,Specific Water Withdrawal (YB),Specific Water Withdrawal (YB),m3/ton,Aug,8,0.0,0
+Water_Withdrawal,Specific Water Withdrawal (DV+YB),Specific Water Withdrawal (DV+YB),m3/ton,Aug,8,0.483756,1
+Water_Withdrawal,Surface water (Lake) (DV),Surface water (Lake) (DV) (Nước mặt),m3,Sep,9,5438.0,1
+Water_Withdrawal,Surface water (Lake) (YB),Surface water (Lake) (YB) (Nước Mặt),m3,Sep,9,0.0,1
+Water_Withdrawal,Surface water (Lake) (DV+YB),Surface water (Lake) (DV+YB) (tổng nước mặt),m3,Sep,9,5438.0,1
+Water_Withdrawal,Ground water (wells) (DV),Ground water (wells) (DV),m3,Sep,9,0.0,0
+Water_Withdrawal,Tap wate (DV),Tap wate (DV) (Nước sạch),m3,Sep,9,1369.0,1
+Water_Withdrawal,Total Water Withdrawal (DV),Total Water Withdrawal (DV),m3,Sep,9,6807.0,1
+Water_Withdrawal,Total Water Withdrawal (YB),Total Water Withdrawal (YB),m3,Sep,9,0.0,1
+Water_Withdrawal,Total Water Withdrawal (DV+YB),Total Water Withdrawal (DV+YB),m3,Sep,9,6807.0,1
+Water_Withdrawal,Specific Water Withdrawal (DV),Specific Water Withdrawal (DV),m3/ton,Sep,9,0.560858,1
+Water_Withdrawal,Specific Water Withdrawal (YB),Specific Water Withdrawal (YB),m3/ton,Sep,9,0.0,0
+Water_Withdrawal,Specific Water Withdrawal (DV+YB),Specific Water Withdrawal (DV+YB),m3/ton,Sep,9,0.560858,1
+Water_Withdrawal,Surface water (Lake) (DV),Surface water (Lake) (DV) (Nước mặt),m3,Oct,10,6081.0,1
+Water_Withdrawal,Surface water (Lake) (YB),Surface water (Lake) (YB) (Nước Mặt),m3,Oct,10,0.0,1
+Water_Withdrawal,Surface water (Lake) (DV+YB),Surface water (Lake) (DV+YB) (tổng nước mặt),m3,Oct,10,6081.0,1
+Water_Withdrawal,Ground water (wells) (DV),Ground water (wells) (DV),m3,Oct,10,0.0,0
+Water_Withdrawal,Tap wate (DV),Tap wate (DV) (Nước sạch),m3,Oct,10,1289.0,1
+Water_Withdrawal,Total Water Withdrawal (DV),Total Water Withdrawal (DV),m3,Oct,10,7370.0,1
+Water_Withdrawal,Total Water Withdrawal (YB),Total Water Withdrawal (YB),m3,Oct,10,0.0,1
+Water_Withdrawal,Total Water Withdrawal (DV+YB),Total Water Withdrawal (DV+YB),m3,Oct,10,7370.0,1
+Water_Withdrawal,Specific Water Withdrawal (DV),Specific Water Withdrawal (DV),m3/ton,Oct,10,0.591263,1
+Water_Withdrawal,Specific Water Withdrawal (YB),Specific Water Withdrawal (YB),m3/ton,Oct,10,0.0,0
+Water_Withdrawal,Specific Water Withdrawal (DV+YB),Specific Water Withdrawal (DV+YB),m3/ton,Oct,10,0.591263,1
+Water_Withdrawal,Surface water (Lake) (DV),Surface water (Lake) (DV) (Nước mặt),m3,Nov,11,6741.0,1
+Water_Withdrawal,Surface water (Lake) (YB),Surface water (Lake) (YB) (Nước Mặt),m3,Nov,11,0.0,1
+Water_Withdrawal,Surface water (Lake) (DV+YB),Surface water (Lake) (DV+YB) (tổng nước mặt),m3,Nov,11,6741.0,1
+Water_Withdrawal,Ground water (wells) (DV),Ground water (wells) (DV),m3,Nov,11,0.0,0
+Water_Withdrawal,Tap wate (DV),Tap wate (DV) (Nước sạch),m3,Nov,11,1726.0,1
+Water_Withdrawal,Total Water Withdrawal (DV),Total Water Withdrawal (DV),m3,Nov,11,8467.0,1
+Water_Withdrawal,Total Water Withdrawal (YB),Total Water Withdrawal (YB),m3,Nov,11,0.0,1
+Water_Withdrawal,Total Water Withdrawal (DV+YB),Total Water Withdrawal (DV+YB),m3,Nov,11,8467.0,1
+Water_Withdrawal,Specific Water Withdrawal (DV),Specific Water Withdrawal (DV),m3/ton,Nov,11,0.687025,1
+Water_Withdrawal,Specific Water Withdrawal (YB),Specific Water Withdrawal (YB),m3/ton,Nov,11,0.0,0
+Water_Withdrawal,Specific Water Withdrawal (DV+YB),Specific Water Withdrawal (DV+YB),m3/ton,Nov,11,0.687025,1
+Water_Withdrawal,Surface water (Lake) (DV),Surface water (Lake) (DV) (Nước mặt),m3,Dec,12,7894.0,1
+Water_Withdrawal,Surface water (Lake) (YB),Surface water (Lake) (YB) (Nước Mặt),m3,Dec,12,0.0,1
+Water_Withdrawal,Surface water (Lake) (DV+YB),Surface water (Lake) (DV+YB) (tổng nước mặt),m3,Dec,12,7894.0,1
+Water_Withdrawal,Ground water (wells) (DV),Ground water (wells) (DV),m3,Dec,12,0.0,0
+Water_Withdrawal,Tap wate (DV),Tap wate (DV) (Nước sạch),m3,Dec,12,1064.0,1
+Water_Withdrawal,Total Water Withdrawal (DV),Total Water Withdrawal (DV),m3,Dec,12,8958.0,1
+Water_Withdrawal,Total Water Withdrawal (YB),Total Water Withdrawal (YB),m3,Dec,12,0.0,1
+Water_Withdrawal,Total Water Withdrawal (DV+YB),Total Water Withdrawal (DV+YB),m3,Dec,12,8958.0,1
+Water_Withdrawal,Specific Water Withdrawal (DV),Specific Water Withdrawal (DV),m3/ton,Dec,12,0.574958,1
+Water_Withdrawal,Specific Water Withdrawal (YB),Specific Water Withdrawal (YB),m3/ton,Dec,12,0.0,1
+Water_Withdrawal,Specific Water Withdrawal (DV+YB),Specific Water Withdrawal (DV+YB),m3/ton,Dec,12,0.559737,1
